@@ -1,0 +1,137 @@
+{
+ "path": "/eye-care-services/eye-conditions/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+ "h1": "Eye Condition Treatment",
+ "head": {
+  "title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+  "robots": "index,follow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Condition Treatment",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-treatments.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-treatments.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Conditions | Eye Doctor & Eye Exam Near You",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-treatments.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+    "name": "Eye Condition Treatment",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Happy20Parents20with20Child201280x480_preview1.jpeg\" alt=\"Happy Parents with Child, do they need eye condition treatment?\"></p><p>Eye problems can range from mild to severe; some are chronic, while others may resolve on their own, never to appear again. The articles below will give you a basic understanding of some of these problems and their implications. The cardinal rule is if your eyes don’t look good, feel good or see well, you should visit your doctor.</p><p>The following is a short list of common eye conditions we treat, such as <a href=\"/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/\">astigmatism</a>, dry eye syndrome and presbyopia. For information about cataracts, glaucoma, macular degeneration and diabetic retinopathy please see <a href=\"/eye-care-services/management-of-ocular-diseases/\">Eye Disease Management</a>. A more comprehensive list of eye conditions can be found in our <a href=\"/eye-care-services/your-eye-health/eye-conditions-info/\">Eye Health Library</a>.</p><p>Please book an appointment with our eye doctor if you have any concerns.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Astigmatism",
+           "href": "/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+           "summary": "Astigmatism is a very common eye condition that's easily corrected with eyeglasses or contact lenses and on some occasions, surgery.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Dry Eyes",
+           "href": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+           "summary": "Dry eye syndrome (DES) is a chronic condition that develops when your eyes do not produce and maintain enough tears to keep the eye’s surface lubricated.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Presbyopia Treatment",
+           "href": "/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+           "summary": "As we reach middle age, particularly after age 40, it is common to start to experience difficulty with reading and performing other tasks that require near vision. This is because with age, the lens of our eye becomes increasingly inflexible, making it harder to focus on close objects. This condition is called presbyopia and eventually it happens to some extent, to everyone as they age.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__eye-conditions",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Condition Treatment",
+   "path": "/eye-care-services/eye-conditions/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+   "title": "Astigmatism"
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+   "title": "Dry Eyes"
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+   "title": "Presbyopia Treatment"
+  }
+ ]
+}

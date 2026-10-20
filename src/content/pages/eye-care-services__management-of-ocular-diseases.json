@@ -1,0 +1,148 @@
+{
+ "path": "/eye-care-services/management-of-ocular-diseases/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+ "h1": "Eye Disease Management",
+ "head": {
+  "title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Disease Management",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-EyeDisease.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-EyeDisease.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Disease Management | Eye Exam | Eye Doctor Near You",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-EyeDisease.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+    "name": "Eye Disease Management",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Mother-Father-and-Son-1280x480.jpg\" alt=\"Mother Father and Son, multicultural family. It's worth preventing vision loss with early diagnosis of eye disease.\"></h2><h2>Ocular Disease Diagnosis and Treatment</h2><p>Preserving the eyesight of our patients so they can get the most out of life is our greatest goal. Our Eye Care Clinic makes it a policy to ensure that all staff members are up-to-date on the latest technology and techniques to make your visit as comfortable and effective as possible. As optometric technology changes, it is even more important to visit an eye doctor who has all the right optometry qualifications and follows the latest developments in eye care.</p><p>Utilizing cutting edge technology, we diagnose and manage, with greater precision, diseases like Glaucoma, Macular Degeneration, <a href=\"/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/\">Cataracts</a>, and Diabetic Retinopathy. Earlier and more precise diagnosis means earlier treatment and better outcomes. We can take an aggressive approach to diseases that previously had few treatment options. Great advances have been made in the treatment of these diseases.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Cataract Surgery Co-Management",
+           "href": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+           "summary": "Cataracts are a common cause of vision loss after age 55. Learn more about recognizing cataract symptoms, protecting your eyes and understanding cataract surgery.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Diabetic Eye Disease",
+           "href": "/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+           "summary": "Diabetes and vision go hand in hand. If you have diabetes, you need to know that having this systemic disease puts you at greater risk for developing vision problems.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Glaucoma Testing & Treatment",
+           "href": "/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+           "summary": "Glaucoma is a condition that causes damage to your eye's optic nerve and gets worse over time, so nipping it in the bud will always be better for the person being tested.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Macular Degeneration",
+           "href": "/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+           "summary": "The macula is the portion of the retina which provides sharp, central vision, and is involved in processing the fine details of the image. The breakdown of the macula is a disease called macular degeneration.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__management-of-ocular-diseases",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Disease Management",
+   "path": "/eye-care-services/management-of-ocular-diseases/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+   "title": "Cataract Surgery Co-Management"
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+   "title": "Glaucoma Testing & Treatment"
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+   "title": "Diabetic Eye Disease"
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+   "title": "Macular Degeneration"
+  }
+ ]
+}

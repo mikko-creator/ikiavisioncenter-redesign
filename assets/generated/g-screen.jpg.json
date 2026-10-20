@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-SCREEN",
+  "file": "assets/generated/g-screen.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A young professional working late at night, their face lit by the cool teal glow of a laptop screen that stays out of frame, wearing clear computer glasses with a soft reflection of the screen glow on the lenses, a warm amber desk lamp glowing behind them on the other side, focused calm expression, dark room, the screen itself not visible; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3323098414,
+  "requestId": "01a15739-8890-76e0-80f9-bedee094fea9",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "2b7767043060d394b5944290af389d0d0cf404248b2dfb39734e6d9f6f0bae5e",
+  "raw": "tmp/img/raw/G-SCREEN.1792464761294.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:52:42.984Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "teal screen glow on the face and clear glasses, amber lamp behind; the screen itself is out of frame; the hoodie zip tape (zoomed) is plain; no text",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

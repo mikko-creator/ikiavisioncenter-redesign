@@ -1,0 +1,101 @@
+/* base.css - "Iris Noir" foundation (FOUNDATION lane): fonts, reset, the dark ground, type defaults, links, focus,
+   selection, scrollbar, reduced motion. Tokens live in tokens.css. */
+
+/* ---------- fonts (self-hosted, SIL OFL 1.1: assets/fonts/OFL.txt) ---------- */
+@font-face {
+  font-family: 'Manrope'; font-style: normal; font-weight: 200 800; font-display: swap;
+  src: url('/assets/fonts/manrope-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Instrument Serif'; font-style: normal; font-weight: 400; font-display: optional;
+  src: url('/assets/fonts/instrument-serif-normal-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Instrument Serif'; font-style: italic; font-weight: 400; font-display: optional;
+  src: url('/assets/fonts/instrument-serif-italic-latin.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* width-matched fallbacks (measured 2026-10-20 in Chrome, tmp/lab/font-metrics.mjs: Instrument Serif = 81.0% of Times New
+   Roman's advance for the same text, Manrope 400 = 100.4% of Arial): a fallback paint keeps the same line lengths, so
+   headings do not re-wrap badly. Line boxes come from the explicit line-heights, so no ascent/descent overrides. */
+@font-face { font-family: 'Manrope Fallback'; src: local('Arial'), local('Helvetica Neue'), local('Helvetica'); size-adjust: 100%; }
+@font-face { font-family: 'Instrument Serif Fallback'; src: local('Times New Roman'), local('Times'); size-adjust: 81%; }
+:root {
+  --f-display: 'Instrument Serif', 'Instrument Serif Fallback', 'Iowan Old Style', 'Palatino Linotype', Georgia, serif;
+  --f-sans: 'Manrope', 'Manrope Fallback', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+}
+
+/* ---------- reset ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--header-h) + 24px); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+body, h1, h2, h3, h4, h5, h6, p, figure, blockquote, dl, dd, ul, ol { margin: 0; }
+ul[class], ol[class] { padding: 0; list-style: none; }
+img, picture, video, svg, canvas { display: block; max-width: 100%; }
+img, video { height: auto; }
+input, button, textarea, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+table { border-collapse: collapse; }
+[hidden] { display: none !important; }
+address { font-style: normal; }
+
+/* ---------- the ground: a warm dark stage, never flat #000 ---------- */
+html { background: var(--void); color-scheme: dark; }
+body {
+  min-height: 100vh; min-height: 100dvh; overflow-x: clip;
+  background: var(--night); color: var(--on-dark);
+  font-family: var(--f-sans); font-size: var(--step-0); line-height: var(--lh-body); font-weight: 450;
+  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; text-rendering: optimizeLegibility;
+}
+main { display: block; position: relative; overflow-x: clip; } /* horizontal clip only: protrusions still cross vertical seams */
+main:focus { outline: none; }
+
+/* ---------- type ---------- */
+h1, h2, h3, h4, h5, h6 { font-family: var(--f-display); font-weight: 400; line-height: var(--lh-snug); letter-spacing: -.005em; text-wrap: balance; }
+h1 { font-size: var(--step-5); line-height: var(--lh-tight); letter-spacing: -.015em; }
+h2 { font-size: var(--step-4); line-height: 1.06; letter-spacing: -.01em; }
+h3 { font-size: var(--step-2); }
+h4 { font-size: var(--step-1); font-family: var(--f-sans); font-weight: 700; letter-spacing: 0; }
+h5, h6 { font-size: var(--step-0); font-family: var(--f-sans); font-weight: 700; letter-spacing: .02em; }
+p { text-wrap: pretty; }
+strong, b { font-weight: 700; }
+small { font-size: var(--step--1); }
+em, i { font-style: italic; }
+hr { border: 0; height: 1px; background: linear-gradient(90deg, transparent, var(--glass-line-hi), transparent); margin: var(--sp-7) 0; }
+
+/* ---------- links: an amber underline drawn from the left ---------- */
+a { color: var(--link-on-dark); text-decoration: none; }
+:where(p, td, dd, figcaption, blockquote, address, .prose, .lede, .accordion__body) a:not([class]),
+a.ul {
+  background-image: linear-gradient(currentColor, currentColor), linear-gradient(rgba(255, 155, 82, .38), rgba(255, 155, 82, .38));
+  background-size: 0% 1.5px, 100% 1px; background-position: 0 100%, 0 100%; background-repeat: no-repeat;
+  padding-bottom: 1px; transition: background-size var(--dur-2) var(--ease-out), color var(--dur-1);
+}
+:where(p, td, dd, figcaption, blockquote, address, .prose, .lede, .accordion__body) a:not([class]):hover,
+a.ul:hover { background-size: 100% 1.5px, 100% 1px; color: var(--amber-hot); }
+.canvas :where(p, td, dd, figcaption, blockquote, address, .prose, .lede, .accordion__body) a:not([class]),
+.canvas a.ul, .on-paper a.ul { color: var(--link); background-image: linear-gradient(var(--amber), var(--amber)), linear-gradient(rgba(194, 88, 1, .32), rgba(194, 88, 1, .32)); }
+.canvas :where(p, td, dd, figcaption, blockquote, address, .prose, .lede, .accordion__body) a:not([class]):hover { color: var(--amber); }
+
+/* ---------- focus + selection + scrollbar ---------- */
+:focus { outline: none; }
+:focus-visible { outline: 2px solid var(--amber-hot); outline-offset: 3px; border-radius: 4px; box-shadow: 0 0 0 6px rgba(252, 87, 0, .22); }
+::selection { background: rgba(252, 87, 0, .85); color: #fff; }
+html { scrollbar-color: var(--ash) var(--void); scrollbar-width: thin; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--void); }
+::-webkit-scrollbar-thumb { background: var(--ash); border-radius: 10px; border: 2px solid var(--void); }
+::-webkit-scrollbar-thumb:hover { background: var(--amber); }
+
+/* ---------- utilities ---------- */
+.sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.skip { position: absolute; left: 16px; top: -100px; z-index: 200; padding: 12px 18px; border-radius: var(--r-pill); background: var(--amber); color: #fff; font-weight: 700; transition: top var(--dur-1); }
+.skip:focus { top: 12px; }
+.nowrap { white-space: nowrap; }
+
+/* ---------- reduced motion (motion.css adds the reveal overrides) ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; transition-delay: 0s !important; scroll-behavior: auto !important; }
+}

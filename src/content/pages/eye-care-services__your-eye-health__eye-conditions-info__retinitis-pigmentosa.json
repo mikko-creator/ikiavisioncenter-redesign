@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Retinitis Pigmentosa",
+ "h1": "Retinitis Pigmentosa",
+ "head": {
+  "title": "Retinitis Pigmentosa",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Retinitis Pigmentosa",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+   "twitter:card": "summary",
+   "twitter:title": "Retinitis Pigmentosa",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+    "name": "Retinitis Pigmentosa",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Retinitis pigmentosa (RP) is an eye disease that is inherited, and very rare. About one in four thousand Americans are affected by this disease. The retina, which is the light-sensitive portion of the eye, degenerates progressively over time. The result of this degeneration is the loss of peripheral vision, loss of central vision, night blindness, and sometimes blindness.</p><p>Retinitis Pigmentosa Symptoms</p><p>Childhood is when the first symptoms of retinitis pigmentosa generally appear. Usually both eyes are implicated in the disease. Sometimes RP doesn’t appear until older age, at age 30 or even older.</p><p>The main symptom of RP in the beginning stages is night blindness. Tunnel vision may develop in the later stages of the disease, where central vision is affected, and only a small portion of sight is available.</p><p>One study of patients suffering from RP revealed that, in patients 45 years and older, 52% had at least 20/40 central vision in one eye, 25% had 20/200 vision or below, and 0.5% were completely blind.</p><p>Causes of Retinitis Pigmentosa</p><p>Very little is known about the causes behind RP, beyond that it is an inherited disease. Scientists believe that defective molecules in our genes cause RP. This explains why the disease affects patients so differently.</p><p>If one parent carries the defective gene, it’s possible to get RP, even if your parents do not have the disease. Approximately one percent of the population are carriers of the RP recessive gene. Sometimes this recessive gene is passed on to the child, who will then develop retinitis pigmentosa.</p><p>RP affects the retina in the eye. The disease causes the light-sensitive cells that are located in the retina to die gradually. Most often, the cells that are used for night and peripheral vision, called rod cells, are affected. Sometimes the cells that are used to see color and for central vision, called cones, are also affected.</p><p>Diagnosis and Treatment</p><p>The main diagnostic tool employed is visual field testing. This test determines how much peripheral vision loss has occurred. Other diagnostic tools may be used to test night vision and color vision.</p><p>Few treatments exist for RP. What is available helps conditions associated with RP, not the disease itself. For patients older than 25, there is a prosthesis system that was recently approved. This system captures images via glasses, and transmits the signal captures to an implanted device located on the retina.</p><p>Most treatments center around helping the patient learn to deal with their vision loss. Psychological counseling, and occupational therapy, may be recommended. Technological instruments that help with low vision, such as illuminated magnifiers, can help patients with RP see as well as possible with their limited vision. Some doctors recommend vitamin A supplements as there is some evidence that vitamin A might help delay the progression of the disease.</p><p>For the future, scientists are hopeful that there will be additional treatments for RP, including new drug treatments and retinal implants.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__retinitis-pigmentosa",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Retinitis Pigmentosa",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/"
+  }
+ ],
+ "children": []
+}

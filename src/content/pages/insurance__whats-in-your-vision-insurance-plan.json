@@ -1,0 +1,97 @@
+{
+ "path": "/insurance/whats-in-your-vision-insurance-plan/",
+ "url": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+ "kind": "page",
+ "section": "insurance",
+ "title": "What’s in Your Vision Insurance Plan",
+ "h1": "What’s in Your Vision Insurance Plan",
+ "head": {
+  "title": "What’s in Your Vision Insurance Plan",
+  "description": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+  "canonical": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "What’s in Your Vision Insurance Plan",
+   "og:description": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+   "twitter:card": "summary",
+   "twitter:title": "What’s in Your Vision Insurance Plan",
+   "twitter:description": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+    "url": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+    "name": "What&#8217;s in Your Vision Insurance Plan",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Insurance",
+   "path": "/insurance/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>There are more options for vision insurance today than ever before. Whether your vision insurance plan is one you choose as an additional benefit in your employer health benefits package, or vision coverage you seek on your own through an insurance company or vision benefits provider, there are basics you should understand to make the most of vision insurance.</p><h2>Understanding Vision Plans and Coverage</h2><p>The options available to you in vision plans can be a little daunting. If you’ve chosen your vision insurance through your employer, your HR department and the insurance company literature—and websites—are a good place to start to understand what your vision insurance plan does and does not cover.<br> In general, there are two types of vision insurance plans:</p><h2>Vision Benefits Package</h2><p>Often purchased as an addition to traditional employer-provided healthcare, this type of vision insurance includes a fixed set of benefits related to eye health and maintenance, such as routine eye exams and testing, discounts for corrective eyewear, even benefits that reduce the cost of eye surgery. Vision insurance like this typically includes a network of participating eyecare professionals who have agreed to honor the plan particulars.</p><p>This type of vision insurance plan has evolved over the years to include more personalized choice for the consumer in the form of defined contribution vision coverage—where you, the consumer, choose the particular services and discount offerings based on what you expect your vision expenses to be.</p><p>Many of these vision plans involve using pre-tax dollars deducted automatically by your employer in the form of Flexible Spending Accounts, ‘Cafeteria’ Plans, Health Savings Accounts or Health Reimbursement Accounts. Each has particular tax advantages and drawbacks you should discuss in full with your vision plan administrator or provider, and if necessary, a tax professional.</p><h2>Vision Discount Plans</h2><p>While similar to traditional vision benefits, this type of vision insurance is generally less flexible than a vision benefits package because it offers flat discounts across the board for a wide menu of vision-related services, including specified discounts on eye exams, eyeglasses and contact lenses, even many surgical procedures.</p><p>You agree to pay the difference in cost in full—however these types of plans generally offer lower premiums than traditional vision benefit plans.<br> Vision insurance like this typically includes a “network” of participating eyecare professionals who have agreed to honor the stated discounts within the vision plan, so long as you agree to pay the difference.</p><h2>Vision Insurance Planning</h2><p>It may sound confusing at first, but you can plan to use your vision insurance to your maximum benefit by fully understanding what is specifically covered or not covered under your vision insurance plan, and by also discussing options with your eyecare professional to see how best to apply your particular vision coverage to your eyecare expenses.</p><p>This planning includes fully understanding any traditional health insurance coverage you may have. Unexpected eye injury, or the onset of certain eye diseases and their related treatments is often covered by your traditional health insurance rather than your specific vision insurance plan.</p><p>The point here is—it’s your vision insurance, your vision coverage—understanding your particular vision insurance plan is critical to maximizing those benefits.</p><h2>Use it or lose it. Vision insurance benefits do expire.</h2><p>Depending upon the type of vision insurance plan you’ve enrolled in, your vision insurance benefits may expire annually. This means if you don’t “use it” you “lose it” until the next year. Since you are contributing your hard-earned money toward your vision coverage, there’s really no excuse to skip your annual eye exam or see your optometrist should you experience any changes in your vision.</p><p>What’s more, many of the defined contribution vision insurance plans (Flexible Spending Accounts in particular) don’t allow for your deposited money to roll over into the next year. If you don’t spend what you’ve allocated, you may be at risk of losing that money entirely.</p><p>Think beyond the traditional examination to a second pair of eyeglasses, prescription sunglasses, photochromic lenses, or eyewear that’s specifically designed to fit your lifestyle. All might be within ready reach if you maximize your vision insurance coverage.</p><p>Special thanks to the National Eye Institute, National Institutes of Health, for source material that aided in the creation of this website.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "insurance__whats-in-your-vision-insurance-plan",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Our Clinic in Houston Accepts The Following:",
+   "path": "/insurance/"
+  },
+  {
+   "name": "What’s in Your Vision Insurance Plan",
+   "path": "/insurance/whats-in-your-vision-insurance-plan/"
+  }
+ ],
+ "children": []
+}

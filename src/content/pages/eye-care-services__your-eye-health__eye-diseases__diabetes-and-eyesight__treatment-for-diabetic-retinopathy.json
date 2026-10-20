@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Treatment for Diabetic Retinopathy",
+ "h1": "Treatment for Diabetic Retinopathy",
+ "head": {
+  "title": "Treatment for Diabetic Retinopathy",
+  "description": "If you have been diagnosed with Diabetic Retinopathy you need to understand your options and visit your optometrist. Click here for an explanation.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Treatment for Diabetic Retinopathy",
+   "og:description": "If you have been diagnosed with Diabetic Retinopathy you need to understand your options and visit your optometrist. Click here for an explanation.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+   "twitter:card": "summary",
+   "twitter:title": "Treatment for Diabetic Retinopathy",
+   "twitter:description": "If you have been diagnosed with Diabetic Retinopathy you need to understand your options and visit your optometrist. Click here for an explanation.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+    "name": "Treatment for Diabetic Retinopathy",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Diabetes and Eyesight",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>95% of people diagnosed with diabetic retinopathy, if treated promptly, can avoid significant vision loss.</p><p>Laser photocoagulation treatment seals off blood vessels that are leaking into the eye, and stops new blood vessels from growing. This laser treatment only takes a few moments, and is painless.</p><p>Sometimes in diabetic retinopathy blood leaks into the vitreous humor in the eye, clouding vision. Some eye doctors wait before choosing treatment, as the blood may dissipate by itself. Another treatment option is a vitrectomy, which removes blood that has already leaked into the vitreous humor.</p><p>To improve the supply of blood to the core inner portion of the retina, a laser may be used to destroy tissue on the outside of the retina which is not essential for basic vision. This procedure is used to save vision.</p><p>Lucentis is a medication that is administered by an eye doctor using injections. This medication was approved by the FDA in 2015, and is the first non-laser treatment approved by the FDA. The FDA is currently reviewing several other non-laser treatments for diabetic retinopathy.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__diabetes-and-eyesight__treatment-for-diabetic-retinopathy",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Diabetes and Eyesight",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/"
+  },
+  {
+   "name": "Treatment for Diabetic Retinopathy",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/"
+  }
+ ],
+ "children": []
+}

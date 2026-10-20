@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "What to Ask",
+ "h1": "What to Ask",
+ "head": {
+  "title": "What to Ask",
+  "description": "Know what to ask your eye doctor when scheduling an eye exam. Be prepared with questions during your vision test and be ready to ask questions after the exam.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "What to Ask",
+   "og:description": "Know what to ask your eye doctor when scheduling an eye exam. Be prepared with questions during your vision test and be ready to ask questions after the exam.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+   "twitter:card": "summary",
+   "twitter:title": "What to Ask",
+   "twitter:description": "Know what to ask your eye doctor when scheduling an eye exam. Be prepared with questions during your vision test and be ready to ask questions after the exam.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+    "name": "What to Ask",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/clipart-011.jpg\" alt=\"doctor with patient\">It’s essential, too, that you make the most out of your exams. We’ve included a range of questions for you to ask during your next eye exam, or if necessary, before your exam to avoid any miscommunication. We hope you find these helpful and that the information contained in our EyeGlass Guide 2.0 will help to facilitate a comprehensive and informed dialogue between you and your eye care professional.</p><h2>Questions to ask before your eye exam…</h2><ul><li>Do you accept my insurance plan’s vision coverage?</li><li>Is payment required at the time of service?</li><li>What will my eye exam entail?</li><li>How long should I expect to be there?</li><li>Will my pupils be dilated?</li><li>What should I bring with me?</li></ul><h2>Questions to ask at your eye exam…</h2><ul><li>Given my age, eye condition and other risk factors, how often should I have my eyes examined?</li><li>At what age should I start to schedule my children for regular eye exams?</li><li>What lens designs and options are a good fit for me?</li><li>Can my glasses block UV rays?</li><li>Do all sunglasses protect my eyes from UV rays?</li><li>What are photochromic lenses and are they a good option for me?</li></ul><h2>Things to remember</h2><p>It’s always a good idea to bring any of the following (if available) to your eye exam appointment:</p><ul><li>Your insurance card/insurance information</li><li>A list of all medications, vitamins and other supplements you are taking</li><li>All pairs of prescription glasses you currently own</li><li>If you have it, a copy of your latest eyeglass prescription</li><li>Information on frames you like, or lenses you’ve researched</li></ul><p>Don’t forget, if participating in a flexible spending account program, you may be able to use the account to pay for portions of your eye care not covered directly by your insurance plan.</p><p>To create a printable personal eyeglass suggestion based on your own preferences and lifestyle, use our interactive tool.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today! </a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__what-to-ask",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "What to Ask",
+   "path": "/eye-care-services/your-eye-health/eye-exams/what-to-ask/"
+  }
+ ],
+ "children": []
+}

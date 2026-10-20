@@ -1,0 +1,167 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Specialty Eyewear",
+ "h1": "Specialty Eyewear",
+ "head": {
+  "title": "Specialty Eyewear",
+  "description": "Sports glasses, Protective eyewear, SCUBA diving... we can help you with glasses for your specific needs.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Specialty Eyewear",
+   "og:description": "Sports glasses, Protective eyewear, SCUBA diving... we can help you with glasses for your specific needs.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-specialty.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-specialty.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+   "twitter:card": "summary",
+   "twitter:title": "Specialty Eyewear",
+   "twitter:description": "Sports glasses, Protective eyewear, SCUBA diving... we can help you with glasses for your specific needs.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-specialty.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+    "name": "Specialty Eyewear",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/new-default-images/Thumbnail-specialty-300x200.jpg\" alt=\"Thumbnail specialty\"></p><p>Sports, water activities and all types of outdoor recreation depend upon top visual skills. In addition to crisp eyesight, you need excellent depth perception, eye-hand coordination and peripheral awareness. Our optical technicians will match you to the best specialized eyewear for your needs. Whether you play racquetball, go SCUBA diving or spend your leisure time hunting, our eye care team will examine your vision and recommend the most appropriate eyewear.</p><p>With consideration for your particular sport or hobby, our eye doctors will customize your eye exam. We may use tests to inspect your vision while in motion outside, or while you’re interacting with other objects or players. Computerized exams with 3D, holographic images are very helpful, as well as automated testing that measures your reaction time.</p><p>We offer an extensive selection of specialty eyewear, and you may need more than one pair of eyeglasses to suit all of your requirements! In addition to safety glasses for sports, we also feature eyewear to protect your eyes from extended computer use. Driving glasses, designed with polarized lenses to diminish glare, are another popular item. Customized tints are also available to enhance contrast for sharp vision in all weather conditions. If your occupation involves hazardous work, such as using power tools, we have a variety of safety eyewear to recommend.</p><p>Whatever your sport or hobby, make sure that you are protecting your eyes and achieving optimal performance with the right pair of specialty eyewear. Contact us today to set up a specialty eyewear consultation.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Specialty Eyewear Overview",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+           "summary": "Glasses for All Seasons, for All Reasons",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Safety and Sports Glasses",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+           "summary": "Enjoy sports to the fullest, with no worries about eye safety. Learn more about the benefits of protective sports eyewear for you and your kids.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eyewear for Swimming, Snorkeling and Scuba Diving",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+           "summary": "The proper sports eyewear will help you see as clearly in the pool and underwater as you do on dry ground.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Shooting Glasses and Hunting Eyewear",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+           "summary": "Good vision is critical when hunting or using a firearm, so look for the right features when buying \"shooting glasses.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Contacts & Glasses that Enhance Performance",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+           "summary": "Sports eyewear does more than just protect your eyes from injury - it offers performance advantages as well.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__specialty-eyewear",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Specialty Eyewear",
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+   "title": "Contacts & Glasses that Enhance Performance"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+   "title": "Safety and Sports Glasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+   "title": "Eyewear for Swimming, Snorkeling and Scuba Diving"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+   "title": "Shooting Glasses and Hunting Eyewear"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+   "title": "Specialty Eyewear Overview"
+  }
+ ]
+}

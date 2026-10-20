@@ -1,0 +1,106 @@
+{
+ "path": "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Toric Contact Lenses for Astigmatism",
+ "h1": "Toric Contact Lenses for Astigmatism",
+ "head": {
+  "title": "Toric Contact Lenses for Astigmatism",
+  "description": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Toric Contact Lenses for Astigmatism",
+   "og:description": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-astig.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-astig.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+   "twitter:card": "summary",
+   "twitter:title": "Toric Contact Lenses for Astigmatism",
+   "twitter:description": "If you were told you could not wear soft contacts because you have astigmatism, you will be happy to hear this once-true statement is now simply a myth.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-astig.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+    "name": "Toric Contact Lenses for Astigmatism",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Contact Lenses",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Astigmatism is a condition that is caused by an irregular shape of the cornea – the clear part of the eye that covers the iris and the pupil. The cornea is usually smooth, round, and spherical but in an astigmatic eye, the cornea turns into a shape that is not spherical and develops a second curve. One of the primary duties of the cornea is to focus light onto the retina which enables you to see clearly. When the cornea is out of shape and develops two curves, this creates two focal points therefore causing blurred vision.</p><p>The irregular shape of the eye makes it hard for traditional contact lenses to fit and provide clear vision and therefore requires specialized contact lenses such as toric lenses or rigid gas permeable lenses (RGPs).</p><h2>What are Toric Contact Lenses?</h2><p>Toric contact lenses are designed to correct astigmatism and custom made to fit the eye of the patient. Rather than having a perfectly spherical surface like standard contact lenses, toric lenses have a more oblong shape made to accommodate the shape of the astigmatic eye. Toric lenses can be made of either soft or rigid gas permeable (RGP or GP) lens material, however the soft toric lenses are more common.</p><p>Toric contact lenses are also designed in such a way that the lenses stay in place on the eye to maintain proper vision. Sometimes as the eye moves or blinks the lens can rotate considerably on the eye. If this rotation continues with a soft toric lens, a rigid gas permeable lens might be more effective. Rigid gas permeable lenses have a longer initial adjustment time, but once this has passed they are usually just as comfortable as soft contact lenses and they are often easier to care for.</p><p>Toric lenses are available in every wearing schedule from daily disposable to long-term wear. In some cases you may even find colored toric contact lenses. Due to the customization required, toric lenses tend to be more expensive and may take more laboratory time to make than traditional lenses.</p><p>If you have astigmatism, finding the right fit for your contact lenses is essential. Speak to your eye doctor today for a full assessment to determine which type of toric lenses will work best for you to help you see and feel your best.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__contact-lenses__toric-contact-lenses-for-astigmatism",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "A WIDE SELECTION OF CONTACT LENSES",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  },
+  {
+   "name": "Toric Contact Lenses for Astigmatism",
+   "path": "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/"
+  }
+ ],
+ "children": []
+}

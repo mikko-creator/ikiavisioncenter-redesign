@@ -1,0 +1,92 @@
+{
+ "path": "/cataract-awareness-and-prevention-2017/",
+ "url": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+ "kind": "post",
+ "section": "cataract-awareness-and-prevention-2017",
+ "title": "Cataract Awareness and Prevention",
+ "h1": "Cataract Awareness and Prevention",
+ "head": {
+  "title": "Cataract Awareness and Prevention",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Cataract Awareness and Prevention",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/people/senior_man_in_thought.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+   "twitter:card": "summary",
+   "twitter:title": "Cataract Awareness and Prevention",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/people/senior_man_in_thought.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+    "url": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+    "name": "Cataract Awareness and Prevention",
+    "dateModified": "2017-06-19T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/people/senior_man_in_thought.jpg\" alt=\"\"></p><p>According to the World Health Organization, cataracts are responsible for 51% of cases of blindness worldwide - although this blindness is preventable with treatment. In fact, research shows that in industrialized countries about 50% of individuals over the age of 70 have had a cataract in at least one eye. This is partially because cataracts are a natural part of the aging process of the eye, so as people in general live longer, the incidence of cataracts continue to increase.</p><h3>What are Cataracts?</h3><p>Cataracts occur when the natural lens in the eye begins to cloud, causing blurred vision that progressively gets worse. In addition to age, cataracts can be caused or accelerated by a number of factors including physical trauma or injury to the eye, poor nutrition, smoking, diabetes, certain medications (such as corticosteroids), long-term exposure to radiation and certain eye conditions such as uveitis. Cataracts can also be congenital (present at birth).</p><p>The eye’s lens is responsible for the passage of light into the eye and focusing that light onto the retina. It is responsible for the eye’s ability to focus and see clearly. That’s why when the lens is not working effectively, the eye loses it’s clear focus and objects appear blurred. In addition to increasingly blurred vision, symptoms of cataracts include:</p><h4>“Washed Out” Vision or Double Vision:</h4><p>People and objects appear hazy, blurred or “washed out” with less definition, depth and colour. Many describe this as being similar to looking out of a dirty window. This makes many activities of daily living a challenge including reading, watching television, driving or doing basic chores.</p><h4>Increased Glare Sensitivity:</h4><p>This can happen both from outdoor sunlight or light reflected off of shiny objects indoors. Glare sensitivity causes problems with driving, particularly at night and generally seeing our surroundings clearly and comfortably.</p><h4>Dulled Colours:</h4><p>Often colours won’t appear as vibrant as they once did, often having a brown undertone. Colour distinction may become difficult as well.</p><h4>Compromised Contrast and Depth Perception:</h4><p>These eye skills are greatly affected by the damage to the lens.</p><h4>Darkened Vision:</h4><p>Often individuals with cataracts find that they require more light than they used to, to be able to see clearly and perform basic activities.</p><h3>Cataract Treatment</h3><p>Early stage cataracts may be able to be treated with glasses or lifestyle changes, such as using brighter lights, but if they are hindering the ability to function in daily life, it might mean it is time for cataract surgery.</p><p>Cataract surgery is one of the most common surgeries performed today and it involves removing the natural lens and replacing it with an artificial lens, called an implant or an intraocular lens. Typically the standard implants correct the patient’s distance vision but reading glasses are still needed. However as technology has gotten more sophisticated you can now get multifocal implants that can reduce or eliminate the need for glasses altogether. Usually the procedure is an outpatient procedure (you will go home the same day) and 95% of patients experience improved vision almost immediately.</p><h3>Cataract Prevention</h3><p>While doctors still don’t know exactly how much each risk factor leads to cataracts there are a few ways you can keep your eyes healthy and reduce your risks:</p><ul><li>Refrain from smoking and high alcohol consumption</li><li>Exercise and eat well, including lots of fruits and vegetables that contain antioxidants</li><li>Protect your eyes from UV radiation like from sunlight</li><li>Control diabetes and hypertension</li></ul><p>Most importantly, see your eye doctor regularly for a comprehensive eye exam. If you are over 40 or at risk, make sure to schedule a yearly eye exam.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 19, 2017",
+ "key": "cataract-awareness-and-prevention-2017",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Cataract Awareness and Prevention",
+   "path": "/cataract-awareness-and-prevention-2017/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "High Index and Aspheric Lenses",
+ "h1": "High Index and Aspheric Lenses",
+ "head": {
+  "title": "High Index and Aspheric Lenses",
+  "description": "Manufactured to be thinner at the edges of the lens and lighter in weight overall—a good choice for people with stronger prescriptions.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "High Index and Aspheric Lenses",
+   "og:description": "Manufactured to be thinner at the edges of the lens and lighter in weight overall—a good choice for people with stronger prescriptions.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "High Index and Aspheric Lenses",
+   "twitter:description": "Manufactured to be thinner at the edges of the lens and lighter in weight overall—a good choice for people with stronger prescriptions.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+    "name": "High Index and Aspheric Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2021-10-01T09:48:29-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>What are High Index Lenses?</h2><p>A high index lens is a lens that has a higher “index” of refraction. This means it has a greater ability to bend light rays to provide clear vision for people with stronger prescription glasses. But that’s the technical terminology. What do high index lenses mean for eyeglass wearers?</p><p>Thinner, lighter, and more visually appealing, that’s what! High index lenses are manufactured to be thinner at the edges of the lens and lighter in weight overall.</p><p>High index lenses are a good option for people who have strong prescriptions for myopia—commonly called “nearsightedness” due to a difficulty in focusing on far objects. A high-index lens can bend light rays more, while using less material in lenses created for both nearsighted and farsighted people (hyperopia).</p><h2>No more soda bottle glasses</h2><p>In times past, strong prescriptions meant thicker, heavier lenses, giving some a “glass bottle” appearance. But now, with high index glasses available in thinner, lightweight plastic (as well as slightly heavier glass), lens wearers with stronger prescriptions can get more attractive, yet equally effective, lens products. Because high-index lenses bend light more, anti-reflective (AR) treatment is often recommended as an add-on for optimum clarity of vision.</p><p>For better comfort, better vision and improved cosmetic appeal, people with strong prescriptions can’t beat high-index lenses.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__prescription-eyeglasses__high-index-and-aspheric-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  },
+  {
+   "name": "High Index and Aspheric Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/"
+  }
+ ],
+ "children": []
+}

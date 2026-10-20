@@ -1,0 +1,92 @@
+{
+ "path": "/sports-vision-deconstructed-2018/",
+ "url": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+ "kind": "post",
+ "section": "sports-vision-deconstructed-2018",
+ "title": "Sports Vision Deconstructed",
+ "h1": "Sports Vision Deconstructed",
+ "head": {
+  "title": "Sports Vision Deconstructed",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Sports Vision Deconstructed",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x853/sports-soccer-females-caucasian.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+   "twitter:card": "summary",
+   "twitter:title": "Sports Vision Deconstructed",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x853/sports-soccer-females-caucasian.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+    "url": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+    "name": "Sports Vision Deconstructed",
+    "dateModified": "2018-05-10T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x853/sports-soccer-females-caucasian.jpg\" alt=\"\"></p><p>Vision is a critical component to succeed as an athlete and this doesn’t just mean having 20/20 vision. There are a number of visual processes that are involved in optimal sports performance, whether you are playing a weekly little league game or competing in professional sports.</p><p>The eyes and the brain work together to receive, process and respond to visual and sensory information and this amazing ability is what allows us to engage with the world around us. However, when one or more of these processes is disrupted, whether it be the eye itself or in the processing of the information that the eye brings in, it can cause difficulty in a number of areas, particularly movement and sports.</p><h2>Here is a breakdown of some of the visual skills you rely on for athletic performance:</h2><p><strong>Visual Acuity:</strong> the ability to see clearly is one of the most important aspects of vision.  To improve visual acuity your eye doctor can prescribe eyeglasses or contact lenses, as well as prescription sunglasses, swimming goggles and sports goggles.  LASIK or refractive eye surgery or orthokeratology may also be options for improving visual acuity without having to wear vision correction during play.</p><p><strong>Dynamic Visual Acuity:</strong> the ability to see moving objects clearly.</p><p><strong>Peripheral Vision:</strong> your side vision or the ability to see out of the corner or sides of your eyes when you are looking straight ahead.</p><p><strong>Peripheral Awareness/Visual Concentration:</strong> The ability to be engaged in a task while having awareness of peripheral and other visual stimuli without being distracted by them.</p><p><strong>Depth Perception:</strong> the ability to perceive the relative distance and speed of objects in your field of vision.</p><p><strong>Visual Tracking:</strong> the movement of the eye that allows for the ability to follow a moving object, switch visual attention from one object to another or to track a line of text. This allows an athlete to “keep an eye on the ball”.</p><p><strong>Focusing:</strong> allows for the ability change focus quickly and clearly from one distance or object to another.</p><p><strong>Eye Teaming:</strong> the ability for the two eyes to work together in coordination.</p><p><strong>Hand-Eye, Body-Eye Coordination:</strong> the ability of your eyes to guide your hands and body to carry out movements accurately and effectively.</p><p><strong>Visual Reaction Time:</strong> how quickly your brain is able to interpret visual information and respond with the appropriate motor action.</p><p>Often we take the wonder of our eyes and brain for granted, not realizing all of the systems that must be in place in order for us to perform optimally in our daily lives... all the more so for top notch sports performance (and these are just the functions that are related to your eyes!)</p><p>Typically, visual processes occur automatically, without us paying much attention to them, but they are skills which can be improved. If you feel that you or your child might have some difficulty with one or more of these visual skills, speak to your eye doctor. Through proper eyewear, exercises, nutrition and sometimes vision therapy, it can be possible to improve upon these skills and as a result, enhance your performance on the field. In fact, professional athletes often utilize a combination of vision therapy and nutritional supplements (such as lutein and zeaxathin) to enhance their vision and reaction time for better performance on the field.</p><p>Additionally, you want to make sure - whether you have visual processing issues or not - that you protect your eyes properly. Unfortunately, many injuries occur from an over-confidence that the eyes are safe during sports. Speak to your eye doctor about the right sports safety eyewear to protect your or your child’s eyes during your favorite sports.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "May 10, 2018",
+ "key": "sports-vision-deconstructed-2018",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Sports Vision Deconstructed",
+   "path": "/sports-vision-deconstructed-2018/"
+  }
+ ],
+ "children": []
+}

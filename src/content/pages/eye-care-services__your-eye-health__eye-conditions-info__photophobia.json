@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Photophobia",
+ "h1": "Photophobia",
+ "head": {
+  "title": "Photophobia",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Photophobia",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+   "twitter:card": "summary",
+   "twitter:title": "Photophobia",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+    "name": "Photophobia",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>All types of light, ranging from interior lighting fixtures to streetlights and to the bright rays of the sun, have the potential to cause eye discomfort or pain. Photophobia refers to this ocular sensitivity to light.</p><p>An eye irritation or infection may cause photophobia. Other culprits include albinism, migraines, recent eye surgery or a variety of vision problems. In rare incidences, a congenital disease or certain medications may increase your sensitivity to light. The retina, which is the light-sensitive tissue at the back of your eye, is responsible for processing images. Treatment for photophobia involves treating the underlying cause that is disturbing the retina.</p><p>With light-sensitivity, the retina sends signals to the brain that are interpreted as discomfort or pain. The level of discomfort is in direct proportion with the strength of the light source, and it doesn’t matter if the light is man-made or natural.</p><h2>Signs of Photophobia</h2><p>When exposed to bright light, symptoms of itching, burning, wincing and squinting may all be experienced. Excessive tear production is another sign of photophobia.</p><h3>Diagnosis and Treatment</h3><p>If you suffer from light-sensitivity, you should schedule a consultation with your eye care professional.</p><p>People with lighter-colored eyes generally have more of a tendency towards photophobia, and intense light is likely to bother them. If you have light eyes, the lower quantity of pigment is less efficient at diffusing the light beams.</p><p>Photophobia may be temporary, or it can appear as a permanent side-effect of an underlying eye condition. The only way to treat photophobia is therefore to get to the root of the problem with a comprehensive eye exam. It’s important to mention any current medications to your eye doctor, as they may be associated with photophobia.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__photophobia",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Photophobia",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/"
+  }
+ ],
+ "children": []
+}

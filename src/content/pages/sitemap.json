@@ -1,0 +1,33 @@
+{
+ "path": "/sitemap/",
+ "url": "https://www.ikiavisioncenter.com/sitemap/",
+ "key": "sitemap",
+ "kind": "sitemap",
+ "section": "sitemap",
+ "title": "Sitemap | Icare Clinic",
+ "h1": "Sitemap",
+ "head": {
+  "title": "Sitemap | Icare Clinic",
+  "description": null,
+  "canonical": null,
+  "robots": "noindex, follow",
+  "og": {},
+  "jsonld": []
+ },
+ "liveCrumbs": null,
+ "hero": null,
+ "rows": [],
+ "date": null,
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Sitemap",
+   "path": "/sitemap/"
+  }
+ ],
+ "children": [],
+ "added": "ADD: the live footer links /sitemap/, which answers 404 on the live site; the rebuild lists every page here."
+}

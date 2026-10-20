@@ -1,0 +1,89 @@
+{
+ "path": "/associations-awards/",
+ "url": "https://www.ikiavisioncenter.com/associations-awards/",
+ "kind": "page",
+ "section": "associations-awards",
+ "title": "Associations & Awards",
+ "h1": "Associations & Awards",
+ "head": {
+  "title": "Associations & Awards",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/associations-awards/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Associations & Awards",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/associations-awards/",
+   "twitter:card": "summary",
+   "twitter:title": "Associations & Awards",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/associations-awards/",
+    "url": "https://www.ikiavisioncenter.com/associations-awards/",
+    "name": "Associations &#038; Awards",
+    "datePublished": "2019-12-12T00:49:20-04:00",
+    "dateModified": "2019-12-12T00:52:39-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<ul><li>Texas Optometrist Association</li><li>American Optometrist Association</li></ul>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "associations-awards",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Associations & Awards",
+   "path": "/associations-awards/"
+  }
+ ],
+ "children": []
+}

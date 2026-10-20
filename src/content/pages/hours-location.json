@@ -1,0 +1,313 @@
+{
+ "path": "/hours-location/",
+ "url": "https://www.ikiavisioncenter.com/hours-location/",
+ "kind": "page",
+ "section": "hours-location",
+ "title": "Hours & Location",
+ "h1": "Our Eye Care Practice in Houston",
+ "head": {
+  "title": "Hours & Location",
+  "description": "Get directions to our office and see when we are open.",
+  "canonical": "https://www.ikiavisioncenter.com/hours-location/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Hours & Location",
+   "og:description": "Get directions to our office and see when we are open.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/hours-location/",
+   "twitter:card": "summary",
+   "twitter:title": "Hours & Location",
+   "twitter:description": "Get directions to our office and see when we are open.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/hours-location/",
+    "url": "https://www.ikiavisioncenter.com/hours-location/",
+    "name": "Hours &#038; Location",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T06:54:27-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/highway-location-page.jpg",
+  "overlay": true,
+  "blocks": [
+   {
+    "t": "locations",
+    "view": "summary",
+    "items": [
+     {
+      "name": "Icare Clinic",
+      "address": [
+       "14405B Bellaire Blvd",
+       "Houston, TX 77083"
+      ],
+      "phone": "832-717-3937",
+      "tel": "tel:832-717-3937",
+      "hours": [],
+      "href": "/location/icare-clinic/",
+      "html": "",
+      "payment": null,
+      "labels": []
+     }
+    ]
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "Forms of Payment"
+   },
+   {
+    "t": "locations",
+    "view": "summary",
+    "items": [
+     {
+      "name": null,
+      "address": [
+       "We Accept:"
+      ],
+      "phone": null,
+      "tel": null,
+      "hours": [],
+      "href": null,
+      "html": "",
+      "payment": {
+       "title": "Payment Information",
+       "label": "We Accept:",
+       "methods": [
+        "cash",
+        "debit",
+        "discover",
+        "mastercard",
+        "visa"
+       ],
+       "html": "<p><a href=\"https://www.carecredit.com/apply/confirm.html?encm=XTxWbwdlVzINMVI2VmIBaA81AGhTNVFkD20HM1w4UmU&amp;sitecode=B3CALAdToolkitANCardVision\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://www.carecredit.com/adtoolkit/assets/pages/library/buttons/280x100/CareCredit_Button_ApplyNow_280x100_c_v1.jpg\" alt=\"\"></a></p>"
+      },
+      "labels": []
+     }
+    ]
+   },
+   {
+    "t": "locations",
+    "view": "summary",
+    "items": [
+     {
+      "name": null,
+      "address": [],
+      "phone": null,
+      "tel": null,
+      "hours": [
+       {
+        "day": "Monday",
+        "time": "10:00 AM - 6:00 PM"
+       },
+       {
+        "day": "Tuesday",
+        "time": "10:00 AM - 6:00 PM"
+       },
+       {
+        "day": "Wednesday",
+        "time": "10:00 AM - 6:00 PM"
+       },
+       {
+        "day": "Thursday",
+        "time": "10:00 AM - 6:00 PM"
+       },
+       {
+        "day": "Friday",
+        "time": "10:00 AM - 6:00 PM"
+       },
+       {
+        "day": "Saturday",
+        "time": "10:00 AM - 4:00 PM"
+       },
+       {
+        "day": "Sunday",
+        "time": "Closed"
+       }
+      ],
+      "href": null,
+      "html": "",
+      "payment": null,
+      "labels": []
+     }
+    ]
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c520d142c3a0",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c520d142c550",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 1,
+         "html": "Our Eye Care Practice in Houston"
+        },
+        {
+         "t": "callout",
+         "title": null,
+         "html": "",
+         "href": null,
+         "external": false,
+         "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Optician-Holding-Glasses_1280x853-640x427.jpg",
+         "imageAlt": "Optician Holding Glasses_1280x853 640x427",
+         "icon": null
+        },
+        {
+         "t": "rich",
+         "html": "<p>With an office in Houston eye doctors at Icare Clinic have been providing Houston with quality eye care for many years.</p><p>Call us to make an appointment with our optometrist to talk about your eyeglasses, contact lenses or specialty lens needs. Drop in anytime to browse through our large selection of designer eyeglass frames and sunglasses!</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c520d142c1f4",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Have An Eye Care Emergency?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Please call our office at:<a href=\"tel:\"> 832-717-3937.</a> If you experience loss of vision, double vision, swelling, infection or any eye emergency, contact us immediately for guidance. We’ll help you with the best treatment to prevent complications and promote long-lasting clear eyesight.</p><p>Use your best judgment on urgency – find the nearest emergency room or review our emergency page for tips.</p><p>Wondering about payment plans? Check Out Our <a href=\"/insurance/\">Insurance Plans</a>.</p>"
+        }
+       ]
+      },
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": null,
+         "html": "",
+         "href": null,
+         "external": false,
+         "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Emerg-Eye.jpg",
+         "imageAlt": "Woman's eye, ad for Eye Care Emergencies",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "hours-location",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Our Eye Care Practice in Houston",
+   "path": "/hours-location/"
+  }
+ ],
+ "children": []
+}

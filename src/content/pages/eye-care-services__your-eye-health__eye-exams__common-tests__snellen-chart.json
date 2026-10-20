@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Snellen Chart",
+ "h1": "Snellen Chart",
+ "head": {
+  "title": "Snellen Chart",
+  "description": "Find out what a Snellen Chart is and how it will be used during an eye exam. How is 20/20 vision determined? You can read about what your eye doctor does.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Snellen Chart",
+   "og:description": "Find out what a Snellen Chart is and how it will be used during an eye exam. How is 20/20 vision determined? You can read about what your eye doctor does.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+   "twitter:card": "summary",
+   "twitter:title": "Snellen Chart",
+   "twitter:description": "Find out what a Snellen Chart is and how it will be used during an eye exam. How is 20/20 vision determined? You can read about what your eye doctor does.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+    "name": "Snellen Chart",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Hopefully by now, we’ve all seen one. The projected or wall-mounted Snellen eye chart, usually topped by the big letter “E”, is a common visual acuity test used to measure your sharpness of vision at multiple distances.</p><p>Arranged as a pyramid of sorts, the letters in the Snellen chart are specifically chosen and arranged to test your sharpness and clarity of vision at a baseline distance of 20 feet. During a visual acuity test, the Snellen eye chart is viewed as a projection, or mounted on a wall.</p><p>Handheld versions of Snellen charts are used for testing near vision as well.</p><p>By viewing or reading each line from top to bottom (with one eye covered at a time), your eye doctor can gain a general approximation of the quality of your visual acuity, or sharpness. Where a line of characters begin to become difficult to see is the approximate measurement of your vision.</p><p>The Snellen chart serves as a beginning—not an end—to a comprehensive eye examination.</p><h2>What does “20/20” vision mean?</h2><p>Snellen charts help to determine a baseline for your vision in each eye—a baseline typically measured against “20/20” vision. This means when you are 20 feet away from an object, you can comfortably see details that most people with normal vision can also see at 20 feet distance.</p><p>If you have 20/30 vision, that means what you see comfortably at 20 feet, can be seen by a person with “normal” vision at 30 feet. Your vision is weaker, in other words.</p><p>Conversely? In the rare instances where vision may test better than normal on a Snellen chart, a value of 20/10 vision means that you can see clearly from a distance of 20 feet, what a person with normal vision sees well at a distance of 10 feet. Make sense?</p><p>In fact, if you look closely at a Snellen eye chart, you’ll see the vision values associated with measuring your vision on the right or left side of each line of characters.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__snellen-chart",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Snellen Chart",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Ophthalmoscope",
+ "h1": "Ophthalmoscope",
+ "head": {
+  "title": "Ophthalmoscope",
+  "description": "An Ophthalmoscope is one of the many devices your optometrist will use during your eye exam. Click here to see how and why.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Ophthalmoscope",
+   "og:description": "An Ophthalmoscope is one of the many devices your optometrist will use during your eye exam. Click here to see how and why.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+   "twitter:card": "summary",
+   "twitter:title": "Ophthalmoscope",
+   "twitter:description": "An Ophthalmoscope is one of the many devices your optometrist will use during your eye exam. Click here to see how and why.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+    "name": "Ophthalmoscope",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>While an ophthalmoscope may seem similar to the retina scope, it has a different purpose.</p><p>This is a handheld device that combines a light source with built-in mirrors and lenses so that your eye doctor can examine the interior structures of the eye. An ophthalmoscope is particularly useful for examining the structures of the retina—the light sensitive area at the back of the eye responsible for processing images.</p><p>Traditionally part of almost every eye exam, ophthalmoscopes can identify healthy structures within the eyeball, and easily help your eye doctor see symptoms or indicators of diseases of the eye.</p><p>In some instances, your eye doctor will use an indirect ophthalmoscope to gain a broader view of your eye’s internal structure, especially the retina.</p><p>With indirect ophthalmoscopes, your eye doctor wears a head visor (like a jeweler) that projects a bright light. By holding different handheld lenses in front of your eye, your doctor can better see, and magnify, the inside of your eye.</p><h2>How does an ophthalmoscope it work?</h2><p>Your eye doctor will dim the lights of the room and ask you to focus on a fixed point on a far wall. Using direct or indirect ophthalmoscopes, your eye doctor will examine the structures of your eye. Sometimes, special drops are used to “open up” (dilate) your pupils to aid your eye doctor in the exam.</p><p>Your eye doctor is looking for signs of a healthy retina, and also for indicators of any number of potential eye problems like cataracts or macular degeneration.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__ophthalmoscope",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Ophthalmoscope",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/"
+  }
+ ],
+ "children": []
+}

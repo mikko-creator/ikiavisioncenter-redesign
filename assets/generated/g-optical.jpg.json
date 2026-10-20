@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-OPTICAL",
+  "file": "assets/generated/g-optical.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A boutique eyewear display at night, rows of elegant designer eyeglass frames resting on floating glass shelves, each frame lit by its own small warm pin spotlight, glossy reflections on the glass shelves and lenses, the boutique around them dark and moody, plain unbranded frames with smooth temples; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2227211160,
+  "requestId": "01a15738-d26c-7972-b2e4-7be87b8ef2fc",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "0234a97bb0c0db3217b8c84e9d92307d576690c937c7bcd367655b892a3bcc28",
+  "raw": "tmp/img/raw/G-OPTICAL.1792464715990.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:51:58.240Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "rows of frames on teal-edged glass shelves with warm pin spots and reflections; placards blank; no brand names",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

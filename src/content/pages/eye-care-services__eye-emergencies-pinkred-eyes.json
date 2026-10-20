@@ -1,0 +1,98 @@
+{
+ "path": "/eye-care-services/eye-emergencies-pinkred-eyes/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+ "h1": "Eye Emergencies (Pink/Red Eyes)",
+ "head": {
+  "title": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+  "robots": "index,follow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Emergencies (Pink/Red Eyes)",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+   "twitter:card": "summary",
+   "twitter:title": "Pink Eye | Infection, Injury, Foreign Body Removal | Eye Emergency Doctor",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+    "name": "Eye Emergencies (Pink/Red Eyes)",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2022-10-18T10:13:18-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Woman-Something-in-Eye-1280x480.jpg\" alt=\"Person with Something in Her Eye\"></h2><h2><strong>Providing Emergency Eye Care Services in Houston</strong></h2><p>Eye emergencies happen when you least expect them, so knowing what to do if you or a loved one needs urgent eye care is vital.</p><p>First things first. Don’t panic! Staying calm will not only help you think straight, it will also help those around you to remain calm.</p><p>Second, never try to judge the severity of an eye injury on your own. Instead, contact your eye doctor for instructions on what you should do in your situation. At Icare Clinic in Houston, we understand ocular emergencies and are here for you at any time.</p><p>It’s not always necessary to go to an emergency room for eye emergencies. Studies have shown that the overwhelming majority of people who sought urgent eye care at an emergency room could have been treated by an optometrist.</p><p>That being said, use your own judgment. If you think you need to head to the nearest emergency room, don’t delay.</p><h2>What is an Eye Emergency?</h2><p>An eye emergency is anything that puts your eyes or vision at risk of permanent damage.</p><p>The most common types of eye emergencies include:</p><ul><li>Eye infection</li><li>Foreign object stuck in the eye</li><li>Eye trauma</li><li>Scratch on the eye</li><li>Sudden loss of vision in one or both eyes</li><li>Lost contact lens in the eye</li><li>Shattered eyeglass lenses</li><li>Sudden appearance of light flashes or floaters</li></ul><h2>Is an Eye Infection an Emergency?</h2><p>While an eye infection like conjunctivitis (pink eye) usually doesn’t require emergency eye care, if you think you have an eye infection, it’s important to see your eye doctor as soon as possible for a diagnosis and treatment.</p><h2>Symptoms That Require Emergency Eye Care</h2><ul><li>Sudden loss of vision</li><li>Sudden double vision</li><li>Sudden eye pain</li><li>New onset of light flashes and/or floaters</li><li>Foreign body in the eye</li><li>Chemicals in the eye</li><li>Swelling or pain after eye surgery</li></ul><h2>What to Do if Something Gets Into Your Eye?</h2><p>A foreign body can be anything from an eyelash or a speck of sand to a metal shard, blade of grass or piece of wood. No matter what the object is, it’s critical to have it removed quickly to reduce your risk of serious injury or infection.</p><p>Keep in mind that the eyes are extremely delicate and if you don’t know how to safely remove the foreign body, you can end up with sight-threatening complications. It’s therefore always best to seek urgent eye care if you can’t flush out the foreign body with water or saline solution.</p><p>If you think a foreign body has penetrated your eye, or you notice any blood or discharge coming from your eye, contact your eye doctor immediately. After describing what happened, your eye doctor may send you to an emergency room.</p><h2>What To Do If You Have an Eye Emergency?</h2><p>Contact Icare Clinic in Houston for an emergency eye care appointment. If you’re unsure whether your symptoms constitute an emergency, call us anyway — delaying treatment can put you at risk of serious complications that can result in vision loss.</p><p>Until you see your eye doctor or seek urgent care:</p><ul><li>Don’t press on or rub an injured eye</li><li>Don’t attempt to remove a foreign body on your own</li><li>Don’t use dry cotton (including cotton swabs) or sharp instruments (such as tweezers) on the eye</li><li>Don’t attempt to remove an embedded object</li></ul><p><strong>Call our office in Houston for further instructions. We’re here for you!</strong></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__eye-emergencies-pinkred-eyes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Emergencies (Pink/Red Eyes)",
+   "path": "/eye-care-services/eye-emergencies-pinkred-eyes/"
+  }
+ ],
+ "children": []
+}

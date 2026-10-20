@@ -1,0 +1,199 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-surgery/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Vision Surgery",
+ "h1": "Vision Surgery",
+ "head": {
+  "title": "Vision Surgery",
+  "description": "Explore the various types of vision surgery available today and see which might be right for you. Then call for an appointment with your eye doctor.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Vision Surgery",
+   "og:description": "Explore the various types of vision surgery available today and see which might be right for you. Then call for an appointment with your eye doctor.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+   "twitter:card": "summary",
+   "twitter:title": "Vision Surgery",
+   "twitter:description": "Explore the various types of vision surgery available today and see which might be right for you. Then call for an appointment with your eye doctor.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+    "name": "Vision Surgery",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Learn more about common eye surgeries:</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Corrective Eye Surgery Basics",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+           "summary": "Start here for an overview of the different types of surgery to correct myopia, hyperopia and astigmatism; and the merits and drawbacks of each.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "LASIK",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/lasik/",
+           "summary": "It’s the most popular vision correction surgery, by far. Learn what to expect before, during and after the procedure.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "LASIK Risks and Complications",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+           "summary": "Complications from LASIK are few, but they do happen. It’s important to understand the risks, and how to minimize them.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "LASIK - How to Measure Success or Applicability",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+           "summary": "Successful LASIK surgeons get that way from experience and the ability to screen out poor candidates for the procedure. Here’s the list of what makes you a good candidate.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "PRK",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/prk/",
+           "summary": "An alternative to LASIK, PPK is a no-flap eye surgery. Learn about the advantages and disadvantages, as well as what to expect.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Surgery for Presbyopia",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+           "summary": "A number of relatively new procedures are addressing the age-related decrease in ability to focus on near objects, that was once correctable only with bifocals.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Corneal Inlays and Onlays",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+           "summary": "These small lenses or optical devices are inserted into the cornea to alter its shape and correct vision problems.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Corneal Transplants",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+           "summary": "Sometimes because of disease or injury, the cornea becomes so damaged that problems cannot be corrected with eyeglasses, contacts, or refractive surgery such as LASIK.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-surgery",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+   "title": "Corneal Inlays and Onlays"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+   "title": "Corneal Transplants"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+   "title": "Corrective Eye Surgery Basics"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+   "title": "LASIK – How to Measure Success or Applicability"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+   "title": "LASIK Risks and Complications"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik/",
+   "title": "LASIK"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/prk/",
+   "title": "PRK"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+   "title": "Surgery for Presbyopia"
+  }
+ ]
+}

@@ -1,0 +1,163 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Diabetes and Eyesight",
+ "h1": "Diabetes and Eyesight",
+ "head": {
+  "title": "Diabetes and Eyesight",
+  "description": "How your diabetes can influence your eyesight and what to do about it. All the latest information about eye related diseases available here.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Diabetes and Eyesight",
+   "og:description": "How your diabetes can influence your eyesight and what to do about it. All the latest information about eye related diseases available here.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+   "twitter:card": "summary",
+   "twitter:title": "Diabetes and Eyesight",
+   "twitter:description": "How your diabetes can influence your eyesight and what to do about it. All the latest information about eye related diseases available here.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+    "name": "Diabetes and Eyesight",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Diabetes is a disease that affects the way we process food for energy and growth. With all forms of diabetes—type 1, type 2 and gestational diabetes—the body has trouble converting sugar in the blood into energy, resulting in a host of potential health problems.</p><p>Diabetes increases the likelihood that common diabetes-related vision problems or diseases might occur:</p><ul><li>Diabetics are prone to developing cataracts (a clouding of the eye’s lens) at an earlier age.</li><li>People with diabetes are almost 50% more likely to develop glaucoma, an eye disorder that damages the optic nerve often marked by an increase of internal eye pressure.</li><li>Macular edema (and macular degeneration) are more common in diabetics due to malfunctioning blood vessels in the middle region of the retina responsible for central, sharp vision.</li><li>Most notably, diabetes can result in diabetic retinopathy; an eye disease that affects the blood vessels in the all-important retina. Nearly 45 percent of Americans diagnosed with diabetes have some stage of diabetic retinopathy.</li></ul><p>That’s why there’s no separating diabetes and vision. If you have diabetes, then you should understand vision problems that increase in likelihood as a result of the disease.</p><h2>Diabetes Statistics</h2><p>Over 21 million people in the United States have diabetes, with an estimated additional 6 million people unaware they have a form of the disease. What’s more, an estimated 54 million Americans ages 40 to 74 have prediabetes, a condition that puts them at risk for developing type 2 diabetes. According to a recent American Optometric Association survey, diabetes is the leading cause of new cases of blindness among adults ages 20 to 74.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Overview of Diabetic Retinopathy",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/overview-of-diabetic-retinopathy/",
+           "summary": "Since the retina is the light-sensitive region of the back of the eye responsible for processing visual images, diabetic retinopathy can affect your vision in mild, moderate or even severe ways.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Signs and Symptoms of Diabetic Retinopathy",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/signs-and-symptoms-of-diabetic-retinopathy/",
+           "summary": "If you have diabetes, you probably know that your body can't use or store sugar properly. When your blood sugar gets too high, it can damage the blood vessels in your eyes. This damage may lead to diabetic retinopathy. In fact, the longer someone has diabetes, the more likely they are to have retinopathy (damage to the retina) from the disease.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Causes of Diabetic Retinopathy",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/causes-of-diabetic-retinopathy/",
+           "summary": "Changes in blood-sugar levels increase your risk of diabetic retinopathy, as does long-term diabetes.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Treatment for Diabetic Retinopathy",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+           "summary": "According to the American Academy of Ophthalmology, 95% of those with diabetic retinopathy can avoid substantial vision loss if they are treated in time.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__diabetes-and-eyesight",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Diabetes and Eyesight",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/causes-of-diabetic-retinopathy/",
+   "title": "Causes of Diabetic Retinopathy"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/overview-of-diabetic-retinopathy/",
+   "title": "Overview of Diabetic Retinopathy"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/signs-and-symptoms-of-diabetic-retinopathy/",
+   "title": "Signs and Symptoms of Diabetic Retinopathy"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+   "title": "Treatment for Diabetic Retinopathy"
+  }
+ ]
+}

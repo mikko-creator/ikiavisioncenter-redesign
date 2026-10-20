@@ -1,0 +1,93 @@
+{
+ "path": "/how-do-we-see/",
+ "url": "https://www.ikiavisioncenter.com/how-do-we-see/",
+ "kind": "post",
+ "section": "how-do-we-see",
+ "title": "How Do We See?",
+ "h1": "How Do We See?",
+ "head": {
+  "title": "How Do We See?",
+  "description": "Have you ever thought about how vision works? It's an incredible system and process!",
+  "canonical": "https://www.ikiavisioncenter.com/how-do-we-see/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "How Do We See?",
+   "og:description": "Have you ever thought about how vision works? It's an incredible system and process!",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/how-do-we-see/",
+   "twitter:card": "summary",
+   "twitter:title": "How Do We See?",
+   "twitter:description": "Have you ever thought about how vision works? It's an incredible system and process!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/how-do-we-see/",
+    "url": "https://www.ikiavisioncenter.com/how-do-we-see/",
+    "name": "How Do We See?",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/eyeball-drawing.jpg\" alt=\"\"></p><p>Have you ever thought about how vision works? Seeing is an incredible gift made possible by a system in which the eye and the brain process visual information from the outside world. If any step of that process does not function properly, vision will be impaired.</p><p>Similar to a camera, the eye transmits light from the world around us into an image that we can perceive. Certain parts of the eye even function like the different parts of a camera such as the shutter, the lens and film (if we can hearken back to the days when we used film in cameras). Here is a quick breakdown of the fascinating way our eyes and brain enable us to see and experience the world around us:</p><h3>The Vision Process</h3><p>Light reflected from an object in our field of view is gathered by the cornea which is essentially the clear “window” to our eye. The cornea then refracts the light rays through the pupil (the center of the iris where light enters the eye). The iris, which like the shutter of a camera will enlarge and shrink based on how much light is coming in, then passes the image onto the crystalline lens. Just like a camera lens, the lens in the eye focuses the light rays, projecting them to a point at the back of the eye called the retina, where the image will appear upside down. The retina contains a thin layer of color-sensitive cells called rods and cones that perceive color.</p><p>From the retina, the visual signals travel to the brain via the optic nerve. The brain receives information from both eyes and must then converge the images (and flip them right side up) to get a complete picture.</p><h3>Vision Problems</h3><p>A breakdown in vision can happen at any point in this process. From the muscles that control the eyes, to the parts within the eye, to the pathway to the brain. Sometimes vision impairment is due to technical problems with the eye receiving the information and passing the signal on, such as convergence insufficiency (inability to coordinate the eyes to converge on one point), myopia (nearsightedness) or cataracts (clouding of the lens).</p><p>Other times, the eyes might work perfectly, but there is a problem with the brain interpreting the signals it receives. In these cases we can’t “see” in the traditional sense, because our brains aren’t able to properly “read’ the signals or we don’t know what we are looking at. This is the case for some learning disorders that are caused by the visual processes in the brain such as dyslexia.</p><p>As you can see, vision is quite a complicated process. A simple vision exam isn’t always able to determine vision problems, especially in children which is why it is so important to have regular comprehensive eye exams, to measure the health of the eye and all of its parts.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Nov 23, 2015",
+ "key": "how-do-we-see",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "How Do We See?",
+   "path": "/how-do-we-see/"
+  }
+ ],
+ "children": []
+}

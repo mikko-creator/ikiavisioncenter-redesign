@@ -1,0 +1,105 @@
+{
+ "path": "/eye-care-services/your-eye-health/protecting-your-eyes/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Protecting Your Eyes",
+ "h1": "Protecting Your Eyes",
+ "head": {
+  "title": "Protecting Your Eyes",
+  "description": "Whether playing sports or working with hazardous materials, eye safety should be a priority. Learn about specialty glasses and protective goggles. Click here.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Protecting Your Eyes",
+   "og:description": "Whether playing sports or working with hazardous materials, eye safety should be a priority. Learn about specialty glasses and protective goggles. Click here.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+   "twitter:card": "summary",
+   "twitter:title": "Protecting Your Eyes",
+   "twitter:description": "Whether playing sports or working with hazardous materials, eye safety should be a priority. Learn about specialty glasses and protective goggles. Click here.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+    "name": "Protecting Your Eyes",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/tennis-large.jpg\" alt=\"Tennis player\"><strong>Did you know…</strong></p><ul><li>Nearly half of traumatic eye injuries relate to ball sports</li><li>45% of these occur in children under the age of 14</li><li>90% of these are preventable</li></ul><p>Polycarbonate is a lens material that is widely used for shatter-and-impact resistant lenses, and when combined with sturdy frame materials, makes for formidable eye protection.</p><p>There are hazards of sunlight and bright light that are harder to understand; namely, ultraviolet rays (UV) and Glare (extreme brightness). Protecting your eyes from these distracting, even dangerous elements is equally important to eye protection.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__protecting-your-eyes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Protecting Your Eyes",
+   "path": "/eye-care-services/your-eye-health/protecting-your-eyes/"
+  }
+ ],
+ "children": []
+}

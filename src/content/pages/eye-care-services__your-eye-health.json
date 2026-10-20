@@ -1,0 +1,247 @@
+{
+ "path": "/eye-care-services/your-eye-health/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Eye Health Library | Learn About Eye Health & Eye Exam Information",
+ "h1": "Your Eye Health",
+ "head": {
+  "title": "Eye Health Library | Learn About Eye Health & Eye Exam Information",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Your Eye Health",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyehealth.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyehealth.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Health Library | Learn About Eye Health & Eye Exam Information",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyehealth.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+    "name": "Your Eye Health",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Eyes-Colorful-Abstract-1280x480.jpg\" alt=\"Healthy Eyes Painted in Beautiful Colors\"></p><p>Learning about your eye health can be complicated – and might even seem overwhelming at first. To simplify things for our patients, we present our Eye Health Library, a comprehensive library of vision-related information. We invite you to browse through our library to find information that will help you better understand how your vision works, common eye conditions, surgeries and how your vision changes as you age.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Contact Lens Basics",
+           "href": "/eye-care-services/your-eye-health/contact-lens-basics/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Glossary of Eye Care Terms",
+           "href": "/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+           "summary": "While certainly not a complete eye care dictionary, the EyeGlass Guide Glossary covers many of the common eye care conditions, terms and technology you’ll commonly discuss with your eye care professional.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Healthy Sight",
+           "href": "/eye-care-services/your-eye-health/healthy-sight/",
+           "summary": "While certainly not a complete eye care dictionary, the EyeGlass Guide Glossary covers many of the common eye care conditions, terms and technology you’ll commonly discuss with your eye care professional.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "How the Eye Works",
+           "href": "/eye-care-services/your-eye-health/how-the-eye-works/",
+           "summary": "The human eye is a marvel of built-in engineering, combining reflected light, lens imaging capability, multiple lighting adjustments and information processing—all in the space of your eyeball. When working properly, the human eye converts light into impulses that are conveyed to the brain and interpreted as images.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Protecting Your Eyes",
+           "href": "/eye-care-services/your-eye-health/protecting-your-eyes/",
+           "summary": "If you work in a hazardous environment like a construction zone or workshop, or participate in ball sports or extreme sports—sturdy, shatter-and-impact-resistant eyewear is a must. This is particularly important when considering eye protection for both children and adults.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Exams",
+           "href": "/eye-care-services/your-eye-health/eye-exams/",
+           "summary": "Seeing clearly is just one part of your overall eye health. It’s important to have regular eye exams whether or not you wear glasses or contacts, and even if your vision is sharp. The articles below explain what problems can be spotted with an eye exam, what’s involved in a comprehensive exam, and special considerations for kids and contacts.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Computer Eyestrain",
+           "href": "/eye-care-services/your-eye-health/computer-eyestrain/",
+           "summary": "Digital eye strain, eye fatigue and computer vision syndrome (CVS) are conditions that result from extended exposure to digital screens.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Children's Vision",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/",
+           "summary": "Use these articles to proactively care for your child's eyes, spot potential trouble, and maximize the opportunity for crisp, convenient and healthy vision.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Vision Surgery",
+           "href": "/eye-care-services/your-eye-health/vision-surgery/",
+           "summary": "Tired of wearing glasses or contact lenses? Today, several surgical methods can correct your eyesight and, in most cases, give you the freedom of seeing well without corrective lenses.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Diseases",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/",
+           "summary": "Read more about some of the most common eye diseases including cataracts, diabetes, glaucoma and macular degeneration.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Conditions",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/",
+           "summary": "Eye problems can range from mild to severe; some are chronic, while others may resolve on their own, never to appear again. The articles below will give you a basic understanding of some of these problems and their implications. The cardinal rule is if your eyes don't look good, feel good or see well, you should visit your doctor.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Vision Over 40",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/",
+           "summary": "If you are among the 85 million Baby Boomers in the United States and Canada (born between 1946 and 1964), you've probably noticed your eyes have changed. Most notably, presbyopia - the normal, age-related loss of near focusing ability - usually becomes a problem in our 40's, requiring new vision correction solutions. Learn about measures you can take to keep seeing clearly for years to come.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Vision Over 60",
+           "href": "/eye-care-services/your-eye-health/vision-over-60/",
+           "summary": "Just as our physical strength decreases with age, our eyes also exhibit an age-related decline in performance - particularly as we reach our 60's and beyond. Some age-related eye changes are perfectly normal, but others may signal a disease process. It's important to recognize signs and symptoms, and perhaps even more important to mitigate the effects of aging with some simple and common-sense strategies.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/",
+   "title": "Children's Vision"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/",
+   "title": "Computer Eyestrain"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/contact-lens-basics/",
+   "title": "Contact Lens Basics"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/",
+   "title": "Eye Conditions"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/",
+   "title": "Eye Diseases"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/",
+   "title": "Eye Exams"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+   "title": "Glossary of Eye Care Terms"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/healthy-sight/",
+   "title": "Healthy Sight"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/how-the-eye-works/",
+   "title": "How the Eye Works"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/protecting-your-eyes/",
+   "title": "Protecting Your Eyes"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/",
+   "title": "Vision Over 40"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/",
+   "title": "Vision Over 60"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/",
+   "title": "Vision Surgery"
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "path": "/october-is/",
+ "url": "https://www.ikiavisioncenter.com/october-is/",
+ "kind": "post",
+ "section": "october-is",
+ "title": "October is…",
+ "h1": "October is…",
+ "head": {
+  "title": "October is…",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/october-is/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "October is…",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/october-is/",
+   "twitter:card": "summary",
+   "twitter:title": "October is…",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/october-is/",
+    "url": "https://www.ikiavisioncenter.com/october-is/",
+    "name": "October is&#8230;",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://www.ikiavisioncenter.com/clipart/holidays/thanksgiving%20-%20basket%20slide.jpg\" alt=\"\"></p><p>October is '<a href=\"http://www.healthline.com/health/directory-awareness-months\" target=\"_blank\" rel=\"noopener\">Eye Injury Prevention Month</a>' in the USA and '<a href=\"http://www.hc-sc.gc.ca/ahc-asc/calend/index-eng.php\" target=\"_blank\" rel=\"noopener\">Eye Health Month</a>' in Canada. There are about 285 million people living with blindness and low vision all around the world. Children account for some 19 million of them. The vast majority of visual impairment is readily treatable and/or preventable. Unfortunately, help is hard to access for 90% of blind people, who live in low-income countries.</p><p>In addition to raising awareness about the global impact of eye health and eye injury prevention, here are several things you should know about keeping your own eyes healthy:</p><ul><li>Protective eyewear is key!<ul><li>You might think we’re only talking to the construction workers and lab technicians, but nearly half of all eye injuries occur at home during activities such as yard work, home repair, cooking and cleaning.<ul><li>For Example, chemical splash is very common, as often it happens at home suddenly. Eye protection is important as acid and alkali burns can penetrate eye tissues quickly. If this does occur, flush the eyes with water or saline for 15 minutes before attempting to see your eye doctor</li></ul></li><li>Almost 40% of eye injuries in North America are sports related or caused during recreational activities.</li><li>What kind of protection do you need? Well, damage to the eyes can be caused by:<ul><li>Projectile or falling objects</li><li>Sticks (think hockey sticks) or other pointy rods</li><li>Chemicals – whether corrosive or hot</li><li>Dust</li><li>Sun exposure</li></ul></li><li>So, the right eyewear depends on the activity.</li></ul></li></ul><ul><li>Keep kids toys age appropriate and safe<ul><li>When parents think of toy safety, they are usually most concerned about whether it is a choking hazard.</li><li>Yet, toys cause thousands of eye injuries in children each year.</li><li>Check age recommendations on toys, and use common sense.</li><li>Children should play under adult supervision to prevent dangerous activities.</li><li>If your kid plays sports, make sure he or she has the right eyewear to prevent avoidable injury. Got glasses? Talk to your eye doctor about customizing your child’s gear with prescription goggles, or consider contact lenses.</li></ul></li><li>See your eye doctor every year<ul><li>Comprehensive eye exams are crucial to eye health. At your eye check-up, your optometrist will examine your vision and eyes.</li><li>Prevent vision loss by catching a developing eye condition in its early stages. Your eye doctor will monitor its progression and intervene as early as necessary. Early intervention is associated with better prognosis and usually requires less aggressive treatment.</li></ul></li></ul><p>Your optometrist is here for you, if you have any questions about eye health and eye injury prevention.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Oct 23, 2014",
+ "key": "october-is",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "October is…",
+   "path": "/october-is/"
+  }
+ ],
+ "children": []
+}

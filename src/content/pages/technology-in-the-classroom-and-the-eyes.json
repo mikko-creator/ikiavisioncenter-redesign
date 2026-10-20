@@ -1,0 +1,93 @@
+{
+ "path": "/technology-in-the-classroom-and-the-eyes/",
+ "url": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+ "kind": "post",
+ "section": "technology-in-the-classroom-and-the-eyes",
+ "title": "Technology in the Classroom and How It Might Affect The Eyes",
+ "h1": "Technology in the Classroom and the Eyes",
+ "head": {
+  "title": "Technology in the Classroom and How It Might Affect The Eyes",
+  "description": "As amazing as educational technology can be, it is important to be aware of the potential visual challenges that can arise from prolonged use of computers.",
+  "canonical": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Technology in the Classroom and the Eyes",
+   "og:description": "As amazing as educational technology can be, it is important to be aware of the potential visual challenges that can arise from prolonged use of computers.",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+   "twitter:card": "summary",
+   "twitter:title": "Technology in the Classroom and How It Might Affect The Eyes",
+   "twitter:description": "As amazing as educational technology can be, it is important to be aware of the potential visual challenges that can arise from prolonged use of computers.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+    "url": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+    "name": "Technology in the Classroom and the Eyes",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/boy%20in%20front%20of%20eye%20chart.jpg\" alt=\"boy 20in 20front 20of 20eye 20chart\"></p><p>The use of technology has become commonplace in the classroom. So much so that today’s generation of students, from kindergarten to university, navigates computers, smartphones and tablets all the time.  Many schools have even implemented the use of smart boards and bring your own device (BOYD) programs.</p><p>However, as amazing as this educational technology can be, it is important to be aware of the potential visual challenges that can arise from prolonged use of digital technology.</p><p>According to a recent study by the American Optometric Association's (AOA), 85 percent of parents surveyed said their children use an electronic device for up to four hours every day. The survey also found that 41 percent of children have their own smartphone or tablet while 32 percent use both e-books and textbooks at school. Additionally, 66 percent of children use a computer or tablet to do homework or study.</p><p>Staring at a screen for a few hours a day can cause visual discomfort and interfere with your child's ability to focus. Although regular use of digital devices won't damage vision, extended use of technology at school or for homework can lead to a temporary vision condition called computer vision syndrome (CVS). Symptoms of CVS include eye strain, fatigue, burning or tired eyes, the inability to focus, headaches, blurred vision, double vision or head and neck pain. To alleviate and prevent CVS, teach your child the 20-20-20 rule when using technology or doing near work: take a 20-second break, every 20 minutes to look at an object 20 feet away.</p><p>There are also a number of physical indicators that parents should be aware of that point to <a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">vision problems</a>. These include squinting or covering an eye to see a screen, repeated eye rubbing and excessive blinking. If your child complains of headaches or swimming words on a screen, consistently performs below his or her potential and has challenges completing homework, it is important to schedule a comprehensive eye exam to assess whether there may be any vision problems.</p><p>In addition, your child should hold any digital device a half to a full arm's length away from the eyes and slightly below eye level. Parents should encourage children to take breaks regularly while at the computer. Kids should also use ergonomic desk areas or gaming chairs to ensure comfort and proper posture. You can prevent glare on screens by using low-wattage light bulbs, dimmers, or curtains in the room. Avoid staring at screens in a completely dark room, and adjust the brightness and background color settings on the device.</p><p>Usage of digital devices will likely increase as technology advances. Teach your children good habits to keep their eyes comfortable and to protect their vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Sep 12, 2013",
+ "key": "technology-in-the-classroom-and-the-eyes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Technology in the Classroom and the Eyes",
+   "path": "/technology-in-the-classroom-and-the-eyes/"
+  }
+ ],
+ "children": []
+}

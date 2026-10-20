@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Corneal Inlays and Onlays",
+ "h1": "Corneal Inlays and Onlays",
+ "head": {
+  "title": "Corneal Inlays and Onlays",
+  "description": "Corneal inlays and onlays are new surgical procedures that can be alternatives to LASIK surgery. Find out more about this innovative method.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Corneal Inlays and Onlays",
+   "og:description": "Corneal inlays and onlays are new surgical procedures that can be alternatives to LASIK surgery. Find out more about this innovative method.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+   "twitter:card": "summary",
+   "twitter:title": "Corneal Inlays and Onlays",
+   "twitter:description": "Corneal inlays and onlays are new surgical procedures that can be alternatives to LASIK surgery. Find out more about this innovative method.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+    "name": "Corneal Inlays and Onlays",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Corneal inlays and onlays are corneal implants that are used to correct presbyopia, a common condition for individuals over age 40 in which the eyes have difficulty focusing on near objects. Presbyopia occurs as the lens of the eye begins to age and weaken, reducing the ability to focus on close objects without the assistance of reading glasses or another visual aid.</p><p>Corneal implants, such as inlays and onlays, offer a treatment solution to correct presbyopia as an alternative to using reading glasses or multifocals to obtain clear vision at a close range. Corneal inlays and onlays are like tiny contact lenses that are inserted into the cornea which reshape it to improve the refractive power and thereby improve near vision. Unlike corrective laser surgery such as PRK or LASIK the actual corneal tissue isn’t touched, but rather the shape of the cornea is changed by the transplanted lens.</p><p>Corneal inlays are placed in the stroma, the middle layer of the cornea (thus the name “in-lays”), while onlays are implanted closer to the surface of the cornea, under the epithelium, which is the thin outer layer of the cornea. The procedures for both inlays and outlays are relatively simple and quick, with minimal recovery.</p><p>Corneal Inlay and Onlay procedures are still in the early stages of development and with a number of clinical trials in progress, the technology should only improve in coming years.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-surgery__corneal-inlays-and-onlays",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  },
+  {
+   "name": "Corneal Inlays and Onlays",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/"
+  }
+ ],
+ "children": []
+}

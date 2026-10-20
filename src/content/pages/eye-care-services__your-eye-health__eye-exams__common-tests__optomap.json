@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Optomap",
+ "h1": "Optomap",
+ "head": {
+  "title": "Optomap",
+  "description": "Instead of having your eyes dilated your eye doctor may use an Optomap. Learn what it is and why it may be a good alternative for you.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Optomap",
+   "og:description": "Instead of having your eyes dilated your eye doctor may use an Optomap. Learn what it is and why it may be a good alternative for you.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+   "twitter:card": "summary",
+   "twitter:title": "Optomap",
+   "twitter:description": "Instead of having your eyes dilated your eye doctor may use an Optomap. Learn what it is and why it may be a good alternative for you.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+    "name": "Optomap",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>For many eyecare patients, having pupils dilated (opened up) using eye drops can be a bother. But as an integral part of a truly comprehensive eye exam, those drops are highly recommended. Dilation gives your eye doctor the widest view of the internal structures at the back of the eye—the optic nerve, retina, even blood vessels.</p><p>That’s where Optomap technology comes in. Using low-power laser technology, your eyecare professional can take a wide, instantly-viewable and detailed digital scan of your retina (the area responsible for processing images). All in real time. And in no time. Without the use of pupil-dilating eye drops.</p><h2>How does Optomap work?</h2><p>It’s very similar to sitting down in a type of photo booth and leaning forward to have your picture taken. Except in this instance, the picture being taken is a larger, wide-field image of the inside of your eyeball. Optomap takes around a minute.</p><p>Since retina scanning is so important in the early detection of cataracts, diabetic eye disease, glaucoma, age-related macular degeneration and more, it’s pretty easy to see why Optomap technology is so promising.</p><p>Optomap retinal exams are not available everywhere, however. And in some instances, these scans may not be covered by traditional insurance due to cuts in eye doctor reimbursements.</p><p>Check with your eyecare professional and ask if an Optomap eye exam is right for you.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit EyeGlass Guide today! </a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__optomap",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Optomap",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/"
+  }
+ ],
+ "children": []
+}

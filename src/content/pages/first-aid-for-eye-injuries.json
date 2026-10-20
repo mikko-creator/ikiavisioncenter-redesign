@@ -1,0 +1,93 @@
+{
+ "path": "/first-aid-for-eye-injuries/",
+ "url": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+ "kind": "post",
+ "section": "first-aid-for-eye-injuries",
+ "title": "How To Provide First Aid for Eye Injuries",
+ "h1": "First Aid for Eye Injuries",
+ "head": {
+  "title": "How To Provide First Aid for Eye Injuries",
+  "description": "To ensure that your eyes remain healthy, it is essential to protect them from injury and to take proper care measures if an injury has occurred.",
+  "canonical": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "First Aid for Eye Injuries",
+   "og:description": "To ensure that your eyes remain healthy, it is essential to protect them from injury and to take proper care measures if an injury has occurred.",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+   "twitter:card": "summary",
+   "twitter:title": "How To Provide First Aid for Eye Injuries",
+   "twitter:description": "To ensure that your eyes remain healthy, it is essential to protect them from injury and to take proper care measures if an injury has occurred.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+    "url": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+    "name": "First Aid for Eye Injuries",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>To ensure that your eyes remain healthy, it is essential to protect them from injury and to take proper care measures if an injury has occurred. As July is Eye Injury Prevention Month, here are a number of practical first aid tips to remember if you or anyone you know suffers an eye injury.</p><p>The very first step with any eye injury is of course to consult with your eye doctor or get a medical doctor to examine your eye as soon as possible. This is true even if the injury does not seem to be extensive, as often signs of a serious eye injury are not apparent immediately. When it comes to eye injury it is important not to rub, touch, or apply pressure, ointment or medication to the eye. Try to leave the eye alone as much as possible until you are in proper care of a doctor.</p><p>Common eye injuries include foreign particles that scratch the eye, foreign bodies that penetrate the eye, a blow to the eye and chemical burns. Here are some tips for each of these <a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">common injuries</a>:</p><p><strong>Foreign Particles</strong></p><ul><li>If you have a foreign particle in your eye, refrain from rubbing it.</li><li>Blink and apply artificial tears to attempt to loosen and flush out the particle. If blinking this way is unsuccessful in providing relief, keep your eye closed and see your eye doctor right away.</li></ul><p><strong>Chemical Burns</strong></p><ul><li>Flush your eye for 20-30 minutes, preferably with sterile saline, but tap water is acceptable. Copious but gentle irrigation is needed right away to avoid acid or alkali burn penetrating into the deeper tissues of the eye.</li><li>Contact your eye doctor or the emergency room to find out the next step to take.</li><li>Be sure to identify the substance that entered your eye and tell your doctor.</li><li>If your vision is extremely blurry or your eye very red, place a cool compress or icepack on it until you receive medical attention.</li></ul><p><strong>Blow to the eye</strong></p><ul><li>A minor blow can cause significant damage to the eye. Apply a small cold compress to reduce swelling and pain but be sure not to apply any pressure.</li><li>If you develop blur, floaters or flashes of light, pain or a black eye seek immediate assessment from your eye doctor or the emergency room.</li></ul><p><strong>Cuts, Penetrating or Foreign Objects</strong></p><ul><li>If possible, protect your eye with an eye shield such as a paper cup taped around the area.</li><li>Seek medical help immediately.</li><li>Do not rub, attempt to remove the object or apply pressure to the eye.</li><li>Even small cuts can pose a risk for infection so it is important to consult with a doctor for any penetration injury.</li></ul><p>Most eye injures occur at work, at home, in the garage or the garden. The best way to prevent one is to ensure that your eyes are protected during any potentially dangerous activity. Wear protective eyewear if your job requires it and when you play sports that involve flying objects of any kind. Preventing damage to your eyes can be as simple as wearing a pair of ANSI (American National Standards Institute) approved protective eyewear. Don't take any risk with your eyesight. Treat all eye injuries as emergencies and seek medical care as soon as possible.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jul 19, 2013",
+ "key": "first-aid-for-eye-injuries",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "First Aid for Eye Injuries",
+   "path": "/first-aid-for-eye-injuries/"
+  }
+ ],
+ "children": []
+}

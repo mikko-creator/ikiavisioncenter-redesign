@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Multifocal Eyeglass Lenses",
+ "h1": "Multifocal Eyeglass Lenses",
+ "head": {
+  "title": "Multifocal Eyeglass Lenses",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Multifocal Eyeglass Lenses",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Multifocal Eyeglass Lenses",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+    "name": "Multifocal Eyeglass Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Over 40",
+   "path": "/eye-care-services/your-eye-health/vision-over-40/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Multifocal lenses technically refer to any lens that provides more than one zone of corrective power and would therefore include bifocal, trifocal and progressive lenses. Multifocals are designed for the many individuals over 40 who struggle with presbyopia – the age-related near vision loss that requires us to use eyeglasses for reading and focusing on objects in our near vision. The multiple lens powers enable you to correct for near and distance vision with one pair of glasses.</p><p>Bifocal Lenses</p><p>Bifocal lenses are divided into two powers, one for distance vision and the second for near vision. Bifocals are created in a variety of designs with different sized and shaped viewing segments for near and far vision. While bifocals provide good distance and near vision, they are lacking in corrective power for intermediate areas, which is what has led to the development of trifocal and progressive lenses.</p><p>Trifocal Lenses</p><p>Trifocal lenses provide an additional lens power zone for intermediate vision (which is typically about an arm’s length away).</p><p>Some people are bothered by the visible lines where the lenses are divided in bifocal and trifocal lenses. In addition to aesthetics (the lines have become a sign of presbyopia which many associate with growing old), the harsh divisions in the zones can cause a distortion in the object you are viewing (an image jump) when you switch your gaze from one power to the next.</p><p>Progressive Addition Lenses (PALs)</p><p>Progressive lenses were designed to eliminate the “image jump” that results from the distinct zones in bifocal and trifocal lens design. By providing a smooth progression of many lens powers across the lens, PALs allow for clear vision near, far and every distance in between. Further, similar to natural vision, they just require a slight movement of the eye, rather than the whole head, for you to see through different lens powers. The smooth transition also eliminates the visible lines present on the other lenses which many view as tell-tale signs of age-related vision difficulties.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-over-40__multifocal-eyeglass-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Over 40",
+   "path": "/eye-care-services/your-eye-health/vision-over-40/"
+  },
+  {
+   "name": "Multifocal Eyeglass Lenses",
+   "path": "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/"
+  }
+ ],
+ "children": []
+}

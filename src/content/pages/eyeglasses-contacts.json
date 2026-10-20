@@ -1,0 +1,190 @@
+{
+ "path": "/eyeglasses-contacts/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Eyeglasses & Contacts",
+ "h1": "Quality Eyewear in Houston",
+ "head": {
+  "title": "Eyeglasses & Contacts",
+  "description": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eyeglasses & Contacts",
+   "og:description": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+   "twitter:card": "summary",
+   "twitter:title": "Eyeglasses & Contacts",
+   "twitter:description": "We carry a wide selection of eyewear at our optical including fashionable eyeglasses, a variety of contact, sunglasses, and specialty eyewear. Stop by!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+    "name": "Eyeglasses &#038; Contacts",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2023-01-12T14:53:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Glasses-Contacts-hero.jpg",
+  "overlay": false,
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<p>EYEWEAR THAT MAKES YOU FEEL STRONGER</p><p>Icare Clinic offers a wide range of eyewear including the latest styles in designer sunglasses and prescription eyeglasses. We also carry many accessories to complete your optical purchase.</p>"
+   },
+   {
+    "t": "button",
+    "text": "BOOK AN EXAM TODAY",
+    "href": "/contact-us/appointment-request-form/",
+    "external": false
+   },
+   {
+    "t": "button",
+    "text": "BROWSE EYEWEAR",
+    "href": "https://shop.ikiavisioncenter.com/",
+    "external": true
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c50bb012f851",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Quality Eyewear in Houston</h2><p>Making a decision about your eyewear goes beyond good vision and makes a statement about who you are. Your decision affects how you see and also how you want to be seen by others. But with so many different styles to choose from, getting the right look for your face and your lifestyle can be overwhelming.</p><hr><h2>Our Eyewear Services:</h2>"
+        },
+        {
+         "t": "search"
+        },
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Eyeglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/",
+           "summary": "Our staff will help you find the best fit for your specific needs and explain how different lenses and frames will impact your vision.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Glasses.jpg",
+           "imageAlt": "Thumbnail Glasses"
+          },
+          {
+           "title": "Contact Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/",
+           "summary": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts.jpg",
+           "imageAlt": "Thumbnail contacts"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/",
+   "title": "A WIDE SELECTION OF CONTACT LENSES"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/",
+   "title": "PLENTY OF CHOICE—EYEGLASSES"
+  }
+ ]
+}

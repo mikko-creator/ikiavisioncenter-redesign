@@ -1,0 +1,104 @@
+{
+ "path": "/team/dr-ike-ikechi-od/",
+ "url": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+ "kind": "page",
+ "section": "team",
+ "title": "Dr. Ike Ikechi, OD",
+ "h1": "Dr. Ike Ikechi, OD",
+ "head": {
+  "title": "Dr. Ike Ikechi, OD",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Dr. Ike Ikechi, OD",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/ike_GSP_UID_8d9b3106-b304-428f-9dd3-d84576320c96-470x427.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/ike_GSP_UID_8d9b3106-b304-428f-9dd3-d84576320c96-470x427.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+   "twitter:card": "summary",
+   "twitter:title": "Dr. Ike Ikechi, OD",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/ike_GSP_UID_8d9b3106-b304-428f-9dd3-d84576320c96-470x427.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+    "url": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+    "name": "Dr. Ike Ikechi, OD",
+    "datePublished": "2019-09-23T21:31:01-04:00",
+    "dateModified": "2019-09-23T21:31:01-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Our Doctors",
+   "path": "/our-eye-doctors/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "team",
+         "view": "complete",
+         "items": [
+          {
+           "name": "",
+           "role": null,
+           "photo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/ike_GSP_UID_8d9b3106-b304-428f-9dd3-d84576320c96.jpg",
+           "photoAlt": "Dr. Ike Ikechi, OD",
+           "href": null,
+           "html": "<p>Dr Ike Ikechi is originally from Africa where he first graduated from Optometry school in 1991. After moving to the U.S., he went on to gain another degree from Inter- Americana University School of Optometry, Puerto Rico. He is a therapeutically certified optometrist and has enjoyed the practice of Optometry for over 20 years.</p><p>As a family man, he is married and blessed with two children. Dr Ikechi is an active member of his local church and serves the community of humanity through foreign medical missions. He is affiliated with Texas Optometry Association (TOA) and American Optometry Association (AOA).</p><p>AT ICARE CLINIC, YOUR VISION IS OUR CARE!</p>"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "team__dr-ike-ikechi-od",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Dr. Ike Ikechi, OD",
+   "path": "/team/dr-ike-ikechi-od/"
+  }
+ ],
+ "children": []
+}

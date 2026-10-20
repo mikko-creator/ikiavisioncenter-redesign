@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-LIGHT",
+  "file": "assets/generated/g-light.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Abstract photograph of warm amber and cool teal light caustics and soft round bokeh, ribbons of refracted light cast by unseen curved glass drifting across a mostly dark frame, dreamy and minimal, no objects, no people; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1525615996,
+  "requestId": "01a15739-ea61-7c80-834d-f561e0de144a",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "87b64fb9f3a59e72efa4af660e99df4ad749b839ed914206f72a13dda913ff19",
+  "raw": "tmp/img/raw/G-LIGHT.1792464787995.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:53:09.760Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "abstract amber and teal light ribbons and bokeh on dark, no objects; source of V-LIGHT",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

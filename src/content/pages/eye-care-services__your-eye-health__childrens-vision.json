@@ -1,0 +1,166 @@
+{
+ "path": "/eye-care-services/your-eye-health/childrens-vision/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Children's Vision",
+ "h1": "Children's Vision",
+ "head": {
+  "title": "Children's Vision",
+  "description": "From infants to teens, parents need to be informed how to best help their child's vision develop. Call us for an eye exam and read this section.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Children's Vision",
+   "og:description": "From infants to teens, parents need to be informed how to best help their child's vision develop. Call us for an eye exam and read this section.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+   "twitter:card": "summary",
+   "twitter:title": "Children's Vision",
+   "twitter:description": "From infants to teens, parents need to be informed how to best help their child's vision develop. Call us for an eye exam and read this section.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+    "name": "Children&#039;s Vision",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Vision is arguably the most important of the five senses; it plays a crucial role throughout childhood and beyond. Yet many parents don’t understand how vision helps their children develop appropriately. The articles below can help.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Vision Therapy for Children",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+           "summary": "An individualized program of eye exercises and other methods can treat non-refractive vision problems such as eye alignment and lazy eye.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Children's Vision - FAQ's",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+           "summary": "How often should your child's eyes be examined? What's the difference between a school vision screening and a comprehensive eye exam? and more.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Your Infant's Visual Development",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+           "summary": "Knowing the expected milestones of your baby's vision development during their first year of life can ensure your child is seeing properly and enjoying their world to the fullest.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Are Contact Lenses a Good Choice for Kids?",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+           "summary": "Contact lenses offer advantages in the areas of sports and self-esteem. But when is your child old enough for contacts?",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Controlling Nearsightedness in Children",
+           "href": "/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+           "summary": "Certain types of contact lenses and eyeglasses may play a role in slowing the progression of myopia, or nearsightedness.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__childrens-vision",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Children's Vision",
+   "path": "/eye-care-services/your-eye-health/childrens-vision/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+   "title": "Are Contact Lenses a Good Choice for Kids?"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+   "title": "Children's Vision – FAQ's"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+   "title": "Controlling Nearsightedness in Children"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+   "title": "Vision Therapy for Children"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+   "title": "Your Infant's Visual Development"
+  }
+ ]
+}

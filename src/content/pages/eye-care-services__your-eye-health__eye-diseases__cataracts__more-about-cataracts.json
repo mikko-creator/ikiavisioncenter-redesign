@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "More About Cataracts",
+ "h1": "More About Cataracts",
+ "head": {
+  "title": "More About Cataracts",
+  "description": "Learn more about cataracts by reading this article or contact our optometrist to set up an eye exam for testing and screening.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "More About Cataracts",
+   "og:description": "Learn more about cataracts by reading this article or contact our optometrist to set up an eye exam for testing and screening.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+   "twitter:card": "summary",
+   "twitter:title": "More About Cataracts",
+   "twitter:description": "Learn more about cataracts by reading this article or contact our optometrist to set up an eye exam for testing and screening.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+    "name": "More About Cataracts",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Though cataracts are often associated with aging—particularly men and women over age 60, people in their 40’s and 50’s are also more prone to developing cataracts. Research suggests that lifestyle factors like cigarette and alcohol use, diabetes and prolonged exposure to the sun’s harmful UV rays could all contribute to lens yellowing with age, and cataracts.</p><p>Other types of cataracts include secondary cataracts from surgery for other eye disorders like glaucoma; cataracts that form as a response to eye trauma or injury; cataracts that develop after exposure to certain forms of radiation; and in some cases, cataracts are congenital—you’re born with them.</p><p>The point is—with <strong>cataract symptoms</strong> and treatment, as with all things eyecare-related—there’s no substitute for a comprehensive, regularly schedule eye exam to check for vision problems and maintain healthy sight.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today! </a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__cataracts__more-about-cataracts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  },
+  {
+   "name": "More About Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/"
+  }
+ ],
+ "children": []
+}

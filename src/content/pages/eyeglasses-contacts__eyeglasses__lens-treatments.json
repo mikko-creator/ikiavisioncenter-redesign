@@ -1,0 +1,145 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Lens Treatments",
+ "h1": "Lens Treatments",
+ "head": {
+  "title": "Lens Treatments",
+  "description": "Scratches, glare, ultraviolet rays—all are potential hazards to healthy sight that can be minimized or eliminated by a lens treatment.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Lens Treatments",
+   "og:description": "Scratches, glare, ultraviolet rays—all are potential hazards to healthy sight that can be minimized or eliminated by a lens treatment.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-lens-treatment-2.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-lens-treatment-2.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+   "twitter:card": "summary",
+   "twitter:title": "Lens Treatments",
+   "twitter:description": "Scratches, glare, ultraviolet rays—all are potential hazards to healthy sight that can be minimized or eliminated by a lens treatment.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-lens-treatment-2.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+    "name": "Lens Treatments",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/new-default-images/Thumbnail-lens-treatment-2-300x200.jpg\" alt=\"Thumbnail lens treatment 2\">A lens treatment is a special additive that either bonds with the lens, or is built into the lens during the lens manufacturing process. Lens treatments are available as individual additions to lenses, and are also commonly bundled into single lens products for convenience and maximum benefit to your eyes.</p><p>Common Lens Coatings &amp; Treatments:</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "UV Protection",
+           "href": "/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+           "summary": "The UV rays in sunlight can be harmful to the eyes. Lenses that block 100% UV help to ward off various eye conditions and damage.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Scratch Resistant",
+           "href": "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+           "summary": "Scratches on lenses are distracting, plain and simple. And they can interfere with lens performance. Scratch-resistant treatments imbued into the lens surface toughen up the lenses making them more durable.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Anti-Reflective",
+           "href": "/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+           "summary": "For fashion, comfort and clarity, anti-reflective treatments are the way to go. They make the lens nearly invisible and cut glare from headlights, computer screens and harsh lighting.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__lens-treatments",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+   "title": "Anti-Reflective"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+   "title": "Scratch Resistant"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+   "title": "UV Protection"
+  }
+ ]
+}

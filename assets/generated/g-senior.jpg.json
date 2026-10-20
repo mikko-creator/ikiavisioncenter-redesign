@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-SENIOR",
+  "file": "assets/generated/g-senior.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Portrait of a smiling older adult in their sixties with silver hair, wearing modern thin-rimmed reading glasses, warm natural window light sculpting one side of the face, the other side falling into soft shadow with a faint teal rim light, relaxed and content expression, generic model; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1274959790,
+  "requestId": "01a15739-63e0-7f90-b048-e033dd81d1fb",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "e937706a1d03d645c04028ed15e5e2123c81b1f3409ca8a361c2b2cbd8447edd",
+  "raw": "tmp/img/raw/G-SENIOR.1792464751510.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:52:33.341Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "smiling older adult in round glasses, warm window chiaroscuro; natural face; no text; generic model",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

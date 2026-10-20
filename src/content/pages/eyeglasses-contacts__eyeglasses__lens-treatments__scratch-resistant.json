@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Scratch Resistant",
+ "h1": "Scratch Resistant",
+ "head": {
+  "title": "Scratch Resistant",
+  "description": "Scratch-resistant treatments imbued into the lens surface toughen up the lenses making them more durable.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Scratch Resistant",
+   "og:description": "Scratch-resistant treatments imbued into the lens surface toughen up the lenses making them more durable.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+   "twitter:card": "summary",
+   "twitter:title": "Scratch Resistant",
+   "twitter:description": "Scratch-resistant treatments imbued into the lens surface toughen up the lenses making them more durable.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+    "name": "Scratch Resistant",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>There’s no such thing as scratch-proof lenses. (Even glass lenses can be scratched!) Scratches, while not likely to affect your lens performance, are an annoyance that can interfere with clear vision. That’s why you should always request scratch resistant lenses (treatment) for your eyeglass lenses.</p><p>Many of today’s lens products have hard scratch-resistant protection built into the lens—a hard surface treatment that is specifically designed to resist scratches. But it’s not an automatic feature! Be sure to discuss scratch resistant glasses options with your eye care professional.</p><p>We put our glasses through a lot from day to day—and our children, even more so. Scratch resistant lenses can go a long way toward minimizing the everyday wear and tear we put on our eyewear.</p><h2>Lens care for scratch-resistant glasses</h2><p>Don’t forget, no treatment can completely protect eyeglass lenses from scratches. But you can help out! Remember to keep your glasses in a cushioned, sturdy case when not wearing them. Clean them regularly with warm, soapy water and dry them with a clean, soft cloth. With scratches as with life, a little extra care goes a long, long way.<br>  <br> Special thanks to the EyeGlass Guide, for information material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the </a><a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">EyeGlass Guide </a><a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__lens-treatments__scratch-resistant",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  },
+  {
+   "name": "Scratch Resistant",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/"
+  }
+ ],
+ "children": []
+}

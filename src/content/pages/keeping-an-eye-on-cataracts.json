@@ -1,0 +1,93 @@
+{
+ "path": "/keeping-an-eye-on-cataracts/",
+ "url": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+ "kind": "post",
+ "section": "keeping-an-eye-on-cataracts",
+ "title": "Keeping an Eye on Cataracts",
+ "h1": "Keeping an Eye on Cataracts",
+ "head": {
+  "title": "Keeping an Eye on Cataracts",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Keeping an Eye on Cataracts",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+   "twitter:card": "summary",
+   "twitter:title": "Keeping an Eye on Cataracts",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+    "url": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+    "name": "Keeping an Eye on Cataracts",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/father%20and%20son%20shaking%20hands.png\" alt=\"\"></p><p>Cataracts affect millions of people nationwide and as the population continues to age, the numbers keep increasing. The good news is, cataracts are often manageable and treatable.</p><p>As June is Cataract Awareness Month, here are some facts you should know to help you recognize cataracts and prevent permanent vision loss.</p><ol><li>A cataract is a clouding of the lens in the eye, which inhibits the passage of light into the eye and results in blurred or dimmed vision.  The lens is what helps to focus an image onto the retina, which transmits the images to the brain.</li><li>Cataracts usually develop as a natural result of the aging process and can occur in one or both eyes.</li><li>Aside from aging, other risk factors for developing cataracts include:  long-term exposure to UV rays from the sun, certain health conditions (e.g. diabetes), genetic predisposition, eye injuries, eye inflammation, long-term steroid use and other medications, and smoking.</li><li>Cataracts are the leading cause of vision loss among adults 55 and older.  Over half the population above the age 65 has some degree of cataract development.</li><li>By the age of 80, it is likely that most people will have developed a cataract or had surgery to remove it.</li><li>During the early stages of cataract development, you can use stronger lighting and glasses.  Special lens coatings can also reduce glare.  At a certain point, however, cataract surgery is required to improve your vision.</li><li>Cataract surgery is very common and involves the removal of the clouded lens and in most cases replaces it with a clear lens made from plastic, called an intraocular lens (IOL). New developments in IOLs are constantly being researched to make the surgery even less complicated and more successful in helping to restore vision in patients.</li><li>Over 90 percent of people who have cataract surgery regain useful vision. Consult with your eye doctor to get information about the pros and cons, alternatives and expected results of cataract surgery.</li><li>The key to preventing permanent vision loss is regular eye exams. If you are 65 or over, you should have a yearly eye exam, even if you feel your vision is unchanged.</li></ol><p>While cataracts are a natural part of aging, it is vital to ensure that you care for your eyes your entire life. Again, make sure that you have a dilated exam at least once a year. This will ensure you are examined for cataract development and for other eye and vision problems and will also help to maintain your overall eye health.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 29, 2014",
+ "key": "keeping-an-eye-on-cataracts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Keeping an Eye on Cataracts",
+   "path": "/keeping-an-eye-on-cataracts/"
+  }
+ ],
+ "children": []
+}

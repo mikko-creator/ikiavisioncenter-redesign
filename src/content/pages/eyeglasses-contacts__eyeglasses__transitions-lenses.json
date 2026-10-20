@@ -1,0 +1,175 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Transitions® Lenses",
+ "h1": "Transitions® Lenses",
+ "head": {
+  "title": "Transitions® Lenses",
+  "description": "Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology, the ability of a lens to darken in the presence of UV light.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Transitions® Lenses",
+   "og:description": "Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology, the ability of a lens to darken in the presence of UV light.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-transitions.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-transitions.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Transitions® Lenses",
+   "twitter:description": "Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology, the ability of a lens to darken in the presence of UV light.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-transitions.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+    "name": "Transitions® Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "5d25b9495d35d",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Welcome to a near-perfect pair of glasses.</h2><p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/new-default-images/Thumbnail-transitions-300x200.jpg\" alt=\"Thumbnail transitions\">Transitions® Lenses are photochromic lenses that are clear until dangerous ultraviolet radiation (UV) is present. Once outdoors, the brighter the sun, the darker Transitions®  Lenses become. They turn as dark as sunglasses by automatically reacting to the intensity of UV radiation.</p><p>Since Transitions® Lenses block 100% of the sun's eye-damaging rays and help to reduce painful, discomforting glare, they protect your eyes on cloudy days, sunny days, and everything in between. Transitions® Lenses are the most convenient way for you to protect your eyes from the light you can see and the light you can’t, all while helping to improve the quality of your vision and the long-term health and well-being of your eyes.</p><p>This means healthy sight for just about everyone, anywhere, anytime!</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Are Transitions® Lenses Right For You?",
+           "href": "/eyeglasses-contacts/eyeglasses/transitions-lenses/are-transitions-right-for-you/",
+           "summary": "Indoors, outdoors, day and night—while working, reading, playing or just kicking back with family or friends, your life is unique. And uniquely busy. In a perfect world, your everyday lenses would help you see better, feel better and look better; all while protecting your eyes day-in and day-out.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Original Transitions Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+           "summary": "Transitions® Lenses everyday lenses can help you through your busy day. This dynamic eyewear is designed to be worn indoors and to automatically adapt when outdoors to give you a more comfortable viewing experience while protecting your eyes from damaging UV light.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Transitions® Lenses XTRActive",
+           "href": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+           "summary": "Features include: Slight indoor tint, darkest everyday Transitions® Lenses for those who spend most of the day outdoors, moderate tint behind the windshield to provide some comfort while driving.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Transitions® SOLFX Sunwear Products",
+           "href": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+           "summary": "Transitions® Lenses SOLFX™ performance sun lenses are specifically designed for outdoor activities to help enhance visual performance. Crafted with functionality in mind, Transitions® Lenses SOLFX lenses automatically adjust to optimize lens color and darkness in changing outdoor lighting conditions.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__transitions-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/are-transitions-right-for-you/",
+   "title": "Are Transitions® Lenses Right For You?"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+   "title": "Original Transitions Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+   "title": "Transitions® SOLFX Sunwear Products"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+   "title": "Transitions® Lenses XTRActive"
+  }
+ ]
+}

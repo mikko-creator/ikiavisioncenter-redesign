@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "What are the signs and symptoms of a Cataract?",
+ "h1": "Signs & Symptoms",
+ "head": {
+  "title": "What are the signs and symptoms of a Cataract?",
+  "description": "Learn about the symptoms of cataract disease so that you can help your optometrist with early detection. Find out the signs of the disease and be prepared.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Signs & Symptoms",
+   "og:description": "Learn about the symptoms of cataract disease so that you can help your optometrist with early detection. Find out the signs of the disease and be prepared.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+   "twitter:card": "summary",
+   "twitter:title": "What are the signs and symptoms of a Cataract?",
+   "twitter:description": "Learn about the symptoms of cataract disease so that you can help your optometrist with early detection. Find out the signs of the disease and be prepared.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+    "name": "Signs &amp; Symptoms",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Cataracts don’t suddenly develop overnight. They generally start off small and only begin to noticeably affect your vision as they grow. The first symptom is usually that your vision becomes blurred, hazy or cloudy. Additionally, you may become sensitive to light, making sunlight, oncoming headlights or indoor lighting appear exceptionally glaring or bright. Colors may seem dim and you may notice halos around lights or double vision.</p><p>The symptoms people experience from cataracts may vary. Some individuals even report a temporary improvement in near vision when a cataract first develops, a phenomenon known as “second sight”.</p><p>Here is a list of possible signs and symptoms of developing cataracts:</p><ul><li>Blurry or cloudy vision (that can’t be corrected with a change in eyeglass prescription)</li><li>Glare from lamps, sunlight, oncoming traffic when driving at night or indoor lighting</li><li>Colors appear dim and less vibrant</li><li>Halos around lights</li><li>Double vision</li><li>Poor night vision</li><li>Sudden improvement in near vision</li></ul><p>If you experience any change in your vision, visit your eye doctor immediately.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__cataracts__signs-symptoms",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  },
+  {
+   "name": "Signs & Symptoms",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/"
+  }
+ ],
+ "children": []
+}

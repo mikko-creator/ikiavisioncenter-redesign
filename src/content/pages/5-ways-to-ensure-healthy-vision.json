@@ -1,0 +1,93 @@
+{
+ "path": "/5-ways-to-ensure-healthy-vision/",
+ "url": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+ "kind": "post",
+ "section": "5-ways-to-ensure-healthy-vision",
+ "title": "5 Ways to Ensure Healthy Vision",
+ "h1": "5 Ways to Ensure Healthy Vision",
+ "head": {
+  "title": "5 Ways to Ensure Healthy Vision",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "5 Ways to Ensure Healthy Vision",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+   "twitter:card": "summary",
+   "twitter:title": "5 Ways to Ensure Healthy Vision",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+    "url": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+    "name": "5 Ways to Ensure Healthy Vision",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/art_and_architecture/watermelon-mike.jpg\" alt=\"\"></p><p>Your eyes are constantly at work for you, playing a vital role as you navigate through each day. As May is healthy vision month, here are some things to keep in mind:</p><ol><li>Know your genes<p>While your eyes may be the same color as your father’s eyes, you may have inherited glaucoma from your mother’s side of the family. Your genes are an important factor in your eye health as many eye diseases are known to be hereditary. It’s vital that you know your family’s eye health history. Sharing this information with your eye care practitioner at your next eye exam will help us determine which diseases you’re at risk for so that we can help put you on the right path for prevention or treatment.</p></li><li>Protect your eyes<p>Whether it’s strong UV rays from the outdoor sun or hazards in the workplace, there is protective eyewear available suited to the environment you’re in. You should wear sunglasses when you’re outside, sports goggles or glasses during active play and protective goggles to keep dangerous substances found at home or in the workplace from harming your eyes.</p></li><li>Maintain your eye health by eating right<p>Eating a wide variety of fruits and vegetables, especially green leafy vegetables such as spinach and kale have proven to be beneficial for your eye health. Flax seeds, fish and fortified eggs that are high in omega 3 fatty acids are also known to aid in maintaining healthy eyes.  Having an overall healthy lifestyle by not smoking, exercising and maintaining a healthy weight has been proven to reduce risk for many eye diseases.</p></li><li>Give them a break<p>Your eyes work really hard every day, especially if you are in front of a computer screen. Remember to apply the 20-20-20 rule to prevent eye strain: every 20 minutes look at something 20 feet away for 20 seconds.</p></li><li>Get a dilated eye exam every year<p>Be sure to have a dilated eye exam at least once a year. A thorough check is the only way to spot any problems that exist or are developing. Some eye diseases, which cause vision loss if not treated early, have no warning signs at all and can only be detected in this way.</p></li></ol><p>All of these tips will help you keep your sight in check and go a long way in ensuring that you maintain healthy sight your whole life through.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "May 29, 2015",
+ "key": "5-ways-to-ensure-healthy-vision",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "5 Ways to Ensure Healthy Vision",
+   "path": "/5-ways-to-ensure-healthy-vision/"
+  }
+ ],
+ "children": []
+}

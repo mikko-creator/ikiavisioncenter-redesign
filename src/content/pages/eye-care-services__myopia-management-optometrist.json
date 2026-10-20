@@ -1,0 +1,513 @@
+{
+ "path": "/eye-care-services/myopia-management-optometrist/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Myopia Management in Costa Mesa, CA | Optometrist Near You",
+ "h1": "Myopia Management",
+ "head": {
+  "title": "Myopia Management in Costa Mesa, CA | Optometrist Near You",
+  "description": "In children myopia can rapidly progresses, putting them at risk for dangerous eye diseases later in life. Learn how myopia management can help.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+  "robots": "index,follow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Myopia Management",
+   "og:description": "In children myopia can rapidly progresses, putting them at risk for dangerous eye diseases later in life. Learn how myopia management can help.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2026/04/Myopia-Management-LP_Thumbnail.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2026/04/Myopia-Management-LP_Thumbnail.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+   "twitter:card": "summary",
+   "twitter:title": "Myopia Management in Costa Mesa, CA | Optometrist Near You",
+   "twitter:description": "In children myopia can rapidly progresses, putting them at risk for dangerous eye diseases later in life. Learn how myopia management can help.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2026/04/Myopia-Management-LP_Thumbnail.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+    "name": "Myopia Management",
+    "datePublished": "2018-06-04T16:35:52-04:00",
+    "dateModified": "2026-04-06T13:43:03-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "627104801891e",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "Myopia Management",
+         "html": "<p>Is your child nearsighted?</p><p>Does it seem like their myopia (nearsightedness) is constantly getting worse?</p><p>Offer your child the eyesight they deserve with myopia management.</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "627104801892e",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "crumbs",
+         "text": "Home » Eye Care Services » Myopia Management"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Nearsightedness: Not Just An Inconvenience"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Though glasses and standard contact lenses are the most common way to address myopia, they don’t do anything to prevent your child’s vision from getting worse over time.</p><p>What’s more, myopia significantly increases your child’s risk of developing potentially sight-threatening eye diseases later in life, such as cataracts, glaucoma, retinal detachment and macular degeneration. The higher your child’s myopia, the greater the risk.</p><p>If you’re concerned about your child’s long-term eye health and vision, contact us today.</p>"
+        },
+        {
+         "t": "button",
+         "text": "Learn More",
+         "href": "/myopia-management-optometrist/is-your-child-a-candidate-for-myopia-management/",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "627104801893c",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "What is Myopia Management?",
+         "html": "<p>Myopia management uses various personalized treatments and technologies to prevent or slow your child's myopia progression. Depending upon what your child needs, our optometrists in can help your child minimize their myopia progression and reduce their chances of developing common eye diseases later in life.</p><p>Below are some of the most common effective methods of myopia management:</p>",
+         "href": "/myopia-management-optometrist/what-treatments-are-used-in-myopia-management/",
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63f5003fd612e",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>The Importance of Starting Myopia Management Early</h2><p>If you’re a parent of a young child who has myopia, you may be asking whether it really matters if your child’s prescription is a little stronger or a little weaker. They’ll be wearing glasses or contacts every day anyway, right? And besides, aren’t they a bit young to start myopia management?</p><p>In reality, it does matter how strong your child’s prescription is, even if there’s only a slight difference. This is because studies have shown that as a child’s myopia gets worse, their chances of developing sight-threatening eye diseases later in life go up as well.</p><p>This is why, when it comes to myopia management, our Houston eye care team believes that the earlier you start your child on myopia management, the better.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "62939b2ca21ca",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Understanding Myopia Management"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 33,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "Symptoms of Myopia",
+         "html": "<ul><li>Your child has a hard time seeing things clearly from far away</li><li>Your child has to squint to see objects that are not close to them</li><li>They constantly experience eyestrain and headaches</li><li>They have a hard time successfully participating in sports that involve small balls, like baseball or tennis</li></ul>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      },
+      {
+       "w": 33,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "Myopia and Eye Diseases",
+         "html": "<p>Did you know that as your child's myopia gets worse, their risk of vision loss from conditions like macular degeneration, glaucoma, or retinal detachment goes up by as much as 10 times!</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      },
+      {
+       "w": 33,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "Myopia Treatment",
+         "html": "<p>The good news? Myopia management and regular eye exams with our Houston optometry team can help your child regain clear vision, and slow down or even stop their vision from worsening.</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Protect your child’s long-term vision and eye health. Contact our optometry team regarding myopia management at Icare Clinic today!</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6299f37375350",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "How Do I Know If My Child Needs Myopia Management?"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": false,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": null,
+         "html": "<p>Are you worried about your child's myopia? Come visit our Houston practice today, or give us a call at 832-717-3937. Our optometry team will speak to you about your child's nearsightedness and how we may be able to help.</p><p>Take our myopia assessment online to find out if myopia management may be a game-changer for your child.</p>",
+         "href": "/myopia-management-optometrist/myopia-management-quiz/",
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6271048018954",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Myopia increases the risk of serious eye diseases"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/2470/2022/09/close-up-eye-2.jpg",
+         "alt": "focus on a blue eye",
+         "href": null,
+         "external": false,
+         "caption": null
+        }
+       ]
+      },
+      {
+       "w": 50,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>As we’ve said, children with myopia have a higher risk of developing potentially sight-threatening eye conditions in the future. But how much does your risk grow, exactly, as your myopia gets worse?<br><br>Your risk of developing myopic maculopathy, an especially severe form of macular degeneration, is 2.2x higher if your prescription is -2.00, and jumps to 9.7x at -4.00, 40.6x higher at -6.00, and is a whopping 126.8x higher at a prescription of -8.00.<br><br>The best way to stop this is by starting your child on myopia management as soon as possible.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "63f4e003ae9d9",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Dry Eye Syndrome and Myopia Management"
+        },
+        {
+         "t": "rich",
+         "html": "<p>Dry eye syndrome (DES) is a condition in which the eyes are unable to keep themselves properly hydrated, leading to uncomfortable symptoms such as dry, gritty-feeling, red, watery, or itchy eyes. This can happen either because not enough tears are being produced, or because of an imbalance in the components that make up your tear film (mucus, oil, and water).</p><p>Even though children tend to develop DES much less often than adults, they can still suffer from it in some instances. In fact, some experts believe that dry eye syndrome is actually much more common than we realize in children, but it goes underdiagnosed because they may not have the verbal skills to describe what they’re feeling.</p><p>When considering if myopia management is right for their child, some parents express concern that myopia management could negatively affect their child’s dry eye syndrome.</p><p>If you’re a concerned parent, who nonetheless would like to see if myopia management is a good fit for your kid, come speak to our Houston optometrist. We carefully treat each case on an individual basis.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "6299fe145b330",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "What Factors Increase Risk of Myopia?"
+        },
+        {
+         "t": "rich",
+         "html": "<p>According to our eye care team, the following factors may increase the risk of nearsightedness:</p>"
+        },
+        {
+         "t": "divider"
+        },
+        {
+         "t": "image",
+         "src": "https://s3.amazonaws.com/ecp-uploads/wp-content/uploads/sites/2470/2022/06/genetic-factors-infographic.svg",
+         "alt": "illustration of a family",
+         "href": null,
+         "external": false,
+         "caption": null
+        },
+        {
+         "t": "callout",
+         "title": "Genetic Factors",
+         "html": "<p>Myopic parents (one or both) increases the child's risk of nearsightedness.</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        },
+        {
+         "t": "callout",
+         "title": "Age",
+         "html": "<p>Developing myopia before age 12 significantly increases the risk of severe myopia.</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        },
+        {
+         "t": "image",
+         "src": "https://s3.amazonaws.com/ecp-uploads/wp-content/uploads/sites/2470/2022/06/age-infographic.svg",
+         "alt": "illustration of four kids",
+         "href": null,
+         "external": false,
+         "caption": null
+        },
+        {
+         "t": "image",
+         "src": "https://s3.amazonaws.com/ecp-uploads/wp-content/uploads/sites/2470/2022/06/daily-habits-infographic.svg",
+         "alt": "illustration of a kid with tablet",
+         "href": null,
+         "external": false,
+         "caption": null
+        },
+        {
+         "t": "callout",
+         "title": "Daily Habits",
+         "html": "<p>Spending too much time on digital screens and reading books can strain the eyes, increasing risk of nearsightedness.</p>",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__myopia-management-optometrist",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Myopia Management",
+   "path": "/eye-care-services/myopia-management-optometrist/"
+  }
+ ],
+ "children": []
+}

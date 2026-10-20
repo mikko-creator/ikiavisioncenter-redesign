@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-KIDS",
+  "file": "assets/generated/g-kids.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A joyful seven-year-old child with a big natural smile trying on colourful kids' eyeglasses with bright playful frames, warm golden window light falling across the face in an otherwise dark room, a gentle teal glow on the shadow side, candid happy moment, generic child model; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1189993302,
+  "requestId": "01a15739-0b7e-7991-82e3-a20119e3b9ba",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "409f421552c7eff3bd7f14caadadab60b3efb27693ba042fed8533a88f3e1eea",
+  "raw": "tmp/img/raw/G-KIDS.1792464734394.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:52:16.155Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "joyful child in colourful frames, warm window light, dark room; natural face, no hands in frame, no text; generic child model",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Peripheral Vision Test",
+ "h1": "Peripheral Vision Test",
+ "head": {
+  "title": "Peripheral Vision Test",
+  "description": "What is a Peripheral Vision Test? Who takes this test and how is it done? Find out what will be done during your eye exam and arrive prepared.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Peripheral Vision Test",
+   "og:description": "What is a Peripheral Vision Test? Who takes this test and how is it done? Find out what will be done during your eye exam and arrive prepared.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+   "twitter:card": "summary",
+   "twitter:title": "Peripheral Vision Test",
+   "twitter:description": "What is a Peripheral Vision Test? Who takes this test and how is it done? Find out what will be done during your eye exam and arrive prepared.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+    "name": "Peripheral Vision Test",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>As part of a comprehensive eye exam or vision screening, eye doctors almost always include a peripheral vision test.</p><p>Your peripheral vision is the visual field at the “outside” of your vision. That means, while your eyes may be “focused” on an object directly in front of you, you should still have the ability to see and recognize objects to your left, right, up and down—not directly in your line of sight.</p><p>Since peripheral vision loss can be a sign of a number of eye diseases, including glaucoma and other optic nerve disorders, side vision must be tested regularly.</p><h2>How does a peripheral vision test work?</h2><p>A peripheral vision test takes little time and is usually incorporated into the early portion of the eye exam.</p><p>The most common type of peripheral vision testing is “confrontational” peripheral vision testing, where your eye doctor asks you to focus on a target directly in front of you (the doctor’s eye, or an upraised finger, for example). With one eye covered, and your focus trained on the target, you’ll be asked to describe things you see in the “side” of your vision.</p><p>What’s important to remember is to keep focus on the main target and honestly describe what you see. You’ll then cover the other eye and repeat the procedure.</p><p>Peripheral vision loss indicates there may be an eye problem present, one that can then be tested for in greater detail during your eye examination.</p><p>There are additional types of peripheral vision testing using automated machines with a series of blinking lights in the outer visual field, or special cards with specific lines and patterns that create forced optical illusions.</p><p>No matter what the form of test, know that peripheral vision loss is a serious symptom that needs to be evaluated by a qualified eyecare professional.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__peripheral-vision-test",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Peripheral Vision Test",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/"
+  }
+ ],
+ "children": []
+}

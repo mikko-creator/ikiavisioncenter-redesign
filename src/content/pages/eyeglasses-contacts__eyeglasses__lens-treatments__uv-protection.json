@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "UV Protection",
+ "h1": "UV Protection",
+ "head": {
+  "title": "UV Protection",
+  "description": "The UV rays in sunlight can be harmful to the eyes. Lenses that block UV help to ward off various eye conditions and damage.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "UV Protection",
+   "og:description": "The UV rays in sunlight can be harmful to the eyes. Lenses that block UV help to ward off various eye conditions and damage.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+   "twitter:card": "summary",
+   "twitter:title": "UV Protection",
+   "twitter:description": "The UV rays in sunlight can be harmful to the eyes. Lenses that block UV help to ward off various eye conditions and damage.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+    "name": "UV Protection",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/uv-large.jpg\" alt=\"uv diagram\">There is no shortage of information about ultraviolet rays (UV) and how prolonged, unprotected exposure to UV can lead to skin damage. It’s why we wear sunscreen when we’re in the sun for extended periods of time. Sunscreens offer various degrees of UV protection by filtering out or “blocking” the harmful, invisible UVA and UVB wavelengths of light.</p><p>But did you know the same, serious approach to protecting your skin also applies to your eyes?</p><p><a href=\"/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-uv-rays/\">Watch a short video about UV rays.</a></p><h2>UV protection is critical to eye health</h2><p>Eye exposure to ultraviolet rays can cause damage your eyes. Over time, UV can contribute to serious age-related eye conditions or diseases. That’s why wearing lenses with maximum UV protection is so very important. Because UV rays are always present outdoors—on sunny days, cloudy days and every day in between.</p><p>Unlike sunscreen that you apply and reapply, eyeglass lenses and sunglasses can have ultraviolet protection built into the lens, or applied as a lens treatment. Remember, although UV is invisible to the human eye, it is always present. Your lenses, therefore, should always provide UV protection.</p><p>The most important thing you need to know about UV glasses is this: Be certain your eyewear provides near or exactly 100% UV protection against both UVA and UVB rays. Anything less is less than ideal for the short and long-term protection of your healthy sight.</p><h2>Learn More</h2><ul><li><a href=\"/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-uv-rays/\">Watch a short video about UV rays.</a></li><li><a href=\"/your-eye-health/protecting-your-eyes/\">Read more about protecting your eyes.</a></li></ul><p>Special thanks to the EyeGlass Guide, for information material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__lens-treatments__uv-protection",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  },
+  {
+   "name": "UV Protection",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/"
+  }
+ ],
+ "children": []
+}

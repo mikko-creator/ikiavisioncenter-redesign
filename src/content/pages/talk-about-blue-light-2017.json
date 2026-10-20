@@ -1,0 +1,92 @@
+{
+ "path": "/talk-about-blue-light-2017/",
+ "url": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+ "kind": "post",
+ "section": "talk-about-blue-light-2017",
+ "title": "It’s Time to Talk About Blue Light",
+ "h1": "It’s Time to Talk About Blue Light",
+ "head": {
+  "title": "It’s Time to Talk About Blue Light",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "It’s Time to Talk About Blue Light",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Teen-Boy-Blue-Glasses-1280x480.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+   "twitter:card": "summary",
+   "twitter:title": "It’s Time to Talk About Blue Light",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Teen-Boy-Blue-Glasses-1280x480.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+    "url": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+    "name": "It’s Time to Talk About Blue Light",
+    "dateModified": "2017-03-15T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Teen-Boy-Blue-Glasses-1280x480.jpg\" alt=\"\"></p><p>Blue light. Do you know what it is? Do you know where it comes from, or how it can be harmful to your eyes? If you don’t know the answers to these questions, you are not alone, yet it is important that you become aware to protect your eyes for now and the years to come.</p><p>The reason blue light is suddenly becoming a big issue is because other than the sun, which is the biggest source of blue light, a significant source of blue light emission comes from digital devices and artificial lighting. As our world becomes increasingly digital - think: HD televisions, LED lights, computers, smartphones, tablets - we are all exposing our eyes to more and more amounts of blue light than ever before. And we are only beginning to understand the long term effects this has on our bodies and our eyes.</p><p>One of the biggest issues with blue light is that whether it is through work or leisure, people are exposed to screens at a close range for a large portion of the day. A survey from the Vision Council entitled, “Blue Light Exposure and Digital Eye Strain” recently showed that 87% of respondents used digital devices for more than two hours a day and over 52% regularly used two digital devices as the same time. This shift has drastically increased exposure and the number of symptoms that are reported. To date, research has shown that there are a number of ways blue light can impact your eyes including digital eye strain, sleep disturbances and retina damage that can lead to long term problems including serious eye diseases.</p><p>Digital eye strain is a condition that is characterized by dry, sore, tired or burning eyes, eye fatigue and sensitivity to light. It can also cause blurred or double vision, headaches, back, neck and shoulder aches and difficulty focusing or concentrating. These symptoms are most common in individuals that sit in front of the computer for two or more hours a day.</p><p>Studies show that exposure to blue light right before bedtime can cause disruptions in sleep and wakefulness because it causes a shift in the levels of melatonin, a hormone which affects your circadian rhythm and therefore your sleep patterns. So if you are using your smartphone to wind down in bed, put it down and dust off an old hardcover book!</p><p>Retina damage has been found to be a possible result of long term blue light exposure causing damage to the retinal cells in the eye which are responsible for clear vision. There has been evidence that this type of damage can lead to age-related macular degeneration (AMD) and cataracts later in life. In certain cases, your doctor might recommend Lutein and Zeaxanthin nutritional supplements to protect the macula from blue light damage.</p><p>Despite these risks, few people are taking action to protect their eyes from blue light. A recent study from Transitions Optical, The 2017 Employee Perceptions of Vision Benefits Survey, showed that there is also a significant generational difference in knowledge, habits, and attitude regarding blue light with millennials being more aware and concerned about the health effects it has on their eyes. Millennials are more likely to request prescription eyewear that has blue light protection and to know whether their current pair has that extra coverage. However, even the millennial generation is significantly lacking in awareness and prevention.</p><p>The best way to gain awareness of and protection against blue light is to speak to your eye doctor. There are a number of ways you can protect your eyes which include computer glasses, blue light lens filters, or even blue light filter screen protectors or apps that reverse screen colours for those that don’t use prescription eyewear. Each individual can find the best solution based on lifestyle, work environment and personal comfort. The most important takeaway is that you understand that blue light is an issue, take responsibility for your eye health and speak to your eye doctor about the best blue light solutions for you and your family.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Mar 15, 2017",
+ "key": "talk-about-blue-light-2017",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "It’s Time to Talk About Blue Light",
+   "path": "/talk-about-blue-light-2017/"
+  }
+ ],
+ "children": []
+}

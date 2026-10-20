@@ -1,0 +1,262 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Common Tests",
+ "h1": "Common Tests",
+ "head": {
+  "title": "Common Tests",
+  "description": "From Glaucoma testing to slit lamps, learn about the common tests your optometrist will give you during a comprehensive eye exam.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Common Tests",
+   "og:description": "From Glaucoma testing to slit lamps, learn about the common tests your optometrist will give you during a comprehensive eye exam.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+   "twitter:card": "summary",
+   "twitter:title": "Common Tests",
+   "twitter:description": "From Glaucoma testing to slit lamps, learn about the common tests your optometrist will give you during a comprehensive eye exam.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+    "name": "Common Tests",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/instruments/clipart-036.jpg\" alt=\"eye doctor with scope\">While there are some basic eye vision tests common to most eye exams, children and young adults have different vision testing needs than say, a healthy middle-aged adult, or an adult with a history of eye problems.</p><p>Vision testing equipment ranges from simple tools like the “Big E” eye chart (Snellen Chart) and a hand-held penlight and eye cover, to more complex devices that swap lenses in front of your eyes or use special lamps to view the eye’s structure. A comprehensive eye exam includes vision testing, and vision testing equipment that is common to almost all eye exams, but is often tailored to your age, your specific need, or your individual symptoms. The following are some common tests you may be given during a routine eye exam.</p><p>(Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a>)</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Autorefractor",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+           "summary": "Autorefractors are machines that automatically determine the correct lens prescription for your eyes.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Dilation",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+           "summary": "Eye dilation means your pupil in front of the eye has been opened using special drops.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Glaucoma Test",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/glaucoma-test/",
+           "summary": "Glaucoma testing involves measuring internal eye pressure and a detailed scan of the retina for signs of disease.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Ophthalmoscope",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+           "summary": "An ophthalmoscope is a handheld device used to examine your eye’s interior structure, including the retina.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Optomap",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+           "summary": "Optomap® is new technology that allows for detailed retina examination without dilating pupils.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Peripheral Vision Test",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+           "summary": "Peripheral vision testing is the part of the eye exam that tests the “outside” of your vision.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Phoropter",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+           "summary": "A phoropter is an instrument used to test individual lenses on each eye during an exam.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Puffer Test",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+           "summary": "A puffer test is a specific form of glaucoma testing measuring eye pressure (intraocular pressure).",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Retinoscope",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/retinoscope/",
+           "summary": "Retinoscopy is a procedure using a retinoscope that helps to see if you need a prescription.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Slit Lamp Exam",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+           "summary": "A slit lamp exam is a magnified analysis of your eye from front to back.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Snellen Chart",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+           "summary": "The “Big E” chart—or Snellen eye chart—is the most familiar type of visual acuity test.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Vision Screening",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-screening/",
+           "summary": "Vision testing and vision screening can each be a window of opportunity for healthy sight - find out how they are different.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Vision Testing",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-testing/",
+           "summary": "Vision testing includes vision testing equipment and procedures that either measure or gauge your visual ability, or look closely at specific structures of the eye.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+   "title": "Autorefractor"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+   "title": "Eye Dilation"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/glaucoma-test/",
+   "title": "Glaucoma Test"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+   "title": "Ophthalmoscope"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+   "title": "Optomap"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+   "title": "Peripheral Vision Test"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+   "title": "Phoropter"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+   "title": "Puffer Test"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/retinoscope/",
+   "title": "Retinoscope"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+   "title": "Slit Lamp Exam"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+   "title": "Snellen Chart"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-screening/",
+   "title": "Vision Screening"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-testing/",
+   "title": "Vision Testing"
+  }
+ ]
+}

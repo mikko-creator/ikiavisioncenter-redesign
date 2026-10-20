@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Ocular Hypertension",
+ "h1": "Ocular Hypertension",
+ "head": {
+  "title": "Ocular Hypertension",
+  "description": "What are the signs and causes of Ocular Hypertension? Can it be treated by my eye doctor during an eye exam? Click here for answers.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Ocular Hypertension",
+   "og:description": "What are the signs and causes of Ocular Hypertension? Can it be treated by my eye doctor during an eye exam? Click here for answers.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+   "twitter:card": "summary",
+   "twitter:title": "Ocular Hypertension",
+   "twitter:description": "What are the signs and causes of Ocular Hypertension? Can it be treated by my eye doctor during an eye exam? Click here for answers.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+    "name": "Ocular Hypertension",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>The term Ocular Hypertension refers to higher than normal pressure in one or both eyes. When the intraocular pressure (IOP) in your eye is higher than normal it can cause nerve damage and vision loss if an eye disease like glaucoma goes untreated.</p><p>Ocular Hypertension on its own does not mean you will definitely develop glaucoma, but it does make you a “glaucoma suspect” Having a diagnosis of Ocular Hypertension does mean that more eye health evaluations will be required to monitor and regulate your intraocular pressure.</p><p>Studies estimate that about 2% to 3% of the general population may have ocular hypertension.</p><h2>Signs and Symptoms of Ocular Hypertension</h2><p>There are no apparent signs such as eye redness or pain associated with ocular hypertension. That is why it’s so important to see your eye doctor for regular eye health evaluations.</p><p>Eye care professionals determine the intraocular pressure (IOP), the fluid pressure inside your eye, with a device called a tonometer. They may numb your eye first with eye drops before using a small probe that gently rests against your eye’s surface. Another type of tonometer utilizes a puff of air directed onto your eye’s surface. This method does not require numbing drops.</p><p>There are two primary mechanisms that can cause ocular hypertension. Either inadequate drainage or excessive production of aqueous fluid may cause the intraocular pressure (IOP) to become elevated.</p><h3>Ocular Hypertension Treatment</h3><p>People with elevated intraocular pressure (IOP) are thought to be at risk for the development of glaucoma. If there are additional risk factors including family history, diabetes or hypertension, or being of African or Hispanic heritage, doctors will often consider prescribing medications to lower the pressure to prevent any vision loss.</p><p>The price of eye drops can be costly in some cases, and they may occasionally cause some adverse side effects. Your eye care professional will consider many factors before deciding to either monitor your IOP more often, or to prescribe ocular hypotensive medications if s/he detects that you may be developing glaucoma.</p><p>Since ocular hypertension and glaucoma have no obvious symptoms until vision has been lost, regular eye health examinations with IOP measurements are recommended, especially if you have a family history of glaucoma or any of the other risk factors for developing the disease</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__ocular-hypertension",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Ocular Hypertension",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/"
+  }
+ ],
+ "children": []
+}

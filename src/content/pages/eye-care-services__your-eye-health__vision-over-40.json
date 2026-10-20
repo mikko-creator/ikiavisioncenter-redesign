@@ -1,0 +1,162 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-over-40/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Vision Over 40",
+ "h1": "Vision Over 40",
+ "head": {
+  "title": "Vision Over 40",
+  "description": "If you are over 40 there are new things to learn about your vision. Read this section for all the latest info on eye care after 40.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Vision Over 40",
+   "og:description": "If you are over 40 there are new things to learn about your vision. Read this section for all the latest info on eye care after 40.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+   "twitter:card": "summary",
+   "twitter:title": "Vision Over 40",
+   "twitter:description": "If you are over 40 there are new things to learn about your vision. Read this section for all the latest info on eye care after 40.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+    "name": "Vision Over 40",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Multifocal Eyeglass Lenses",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Occupational Bifocal and Trifocals",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "How Progressive Lenses Work",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Reading Glasses After 40",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+           "summary": "You have never worn glasses and now after 40 you can't seem to read your text messages without holding the phone at arm's length.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Dry Eye After Menopause",
+           "href": "/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/",
+           "summary": "The risk for dry eye increases with age, especially for women.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-over-40",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Over 40",
+   "path": "/eye-care-services/your-eye-health/vision-over-40/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/",
+   "title": "Dry Eye After Menopause"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+   "title": "How Progressive Lenses Work"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+   "title": "Multifocal Eyeglass Lenses"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+   "title": "Occupational Bifocal and Trifocals"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+   "title": "Reading Glasses After 40"
+  }
+ ]
+}

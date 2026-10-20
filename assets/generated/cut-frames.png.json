@@ -1,0 +1,34 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-FRAMES",
+  "file": "assets/generated/cut-frames.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one pair of modern black-and-tortoiseshell acetate eyeglasses, three-quarter view, centred with generous empty space around them, isolated on a plain light grey seamless background, soft even studio light, crisp clean edges, clear lenses with subtle reflections, plain smooth temples without any markings; no text, no letters, no numbers, no logos, no watermark, premium commercial product photography, crisp focus from front to back, true-to-life colour, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 615742718,
+  "requestId": "01a15736-7f04-7113-b6bd-8a06bb3be704",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a15736-af82-7771-8d71-63628832a8db"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "316c8ba32490042bb780800133e76a647625cda4fa3340f202bd665a20cea3a3",
+  "raw": "tmp/img/raw/CUT-FRAMES.1792464561857.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:49:27.618Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 1 restored: clean black and tortoiseshell acetate frames, a FRONT view (not the three-quarter view asked for: attempt 2 in three-quarter came back folded with pseudo-text on the temples); 94.5% of pixels fully transparent, lenses see-through (mean alpha about 24 of 255), alpha bbox 273,766-1809,1241 of 2048: nothing clipped",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

@@ -1,0 +1,178 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Prescription Eyeglasses",
+ "h1": "Prescription Eyeglasses",
+ "head": {
+  "title": "Prescription Eyeglasses",
+  "description": "Get tips on caring for your lenses and frames and learn about the benefits of bifocals, progressives, high index lenses and prescription sunglasses.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Prescription Eyeglasses",
+   "og:description": "Get tips on caring for your lenses and frames and learn about the benefits of bifocals, progressives, high index lenses and prescription sunglasses.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-prescription-2.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-prescription-2.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+   "twitter:card": "summary",
+   "twitter:title": "Prescription Eyeglasses",
+   "twitter:description": "Get tips on caring for your lenses and frames and learn about the benefits of bifocals, progressives, high index lenses and prescription sunglasses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-prescription-2.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+    "name": "Prescription Eyeglasses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/new-default-images/thumbnails/Thumbnail-prescription-2-300x200.jpg\" alt=\"Thumbnail prescription 2\">No matter what your eye condition, or how you choose to view the world, there are now prescription lenses that meet your unique lifestyle and vision correction needs. Eyeglass lenses that change as the light changes, from clear indoors to dark outdoors. Bifocal lenses that provide multiple fields of vision. High-index lenses that are thinner and lighter than ever before. And progressive lenses that eliminate the traditional lines of multi-focal lenses. The point is, while eyeglass lenses are prescribed to correct all kinds of vision problems, prescription lenses have come a long way—offering you the opportunity to truly customize your eyeglasses and make a statement about how you choose to look at the world.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Bifocal Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+           "summary": "Bifocals are lenses with two distinct viewing areas to help correct vision that fails at two or even three distances.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "High Index and Aspheric Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+           "summary": "Manufactured to be thinner at the edges of the lens and lighter in weight overall—a good choice for people with stronger prescriptions.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Polycarbonate Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+           "summary": "Polycarbonate lenses are up to 10 times more impact resistant than regular plastic lenses.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Caring for Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+           "summary": "These lens care and maintenance tips will go a long way toward maintaining your healthy sight.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eyeglass Frame Materials",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+           "summary": "Which frame material is right for you? Learn about the different types of metal and plastic, and the advantages of each.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Frame Maintenance",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+           "summary": "Tips for Keeping Your Frames Properly Maintained.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__prescription-eyeglasses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+   "title": "Bifocal Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+   "title": "Caring for Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+   "title": "Eyeglass Frame Materials"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+   "title": "Frame Maintenance"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+   "title": "High Index and Aspheric Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+   "title": "Polycarbonate Lenses"
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "What does it meant to be Nearsightedness and how is myopia managed?",
+ "h1": "Nearsighted (Myopia)",
+ "head": {
+  "title": "What does it meant to be Nearsightedness and how is myopia managed?",
+  "description": "Nearsightness or Myopia is an eye condition that should be treated by your optometrist so call now to set up an appointment. Read more about myopia here.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Nearsighted (Myopia)",
+   "og:description": "Nearsightness or Myopia is an eye condition that should be treated by your optometrist so call now to set up an appointment. Read more about myopia here.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+   "twitter:card": "summary",
+   "twitter:title": "What does it meant to be Nearsightedness and how is myopia managed?",
+   "twitter:description": "Nearsightness or Myopia is an eye condition that should be treated by your optometrist so call now to set up an appointment. Read more about myopia here.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+    "name": "Nearsighted (Myopia)",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Nearsightedness, technically known as myopia, is a condition which causes difficulty focusing on objects at a distance, while near vision remains normal. Myopia is one of the most common vision problems worldwide and it is on the rise.</p><p><strong>Myopia Signs and Symptoms</strong></p><p>People with myopia are usually able to see well up close, but have difficulty seeing objects at a distance. Due to the fact that they may be straining or squinting to see into the distance, they may develop headaches, eye fatigue or eye strain.</p><p><strong>Myopia Causes</strong></p><p>Myopia is a refractive error caused by an irregular shaped cornea that affects the way light is focused on the retina. For clear vision, light should come to a focus point directly onto the retina. In myopia, the cornea is longer than usual, resulting in a focus point that falls in front of the retina, causing distant objects to appear blurry, while close objects can be seen normally.</p><p>Myopia typically has a genetic component as it often appears in multiple members of a family and it usually begins to show signs during childhood, often getting progressively worse until stabilizing around age 20. There may also be environmental factors that contribute to myopia such as work that requires focusing on close objects for an extended period of time and spending too much time indoors.</p><p><strong>Diagnosis of Myopia</strong></p><p>Myopia is diagnosed by an eye examination with an qualified optometrist. During the exam the optometrist will determine the visual acuity of the eye to prescribe eye glasses or contact lenses. A prescription for myopia will be a negative number such as -1.75.</p><p><strong>Treatment for Myopia</strong></p><p>Myopia is typically treated with corrective eyeglasses or contact lenses and in certain cases refractive surgery such as LASIK or PRK is an option. Surgery is the most risky treatment as it requires permanently changing the shape of the cornea. Other treatments involve implanting a lens that reshapes the cornea called a phakic intra-ocular lens or vision therapy. A treatment called Ortho-k, in which the patient wears corneal reshaping contact lenses at night to see without correction during the day can be another option.</p><p>While some people require vision correction throughout the day, others may only need it only during certain tasks such as driving, watching television or viewing a whiteboard in school. The type of treatment depends on the overall health of your eye and your eye and vision needs.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__nearsighted-myopia",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Nearsighted (Myopia)",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/"
+  }
+ ],
+ "children": []
+}

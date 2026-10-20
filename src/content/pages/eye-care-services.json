@@ -1,0 +1,281 @@
+{
+ "path": "/eye-care-services/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Eye Care Services",
+ "h1": "EYE CARE SERVICES FOR YOU",
+ "head": {
+  "title": "Eye Care Services",
+  "description": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/",
+  "robots": "index,follow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Care Services",
+   "og:description": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Care Services",
+   "twitter:description": "Comprehensive eye exams and so much more. Our eye doctors provide complete family eye care services for clients of all ages. Now accepting new patients!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/",
+    "name": "Eye Care Services",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/11/new-services-hero-2b.jpg",
+  "overlay": true,
+  "blocks": [
+   {
+    "t": "heading",
+    "level": 1,
+    "html": "EYE CARE SERVICES FOR YOU"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Our eye care center in Houston offers a full range of eye health services to clients of all ages, from children to older adults.</p>"
+   },
+   {
+    "t": "button",
+    "text": "BOOK AN APPOINTMENT ONLINE TODAY!",
+    "href": "/contact-us/appointment-request-form/",
+    "external": false
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5ddbd97fd3a99",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": false,
+       "blocks": [
+        {
+         "t": "crumbs",
+         "text": "Home » Eye Care Services"
+        },
+        {
+         "t": "rich",
+         "html": "<h2>Eye Emergencies, Eye Exams &amp; More</h2><p>Our optometrist in Icare Clinic provides eyewear prescriptions and offers corrective laser eye surgery co-management as well. You can get in touch with our eye doctor's office to set up an appointment at your convenience and learn more about some of our key services below.</p><hr><h3>Our Eye Care Services:</h3>"
+        }
+       ]
+      },
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "search"
+        },
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Comprehensive Eye Exams",
+           "href": "/eye-care-services/eye-exams/",
+           "summary": "Complete eye exams are not just for updating your prescription. Learn more about what your eye doctor will screen for, what to expect at your appointment, some of the advanced technology we use, and special considerations for pediatric and infant eye care.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-phoropter.jpg",
+           "imageAlt": "Thumbnail phoropter"
+          },
+          {
+           "title": "Contact Lens Exams",
+           "href": "/eye-care-services/contact-lens-exams/",
+           "summary": "A contact lens exam provides all of the measurements and testing that are required to determine if your eyes are suitable for contact lens wear. We are able to fit most patients (even hard-to-fit) and will generate your contact lens prescription.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts.jpg",
+           "imageAlt": "Thumbnail contacts"
+          },
+          {
+           "title": "Eye Condition Treatment",
+           "href": "/eye-care-services/eye-conditions/",
+           "summary": "Eye conditions can range from mild to severe. While some are chronic, others may resolve on their own. Here's a short list of common eye conditions we treat, such as astigmatism, dry eye syndrome and presbyopia.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-treatments.jpg",
+           "imageAlt": "Thumbnail treatments"
+          },
+          {
+           "title": "Eye Disease Management",
+           "href": "/eye-care-services/management-of-ocular-diseases/",
+           "summary": "We diagnose and manage ocular diseases such as Glaucoma, Macular Degeneration, Diabetic Retinopathy and Cataracts.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-EyeDisease.jpg",
+           "imageAlt": "Thumbnail EyeDisease"
+          },
+          {
+           "title": "Emergency Eye Care Services",
+           "href": "/eye-care-services/emergency-eye-care-services/",
+           "summary": "Our eye doctors have the latest technology and lots of experience with eye infections, scratched eye, something stuck in your eye, painful or stinging eyes and many other types of eye infections.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+           "imageAlt": "Thumbnail Emerg"
+          },
+          {
+           "title": "Eye Emergencies (Pink/Red Eyes)",
+           "href": "/eye-care-services/eye-emergencies-pinkred-eyes/",
+           "summary": "Did you know your optometrist can help you with red eyes, pink eye, sore eyes, foreign body removal and eye emergencies?",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+           "imageAlt": "Thumbnail Emerg"
+          },
+          {
+           "title": "LASIK & Refractive Surgery Co-Management",
+           "href": "/eye-care-services/lasik-refractive-surgery-co-management/",
+           "summary": "If you're ready for an alternative to glasses and/or contacts look to us for co-management of LASIK, cataract, and other ocular surgery.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-lasik.jpg",
+           "imageAlt": "Thumbnail lasik"
+          },
+          {
+           "title": "Your Eye Health",
+           "href": "/eye-care-services/your-eye-health/",
+           "summary": "We invite you to browse through these articles to find information about vision and eye health for you and your family.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyehealth.jpg",
+           "imageAlt": "Thumbnail eyehealth"
+          },
+          {
+           "title": "Myopia Management",
+           "href": "/eye-care-services/myopia-management-optometrist/",
+           "summary": "As a child quickly develops and the myopia rapidly progresses, the child is at a higher risk of developing dangerous eye diseases later in life, such as retinal detachment, macular degeneration, glaucoma and cataracts. Learn how myopia management can help.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2026/04/Myopia-Management-LP_Thumbnail.jpg",
+           "imageAlt": "Myopia Management LP Thumbnail.jpg"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/contact-lens-exams/",
+   "title": "Contact Lens Exams"
+  },
+  {
+   "path": "/eye-care-services/emergency-eye-care-services/",
+   "title": "Emergency Eye Care Services"
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/",
+   "title": "Eye Condition Treatment"
+  },
+  {
+   "path": "/eye-care-services/eye-emergencies-pinkred-eyes/",
+   "title": "Eye Emergencies (Pink/Red Eyes)"
+  },
+  {
+   "path": "/eye-care-services/eye-exams/",
+   "title": "Comprehensive Eye Exams"
+  },
+  {
+   "path": "/eye-care-services/lasik-refractive-surgery-co-management/",
+   "title": "LASIK & Refractive Surgery Co-Management"
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/",
+   "title": "Eye Disease Management"
+  },
+  {
+   "path": "/eye-care-services/myopia-management-optometrist/",
+   "title": "Myopia Management"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/",
+   "title": "Your Eye Health"
+  }
+ ]
+}

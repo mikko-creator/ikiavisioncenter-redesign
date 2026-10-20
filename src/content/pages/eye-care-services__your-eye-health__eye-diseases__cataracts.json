@@ -1,0 +1,174 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "What is Cataracts disease and what can I do to prevent it?",
+ "h1": "Cataracts",
+ "head": {
+  "title": "What is Cataracts disease and what can I do to prevent it?",
+  "description": "Cataracts is one of the most common eye diseases. Learn what it is and how your optometrist can help treat and prevent cataracts.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Cataracts",
+   "og:description": "Cataracts is one of the most common eye diseases. Learn what it is and how your optometrist can help treat and prevent cataracts.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+   "twitter:card": "summary",
+   "twitter:title": "What is Cataracts disease and what can I do to prevent it?",
+   "twitter:description": "Cataracts is one of the most common eye diseases. Learn what it is and how your optometrist can help treat and prevent cataracts.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+    "name": "Cataracts",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Cataracts are one of the leading causes of vision loss in people over 45. A condition that commonly develops as the eye ages, by the time we reach 80, more than half of us will have developed a cataract.</p><p>A cataract is a clouding of the lens in your eye which is normally transparent. The lens, located inside the eye, behind the iris and the pupil, focuses light onto the retina at the back of your eye, where it is converted to nerve signals that are passed to the brain, allowing you to see. When your lens becomes cloudy, the images projected onto your retina become blurry and unfocused and therefore the signal to the brain is also unclear. You can compare this to looking through a dirty or cloudy window. If the window is not clear, you can’t see well.</p><p>Usually cataracts develop slowly over time so your vision gradually worsens. While the majority of cataracts are a result of the aging process, there are also congenital cataracts that are present at birth, secondary cataracts that result from eye surgery or diseases such as glaucoma or diabetes and traumatic cataracts that result at any age from an injury to the eye.</p><p>While you may be able to live with mild or moderate cataracts, severe cataracts are treated with surgery. The procedure involves removing the clouded lens and replacing it with an intraocular lens (IOL) implant. Cataract surgery is a common procedure that has a very high success rate of restoring vision to patients. Modern cataract surgery is frequently done as an outpatient procedure. Patients will have greatly improved vision the next day, and will continue to improve over the next few weeks. Surgery is often done in one eye first, and surgery on the second eye, if needed, may be done 2 weeks later.</p><p>Learn more about the specifics of Cataracts on the links below:</p><ul></ul>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Signs & Symptoms",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+           "summary": "The lens of the eye works much like a camera lens, it’s vital that it remain clear and healthy for clear vision. Learn the signs and symptoms that indicate cataracts.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Causes of Cataracts",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+           "summary": "Learn more about the factors that may cause cataracts.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Cataract Surgery & Treatment",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/cataract-surgery-treatment/",
+           "summary": "Prescriptions, lens treatments and surgery are all options you can explore.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Intraocular Lenses (IOLs)",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/common-questions-about-presbyopia-correcting-iols/",
+           "summary": "If you need cataract surgery, you may have the option of getting new presbyopia-correcting IOLs that potentially can restore a full range of vision without eyeglasses.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "More About Cataracts",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+           "summary": "Additional information including lifestyle factors that could impact cataracts.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__cataracts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/cataract-surgery-treatment/",
+   "title": "Cataract Surgery & Treatment"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+   "title": "Causes of Cataracts"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/common-questions-about-presbyopia-correcting-iols/",
+   "title": "Intraocular Lenses (IOLs)"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+   "title": "More About Cataracts"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+   "title": "Signs & Symptoms"
+  }
+ ]
+}

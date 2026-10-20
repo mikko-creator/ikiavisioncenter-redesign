@@ -1,0 +1,109 @@
+{
+ "origin": "https://www.ikiavisioncenter.com",
+ "at": "2026-10-20T02:30:43.218Z",
+ "sitemaps": [
+  {
+   "sitemap": "https://www.ikiavisioncenter.com/sitemap.xml",
+   "type": "page",
+   "status": 200,
+   "count": 19
+  }
+ ],
+ "urls": [
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/contact-us/appointment-request-form/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/contact-us/patient-registration-form/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/disclaimer/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/kids-optical/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/pediatric-eye-exams/",
+   "lastmod": "2020-02-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/",
+   "lastmod": "2020-11-20"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+   "lastmod": "2023-01-12"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/website-accessibility-policy/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eye-care-services/contact-lens-exams/",
+   "lastmod": "2020-02-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/associations-awards/",
+   "lastmod": "2019-12-11"
+  },
+  {
+   "type": "page",
+   "url": "https://www.ikiavisioncenter.com/diabetes-and-your-eyes/",
+   "lastmod": "2018-11-23"
+  }
+ ]
+}

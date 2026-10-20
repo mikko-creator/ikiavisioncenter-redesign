@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-EXAM",
+  "file": "assets/generated/g-exam.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A phoropter refractor eye exam instrument with its round lens apertures and polished chrome and black housing, standing in a dark optometry exam room, lit by a single tight spotlight from the side so the polished metal gleams, shallow depth of field with the room dissolving into darkness, the dials smooth and completely unmarked with no scales and no engraving; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1324160697,
+  "requestId": "01a15738-d26a-79d3-b8b4-5fb0e40bc8ab",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "5219ca9c7c6ed4fec6a57a5ba0b0ab8d4a94eebaa4eb23ceb055c9511ddb06a3",
+  "raw": "tmp/img/raw/G-EXAM.1792464714628.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:51:56.811Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "phoropter under a single spotlight, polished metal; zoomed crops of the top wheel (knurling) and the lower knob (notches, blank window): no numbers or letters",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

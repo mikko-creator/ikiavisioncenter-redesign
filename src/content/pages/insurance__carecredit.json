@@ -1,0 +1,97 @@
+{
+ "path": "/insurance/carecredit/",
+ "url": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+ "kind": "page",
+ "section": "insurance",
+ "title": "CareCredit",
+ "h1": "CareCredit",
+ "head": {
+  "title": "CareCredit",
+  "description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+  "canonical": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "CareCredit",
+   "og:description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+   "twitter:card": "summary",
+   "twitter:title": "CareCredit",
+   "twitter:description": "As a service to our patients we are pleased to offer the CareCredit card enabling low monthly payments that are easy to fit into your budget.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+    "url": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+    "name": "CareCredit",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2020-02-12T00:45:22-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Insurance",
+   "path": "/insurance/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/carecredit-transparent.png\" alt=\"CareCredit\"></p><p>As a service to our patients, we are pleased to offer the CareCredit card, the nation’s leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget. So, you can begin your vision care today and conveniently pay with low, monthly payments. CareCredit offers a comprehensive range of No Interest and Extended Payment Plans.</p><h2>No Interest Payment Plans</h2><ul><li>No interest if the balance is paid within the specified time period</li><li>Low minimum monthly payments</li></ul><h2>Payment Plans</h2><ul><li>24, 36, 48 &amp; 60 month plan options [Click for Details]</li><li>24, 36 and 48 financing terms are for purchases of $1,000 or more with a 14.9% APR</li><li>Purchases of $2,500 or more qualify for the 60-month offer with a 16.9% APR</li></ul><p>With CareCredit, you pay no up-front costs, no pre-payment penalties and no fees. Plus, CareCredit is a revolving credit line for additional treatment or add-on charges, without the need to re-apply. It only takes a few minutes to apply for CareCredit and you may receive an online decision in seconds!</p><p><strong><a href=\"http://www.carecredit.com/apply/?dtc=DS5V\" target=\"_blank\" rel=\"noopener\">Apply now</a> or see our staff for more details.</strong></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "insurance__carecredit",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Our Clinic in Houston Accepts The Following:",
+   "path": "/insurance/"
+  },
+  {
+   "name": "CareCredit",
+   "path": "/insurance/carecredit/"
+  }
+ ],
+ "children": []
+}

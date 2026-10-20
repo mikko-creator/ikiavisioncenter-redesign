@@ -1,0 +1,93 @@
+{
+ "path": "/june-is-cataract-awareness-month/",
+ "url": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+ "kind": "post",
+ "section": "june-is-cataract-awareness-month",
+ "title": "Everything You Need To Know About June & Cataract Awareness Month",
+ "h1": "June is Cataract Awareness Month",
+ "head": {
+  "title": "Everything You Need To Know About June & Cataract Awareness Month",
+  "description": "Cataracts, one of the most common causes of blindness, develop when the lens of the eye, located behind the iris and pupil, becomes opaque or cloudy.",
+  "canonical": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "June is Cataract Awareness Month",
+   "og:description": "Cataracts, one of the most common causes of blindness, develop when the lens of the eye, located behind the iris and pupil, becomes opaque or cloudy.",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+   "twitter:card": "summary",
+   "twitter:title": "Everything You Need To Know About June & Cataract Awareness Month",
+   "twitter:description": "Cataracts, one of the most common causes of blindness, develop when the lens of the eye, located behind the iris and pupil, becomes opaque or cloudy.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+    "url": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+    "name": "June is Cataract Awareness Month",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/medical_illustrations/cataracts-diagram.jpg\" alt=\"cataracts diagram\"></p><p><a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">Cataracts</a>, one of the most common causes of blindness, develop when the lens of the eye, located behind the iris and pupil, becomes opaque or cloudy. A cataract can result in loss of vision as it prevents light from passing into your eye and focusing on the retina.</p><p>While cataracts most frequently result from the natural aging process, other risk factors include exposure to UV radiation, medical disease or a family history of the condition, trauma to the eye and smoking.</p><p>Cataracts occur when over time, pigment or protein is deposited in the lens and this, together with disruption of the normal structure of the lens fibers, can lead to reduced transmission of light, which causes visual problems. The condition can affect one's ability to see colors, drive, read, and recognize faces. Although cataracts aren't painful, the following signs could indicate cataract development:</p><ul><li>Blurry vision or distorted vision, or the sensation that there is a film over your eye. You may also notice that colors appear to be dull.</li><li>Sensitivity to light. Sunlight or light from a lamp seems to be too strong and glare while driving may be worsened, especially at night.</li><li>Worsened vision that does not improve with a new glasses prescription or a new pair of glasses.</li></ul><p>Cataract surgery can be avoided in the early stages as you may be able to improve your vision on a short term basis by using new glasses, strong magnification, appropriate lighting or other visual aids. Once the cataract progresses to a stage where it interferes with your vision and daily functioning, the best option is to have it treated surgically. Cataract surgery is a simple, relatively painless procedure that is usually very successful in restoring vision. The surgery, which is actually one of the most common surgeries in America, involves removing the clouded lens and in most cases replacing it with a plastic lens called an intraocular lens (IOL). Nine out of 10 patients recover near perfect vision after cataract surgery.</p><p>While there is nothing proven to prevent cataracts, there are number of steps you can take to reduce your risk.</p><ul><li>Ensure you use adequate UV protection from the sun such as sunglasses and a hat.</li><li>Studies show that eating a diet rich in antioxidant foods, may prevent the formation of cataracts. Vitamin E, vitamin C, lutein, zeaxanthin and omega-3 fatty acids are known to have significant benefits to your eye health.</li><li>Have a comprehensive eye exam including a dilated eye exam every year.</li></ul><p>Pay attention to your eyes and your vision and make your eyesight a priority. If you notice any changes in your vision, make an appointment with your eye doctor immediately.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 24, 2013",
+ "key": "june-is-cataract-awareness-month",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "June is Cataract Awareness Month",
+   "path": "/june-is-cataract-awareness-month/"
+  }
+ ],
+ "children": []
+}

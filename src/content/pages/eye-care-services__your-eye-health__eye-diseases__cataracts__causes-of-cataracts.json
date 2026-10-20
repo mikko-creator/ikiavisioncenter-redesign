@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Ever wonder what causes a cataract? Find out here",
+ "h1": "Causes of Cataracts",
+ "head": {
+  "title": "Ever wonder what causes a cataract? Find out here",
+  "description": "There are many causes of cataracts. Learn what they are so that you can discuss it with your optometrist and prevent eye disease before they start.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Causes of Cataracts",
+   "og:description": "There are many causes of cataracts. Learn what they are so that you can discuss it with your optometrist and prevent eye disease before they start.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+   "twitter:card": "summary",
+   "twitter:title": "Ever wonder what causes a cataract? Find out here",
+   "twitter:description": "There are many causes of cataracts. Learn what they are so that you can discuss it with your optometrist and prevent eye disease before they start.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+    "name": "Causes of Cataracts",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Cataracts are part of the natural aging process of the eye and therefore, if you live to an old age, you will likely eventually develop one. While most cases of cataracts develop as part of this process, there are instances of congenital cataracts which are present at birth. Further, secondary or traumatic cataracts can occur at any age as a result of an eye injury, surgery or disease.While the risk of developing a cataract does increase as you age, it is not the only risk factor. Research shows that there are environmental, health and behavioral risk factors that can also play a role in cataract development. Many of these risk factors are avoidable and preventable. These risk factors include:</p><ul><li>Smoking and excessive alcohol consumption</li><li>Prolonged exposure to ultraviolet (UV) radiation from the sun or other sources</li><li>Obesity</li><li>Diabetes</li><li>Hypertension</li><li>Certain medications such as steroids or statin medications</li><li>History of eye injury or eye surgery</li><li>Family history</li></ul><p>Since they are largely a part of the the natural aging process of the eye, cataracts can’t necessarily be avoided, however knowing if you have additional risk factors can help you to take preventative steps to delay the onset of the condition.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__cataracts__causes-of-cataracts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/"
+  },
+  {
+   "name": "Causes of Cataracts",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/"
+  }
+ ],
+ "children": []
+}

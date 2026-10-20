@@ -1,0 +1,93 @@
+{
+ "path": "/cutting-edge-glaucoma-technology/",
+ "url": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+ "kind": "post",
+ "section": "cutting-edge-glaucoma-technology",
+ "title": "Cutting Edge Glaucoma Technology",
+ "h1": "Cutting Edge Glaucoma Technology",
+ "head": {
+  "title": "Cutting Edge Glaucoma Technology",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Cutting Edge Glaucoma Technology",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+   "twitter:card": "summary",
+   "twitter:title": "Cutting Edge Glaucoma Technology",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+    "url": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+    "name": "Cutting Edge Glaucoma Technology",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/eyes/clipart-046.jpg\" alt=\"\"></p><p>Some 2.5 million North Americans struggle with glaucoma, a progressive eye disease that robs its sufferers of their vision, if unmanaged. Associated with high eye pressure and damage to the optic nerve, the main method of preventing blindness and low vision from glaucoma is by maintaining low levels of IOP (intraocular pressure). Unstable glaucoma may require frequent visits to an eye doctor for glaucoma monitoring to keep it under control.</p><p>In recent years a parallel disorder, high blood pressure, has become widely known for producing results that vary significantly, even from hour to hour. Both blood pressure and eye pressure can be affected by such a wide range of environmental and other factors – from the way you stand to the weather – that taking a single reading on a given day may not provide a good indication of patient health.</p><p>The need for more accurate diagnostic tools has prompted researchers at <a href=\"http://news.stanford.edu/news/2014/august/eye-implant-glaucoma-082514.html\" target=\"_blank\" rel=\"noopener\">Stanford University</a> and Bar Ilan University to collaborate in the development of a 24-hour a day IOP monitor for glaucoma patients. The device, which eye doctors hope will be available within a few years, is actually an eye implant!</p><p>It is so tiny, it’s designed to fit inside a standard intraocular lens – the kind used in cataract surgery – and, according to tests conducted by the U.S. Air Force, it will not distort vision.</p><p>The implanted glaucoma monitor is based on simple physics, using fluid levels in a tiny tube to precisely measure IOP. When available to the public, it may be paired with a custom smartphone app or wearable technology like Google glass to record eye pressure all the time, and the data can be shared with the patient’s ophthalmologist or optometrist.</p><p>Recent studies indicated that round-the-clock IOP monitoring would result in modified treatment for up to 80% of patients. Prevention of intraocular pressure spikes by measuring IOP throughout a 24 hour cycle would enable eye doctors to optimize a treatment plan. Since peripheral vision loss from optic nerve damage is not reversible, treatment is aimed at preventing vision loss from glaucoma.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Aug 27, 2014",
+ "key": "cutting-edge-glaucoma-technology",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Cutting Edge Glaucoma Technology",
+   "path": "/cutting-edge-glaucoma-technology/"
+  }
+ ],
+ "children": []
+}

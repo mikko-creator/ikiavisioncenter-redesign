@@ -1,0 +1,248 @@
+{
+ "path": "/our-eye-doctors/",
+ "url": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+ "kind": "page",
+ "section": "our-eye-doctors",
+ "title": "Our Eye Doctors",
+ "h1": "OUR EYE DOCTOR",
+ "head": {
+  "title": "Our Eye Doctors",
+  "description": "Get to know a bit about our eye doctors even before your first visit.",
+  "canonical": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Our Eye Doctors",
+   "og:description": "Get to know a bit about our eye doctors even before your first visit.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+   "twitter:card": "summary",
+   "twitter:title": "Our Eye Doctors",
+   "twitter:description": "Get to know a bit about our eye doctors even before your first visit.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+    "url": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+    "name": "Our Eye Doctors",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-26T12:51:39-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Docs-Adult-header-1.jpg",
+  "overlay": true,
+  "blocks": [
+   {
+    "t": "heading",
+    "level": 1,
+    "html": "OUR EYE DOCTOR"
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c50caa1bf432",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c50caa1bf119",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 33,
+       "small": true,
+       "blocks": [
+        {
+         "t": "team",
+         "view": "summary",
+         "items": [
+          {
+           "name": "Dr. Ike Ikechi, OD",
+           "role": null,
+           "photo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/ike_GSP_UID_8d9b3106-b304-428f-9dd3-d84576320c96.jpg",
+           "photoAlt": "Dr. Ike Ikechi, OD",
+           "href": "/team/dr-ike-ikechi-od/",
+           "html": ""
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "w": 33,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Dr. Ike Ikechi"
+        },
+        {
+         "t": "team",
+         "view": "summary",
+         "items": [
+          {
+           "name": "",
+           "role": null,
+           "photo": null,
+           "photoAlt": "",
+           "href": null,
+           "html": "Dr Ike Ikechi is originally from Africa where he first graduated from Optometry school in 1991. After moving to the U.S., he went on to gain another degree from Inter- Americana University School of Optometry, Puerto Rico. He is a therapeutically certified optometrist and has enjoyed the practice of Optometry for over 20 years. As a family man, he is married and blessed with two children. Dr Ikechi is an active member of his local church and serves the community of humanity through foreign medical missions. He is affiliated with Texas Optometry Association (TOA) and American Optometry Association (AOA). AT..."
+          }
+         ]
+        },
+        {
+         "t": "button",
+         "text": "Give Us a Call 832-717-3937",
+         "href": "tel:832-717-3937",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c50caa1c0196",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": "Is it an Eye Care Emergency?",
+         "html": "",
+         "href": null,
+         "external": false,
+         "image": null,
+         "imageAlt": "",
+         "icon": "fa fa-plus"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "callout",
+         "title": null,
+         "html": "",
+         "href": null,
+         "external": false,
+         "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Emerg-Eye.jpg",
+         "imageAlt": "Woman's Eye in Ad for Eye Care Emergencies",
+         "icon": null
+        }
+       ]
+      },
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Please call our office at: <a href=\"tel:832-717-3937\">832-717-3937</a> if you experience loss of vision, double vision, swelling, infection or any eye emergency, contact us immediately for guidance. We’ll help you with the best treatment to prevent complications and promote long-lasting clear eyesight.</p><p>Use your best judgment on urgency – find the nearest emergency room or review our <a href=\"/eye-care-services/eye-emergencies-pinkred-eyes/\">emergency page for tips.</a></p><p>Wondering how to pay for your eye care? Check Out Our <a href=\"/insurance/\">Insurance Plans</a>.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "our-eye-doctors",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "OUR EYE DOCTOR",
+   "path": "/our-eye-doctors/"
+  }
+ ],
+ "children": []
+}

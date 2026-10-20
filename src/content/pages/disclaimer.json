@@ -1,0 +1,89 @@
+{
+ "path": "/disclaimer/",
+ "url": "https://www.ikiavisioncenter.com/disclaimer/",
+ "kind": "page",
+ "section": "disclaimer",
+ "title": "Disclaimer",
+ "h1": "Disclaimer",
+ "head": {
+  "title": "Disclaimer",
+  "description": "Read the disclaimer to find out what this site does and does not intend to provide.",
+  "canonical": "https://www.ikiavisioncenter.com/disclaimer/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Disclaimer",
+   "og:description": "Read the disclaimer to find out what this site does and does not intend to provide.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/disclaimer/",
+   "twitter:card": "summary",
+   "twitter:title": "Disclaimer",
+   "twitter:description": "Read the disclaimer to find out what this site does and does not intend to provide.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/disclaimer/",
+    "url": "https://www.ikiavisioncenter.com/disclaimer/",
+    "name": "Disclaimer",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Content on this web site has been provided and/or reviewed by our Practice. We have reviewed site information and find it to be in accordance with the standards of the optometry profession in our jurisdiction. We strive to provide unbiased, accurate, timely and up-to-date information. The information on this site is not presented as a substitute for informed professional advice and does not substitute for consultation with optometrist or any other health and/or medical professional. If you have any questions about your individual situation, please contact your optometrist – your eye health professional.</p><p>The basic graphical template and parts of this website have been created by a Service provided by EyeCarePro and/or any affiliated companies. EyeCarePro and any of its affiliated companies do not endorse any of the products or treatments described, mentioned or discussed in any of the web pages, services or database information accessible within this website. Due to the possibility of human error or advances in scientific knowledge, EyeCarePro, and/or any commercial partners, their staff nor any other party involved in providing web pages, services or database information accessible within this website, warrant that the information contained therein is in every respect accurate or complete and are not responsible nor liable for any errors or omissions that may be found in such information or for the results obtained from the use of such information.</p><p>The material contained in this website, including but not limited to text, graphics, video, audio, trademarks and logos, includes that which is owned or controlled by EyeCarePro and that which is owned or controlled by third parties. EyeCarePro authorizes you to view and download a single copy of the Material on the web site solely for your personal, non-commercial use. The contents of this website are protected by copyright and other laws in USA, Canada and elsewhere.</p><p>Health information about you may be transmitted from this website to our practice. EyeCarePro does not permanently store nor use, transmit (other than for its intended use), record, or otherwise make any use of this health information. Website visitors are advised to read the Notice of Privacy Practices which describes how health information about you may be used and disclosed and how you can get access to this information and/or to contact us directly.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "disclaimer",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Disclaimer",
+   "path": "/disclaimer/"
+  }
+ ],
+ "children": []
+}

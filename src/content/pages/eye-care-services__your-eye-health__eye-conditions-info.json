@@ -1,0 +1,353 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Eye Conditions",
+ "h1": "Eye Conditions",
+ "head": {
+  "title": "Eye Conditions",
+  "description": "Common eye conditions from dry eyes to corneal transplants. Read about the common eye problems and what your optometrist can do to ease them.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Conditions",
+   "og:description": "Common eye conditions from dry eyes to corneal transplants. Read about the common eye problems and what your optometrist can do to ease them.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Conditions",
+   "twitter:description": "Common eye conditions from dry eyes to corneal transplants. Read about the common eye problems and what your optometrist can do to ease them.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+    "name": "Eye Conditions",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>The following is a list of common eye conditions. For information about cataracts, glaucoma, macular degeneration and diabetic retinopathy please see <a href=\"/your-eye-health/eye-diseases/\">Eye Diseases</a>.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Glaucoma",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+           "summary": "Glaucoma is a leading cause of preventable vision loss and blindness in adults in the United States and Canada and the second leading cause of blindness in the World.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Amblyopia (Lazy Eye)",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+           "summary": "Commonly called \"lazy eye\", amblyopia can be treated successfully if detected early enough in childhood.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Astigmatism",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+           "summary": "Often mistakenly called “stigmatism,” this common vision problem can be corrected with eyeglasses, contact lenses or refractive surgery.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Blepharitis",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+           "summary": "Red, swollen eyelids and crusty debris at the base of your eyelashes are signs you may have blepharitis.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "CMV Retinitis",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+           "summary": "AIDS or other diseases that affect your immune system can increase your risk of serious eye problems from cytomegalovirus (CMV) infection.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Corneal Transplant",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+           "summary": "People with serious vision problems from an eye injury or disease affecting the front surface of the eye can often regain vision with a cornea transplant.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Dry Eye Syndrome",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+           "summary": "Dry eye syndrome is a common condition, especially in women over age 40. Many treatment options are available.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Allergies",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+           "summary": "Are you bothered by red, itchy eyes? You may have allergies.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Floaters and Spots",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+           "summary": "“Floaters” are usually normal and harmless. But if you notice a sudden increase in floaters or floaters accompanied by flashes of light, see your eye doctor immediately.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Farsighted (Hyperopia)",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+           "summary": "Also called farsightedness, hyperopia is a common vision problem that can cause headaches, eyestrain and trouble reading.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Keratoconus",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+           "summary": "This eye disease causes the cornea to grow thinner and bulge forward in an irregular cone-shape. Treatment options range from gas permeable contact lenses to a cornea transplant.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Nearsighted (Myopia)",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+           "summary": "Also called nearsightedness, myopia is a very common vision problem, affecting up to one-third of the U.S. population.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Ocular Hypertension",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+           "summary": "You’ve heard of high blood pressure, but what about high eye pressure?",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Photophobia",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Pingueculae & Pterygia",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Pink Eye (Conjunctivitis)",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+           "summary": "This acute and contagious form of conjunctivitis is particularly common among preschoolers and school-age children.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Presbyopia",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Ptosis",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Retinal Detachment",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Retinitis Pigmentosa",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+           "summary": "These inherited disorders, commonly abbreviated as RP, cause progressive peripheral vision loss, night blindness and central vision loss.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Styes",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+           "summary": "This common problem is simply an infected lid gland. Learn how to prevent and treat styes.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Uveitis",
+           "href": "/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+   "title": "Amblyopia (Lazy Eye)"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+   "title": "Astigmatism"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+   "title": "Blepharitis"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+   "title": "CMV Retinitis"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+   "title": "Corneal Transplant"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+   "title": "Dry Eye Syndrome"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+   "title": "Eye Allergies"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+   "title": "Eye Floaters and Spots"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+   "title": "Farsighted (Hyperopia)"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+   "title": "Glaucoma"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+   "title": "Keratoconus"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+   "title": "Nearsighted (Myopia)"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+   "title": "Ocular Hypertension"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+   "title": "Photophobia"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+   "title": "Pingueculae & Pterygia"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+   "title": "Pink Eye (Conjunctivitis)"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+   "title": "Presbyopia"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+   "title": "Ptosis"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+   "title": "Retinal Detachment"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+   "title": "Retinitis Pigmentosa"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+   "title": "Styes"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+   "title": "Uveitis"
+  }
+ ]
+}

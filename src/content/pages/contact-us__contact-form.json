@@ -1,0 +1,158 @@
+{
+ "path": "/contact-us/contact-form/",
+ "url": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+ "kind": "form",
+ "section": "contact-us",
+ "title": "Email Us",
+ "h1": "Email Us",
+ "head": {
+  "title": "Email Us",
+  "description": "Contact our practice using our online form. If this is an emergency, do not contact us via email, please use our emergency contact information.",
+  "canonical": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Email Us",
+   "og:description": "Contact our practice using our online form. If this is an emergency, do not contact us via email, please use our emergency contact information.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+   "twitter:card": "summary",
+   "twitter:title": "Email Us",
+   "twitter:description": "Contact our practice using our online form. If this is an emergency, do not contact us via email, please use our emergency contact information.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+    "url": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+    "name": "Email Us",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Contact Us",
+   "path": "/contact-us/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "form",
+         "id": "gform_10",
+         "title": null,
+         "html": null,
+         "fields": [
+          {
+           "type": "html",
+           "required": false,
+           "html": "If this is an emergency, do not contact us via email, please use our emergency contact information.<p>Your two cents is worth a bundle to us... Help us help you better by letting us have your comments on our services.</p>"
+          },
+          {
+           "type": "name",
+           "label": "Your Name",
+           "required": false,
+           "sub": [
+            {
+             "label": "First",
+             "type": "text"
+            },
+            {
+             "label": "Last",
+             "type": "text"
+            }
+           ]
+          },
+          {
+           "type": "text",
+           "label": "Subject",
+           "required": true,
+           "inputType": "text"
+          },
+          {
+           "type": "textarea",
+           "label": "Message",
+           "required": false,
+           "inputType": "textarea"
+          },
+          {
+           "type": "radio",
+           "label": "Should we reply?",
+           "required": true,
+           "options": [
+            "Yes, Email Me",
+            "Yes, Call Me",
+            "No"
+           ]
+          },
+          {
+           "type": "email",
+           "label": "Email",
+           "required": false,
+           "description": "Please provide an email address so we can contact you.",
+           "inputType": "email"
+          },
+          {
+           "type": "phone",
+           "label": "Phone",
+           "required": false,
+           "description": "Please provide a telephone number, with area code, so we can contact you.",
+           "inputType": "tel"
+          }
+         ],
+         "submit": "Submit"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "contact-us__contact-form",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Contact Us",
+   "path": "/contact-us/"
+  },
+  {
+   "name": "Email Us",
+   "path": "/contact-us/contact-form/"
+  }
+ ],
+ "children": []
+}

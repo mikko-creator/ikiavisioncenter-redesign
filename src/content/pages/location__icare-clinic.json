@@ -1,0 +1,150 @@
+{
+ "path": "/location/icare-clinic/",
+ "url": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+ "kind": "page",
+ "section": "location",
+ "title": "Icare Clinic",
+ "h1": "Icare Clinic",
+ "head": {
+  "title": "Icare Clinic",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Icare Clinic",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+   "twitter:card": "summary",
+   "twitter:title": "Icare Clinic",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+    "url": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+    "name": "Icare Clinic",
+    "datePublished": "2019-12-11T00:13:16-04:00",
+    "dateModified": "2019-12-11T05:44:38-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "locations",
+         "view": "complete",
+         "items": [
+          {
+           "name": null,
+           "address": [
+            "14405B Bellaire Blvd",
+            "Houston, TX 77083"
+           ],
+           "phone": "832-717-3937",
+           "tel": "tel:832-717-3937",
+           "hours": [
+            {
+             "day": "Monday",
+             "time": "10:00 AM - 6:00 PM"
+            },
+            {
+             "day": "Tuesday",
+             "time": "10:00 AM - 6:00 PM"
+            },
+            {
+             "day": "Wednesday",
+             "time": "10:00 AM - 6:00 PM"
+            },
+            {
+             "day": "Thursday",
+             "time": "10:00 AM - 6:00 PM"
+            },
+            {
+             "day": "Friday",
+             "time": "10:00 AM - 6:00 PM"
+            },
+            {
+             "day": "Saturday",
+             "time": "10:00 AM - 4:00 PM"
+            },
+            {
+             "day": "Sunday",
+             "time": "Closed"
+            }
+           ],
+           "href": null,
+           "html": "",
+           "payment": {
+            "title": "Payment Information",
+            "label": "We Accept:",
+            "methods": [
+             "cash",
+             "debit",
+             "discover",
+             "mastercard",
+             "visa"
+            ],
+            "html": "<p><a href=\"https://www.carecredit.com/apply/confirm.html?encm=XTxWbwdlVzINMVI2VmIBaA81AGhTNVFkD20HM1w4UmU&amp;sitecode=B3CALAdToolkitANCardVision\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://www.carecredit.com/adtoolkit/assets/pages/library/buttons/280x100/CareCredit_Button_ApplyNow_280x100_c_v1.jpg\" alt=\"\"></a></p>"
+           },
+           "labels": [
+            "Contact Details",
+            "Address",
+            "Hours",
+            "Payment Information"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "location__icare-clinic",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Icare Clinic",
+   "path": "/location/icare-clinic/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,93 @@
+{
+ "path": "/7-facts-you-should-know-about-glaucoma/",
+ "url": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+ "kind": "post",
+ "section": "7-facts-you-should-know-about-glaucoma",
+ "title": "7 Facts You Should Know About Glaucoma",
+ "h1": "7 Facts You Should Know About Glaucoma",
+ "head": {
+  "title": "7 Facts You Should Know About Glaucoma",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "7 Facts You Should Know About Glaucoma",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+   "twitter:card": "summary",
+   "twitter:title": "7 Facts You Should Know About Glaucoma",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+    "url": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+    "name": "7 Facts You Should Know About Glaucoma",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/medical_illustrations/glaucoma-diagram.jpg\" alt=\"glaucoma diagram\"></p><p><strong>7 Facts You Should Know About Glaucoma</strong></p><p>Glaucoma, which refers to a group of eye diseases that damage the optic nerve, is often called 'the silent thief of sight'. This nickname evolved because the disease creeps up unnoticed in its early stages, causing no pain and few, if any symptoms. However, if left untreated it is progressive and irreversible and ultimately leads to blindness, usually affecting peripheral vision first.</p><p>Here are 7 important facts you should know about glaucoma:</p><ol><li>According to the National Eye Institute of the National Institute of Health, more than 4 million people in the United States have glaucoma. (<a href=\"http://www.nei.nih.gov/news/briefs/glaucoma_awareness.asp\" target=\"_blank\" rel=\"noopener\">http://www.nei.nih.gov/news/briefs/glaucoma_awareness.asp</a>)</li><li>Glaucoma causes damage to the optic nerve (the nerve that connects the eyes and the brain) usually as a result of increased pressure in the eye.</li><li>Early stages of the disease diminish peripheral vision. If the disease is not controlled, glaucoma often eventually causes total blindness.</li><li>The best way to detect glaucoma is through a dilated eye exam. The eye doctor views the optic nerve for signs of glaucoma. Intraocular pressure (IOP) is also measured, although this measurement is not enough to determine glaucoma, as it can fluctuate even throughout the day, and it is possible to have glaucoma even if IOP falls within the normal range, or to have high pressure without glaucoma. If the disease is suspected, further testing will be done, which may include visual field tests and digital retinal scanning.</li><li>Anyone can get glaucoma but you are at increased risk for developing glaucoma if you have the following risk factors:<ul><li>over 40</li><li>diabetes</li><li>high blood pressure</li><li>African American or Hispanic descent</li><li>family history of the disease</li></ul></li><li>Glaucoma can be controlled through a variety of approaches designed to lower and control pressure build up in your eye.<ul><li>Treatment can involve the use of medicated eye drops.</li><li>Laser procedures and minor surgical procedures can be used depending on the type and stage of glaucoma.</li></ul></li><li>The best way to prevent vision loss from glaucoma is through <strong>early diagnosis</strong> so make sure to schedule a complete <strong>eye exam</strong> with your eye care professional at least <strong>once a year</strong>.</li></ol><p>Don’t be the next victim of the silent thief of sight.  Speak to your eye doctor about your risk of glaucoma today.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jan 29, 2014",
+ "key": "7-facts-you-should-know-about-glaucoma",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "7 Facts You Should Know About Glaucoma",
+   "path": "/7-facts-you-should-know-about-glaucoma/"
+  }
+ ],
+ "children": []
+}

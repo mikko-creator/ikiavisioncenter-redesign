@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-HERO-HOME",
+  "file": "assets/generated/g-hero-home.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Wide cinematic portrait composed with the woman on the right side of the frame and empty dark space on the left: a stylish adult woman in her thirties wearing modern dark acetate eyeglasses, three-quarter view, her face in the right third of the frame turned towards the left so she looks into the empty dark space, eyes sharp and in focus behind clear lenses, a calm confident smile, a warm golden amber key light coming from the left that bathes her cheek, nose and the glossy frame rims in warm orange-gold light with bright amber specular highlights on the lenses, only a thin cool teal rim light on the back of her hair at the right edge, the whole left half of the frame deep warm-black shadow with nothing in it, generic model; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2614836946,
+  "requestId": "01a15738-d26a-7ed1-b986-ffa6212896f5",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "230b0425ebcaa11559a52746c3b7de7a7f1a68731e76379bf281c13b82ac8011",
+  "raw": "tmp/img/raw/G-HERO-HOME.1792464782551.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-20T02:53:04.439Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: face in the right third (centre near 0.67 of the width), left half deep warm black for the glass panel, amber key light on the cheek, nose, lips and frame rims, teal only in the lens reflections (no visible teal rim on the hair), eyes sharp, calm closed-lip smile, no text or logo; generic model",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

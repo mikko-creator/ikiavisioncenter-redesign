@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Vision Therapy for Children",
+ "h1": "Vision Therapy for Children",
+ "head": {
+  "title": "Vision Therapy for Children",
+  "description": "Vision therapy (also called orthoptics) is an individualized program of eye exercises and other methods to treat non-refractive vision problems.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Vision Therapy for Children",
+   "og:description": "Vision therapy (also called orthoptics) is an individualized program of eye exercises and other methods to treat non-refractive vision problems.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+   "twitter:card": "summary",
+   "twitter:title": "Vision Therapy for Children",
+   "twitter:description": "Vision therapy (also called orthoptics) is an individualized program of eye exercises and other methods to treat non-refractive vision problems.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+    "name": "Vision Therapy for Children",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Children's Vision",
+   "path": "/eye-care-services/your-eye-health/childrens-vision/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>As a child’s eyes develop, it is not uncommon for a number of problems to occur. Beyond blurred vision due to refractive error including nearsightedness (myopia) and farsightedness (hyperopia), children can develop a number of other visual and perceptual problems that are often not detected by a simple vision exam. Even a child with 20/20 vision, can have underlying vision problems!</p><p>Some of these issues are functional vision problems having to do with the actual eyes, how they move individually and as a pair, as well as their ability to focus. Functions such as eye teaming, tracking, focusing, and hand eye coordination, all affect a child’s success in school, sports or general functioning. Often children that have difficulty with these functions will suffer physical symptoms as well such as headaches, eye fatigue or short attention spans. With these critical visual skills lacking, tasks such as reading and writing can be extremely difficult and exhausting which can lead to frustration and behavioral problems.</p><p>Just like we are able to train our bodies to build strength, speed and agility, our vision skills can be strengthened. Vision therapy offers a doctor-supervised program to guide children to develop these skills.</p><p><strong>What is Vision Therapy?</strong></p><p>Vision Therapy is a program of progressive eye exercises individualized for each patient designed to retrain or help the patient develop or improve upon particular visual skills or to improve processing and interpretation of visual information. It is used to treat conditions like strabismus (crossed eyes) and amblyopia (lazy eye) as well as eye movement, focus and coordination problems.</p><p>Typically, the sessions take place in the optometrist’s office weekly or bi-weekly and utilize a variety of tools such as therapeutic lenses or prisms. Often the patient will be asked to practice certain exercises or activities at home as well in order to reinforce the skills that are being developed. Through repetition of these tasks, the ultimate goal is to strengthen the skills such as focusing, and improving eye movement and alignment, to the point where the eyes and vision are working efficiently and comfortably. The duration of the therapeutic program usually lasts about 6-9 months.</p><p>Vision therapy has been scientifically proven to improve functional vision skills and is approved by the major optometric bodies such as the American Optometric Association and the Canadian Association of Optometrists. It does not improve refractive error and should not be mistaken for some of the alternative self-conducted eye exercises out there that claim to improve your vision.</p><p>Vision therapy has also been shown to be effective in adults. If you think that vision therapy could be right for your child or yourself, it is worthwhile to have an assessment by a trained vision therapist to determine whether it could help resolve the vision problems that are present.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__childrens-vision__vision-therapy-for-children",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Children's Vision",
+   "path": "/eye-care-services/your-eye-health/childrens-vision/"
+  },
+  {
+   "name": "Vision Therapy for Children",
+   "path": "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/"
+  }
+ ],
+ "children": []
+}

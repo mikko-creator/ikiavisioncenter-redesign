@@ -1,0 +1,27 @@
+/* fix.css - QA lane (loads last, BUILD-CONTRACT 3). Small scoped fixes found on the integrated site; see docs/QA.md. */
+
+/* 1. /eyeglasses-contacts/ and /eyeglasses-contacts/contact-lenses/ share the live banner "Glasses-Contacts-hero.jpg"
+   (2000x578, sharp subject at ~27% x, soft-focus figure and an empty grey wall to the right). The arch frame's default
+   crop (56% 38%) showed only the blurred figure and the grey wall, so the hero read as a washed-out blur. Aim the crop
+   at the sharp subject. The file name is the content hash of that one image. */
+.pg-hero__photo img[src*="6c61469596ca"] { object-position: 12% 40%; }
+
+/* 2. The sticky glass aside scrolls inside itself when it is taller than a 585px window; its classic Windows
+   scrollbar drew a grey bar through the rounded top-right corner of the glass. Keep the scrolling, hide the bar. */
+.pg-aside__in { scrollbar-width: none; }
+.pg-aside__in::-webkit-scrollbar { display: none; }
+
+/* 3. Brand-logo lists typed into the live copy (e.g. "Our Recommended Brands:" on /eyeglasses-contacts/contact-lenses/)
+   land in a dark .stage row as bulleted small inline images: the dark-blue Acuvue logo vanished on the dark ground and
+   each bullet floated apart from its logo. Set such a list as a row of lit white chips. */
+.stage .prose ul:has(> li > img.pg-inline--small:only-child) { display: flex; flex-wrap: wrap; gap: 14px; padding-left: 0; list-style: none; }
+.stage .prose ul:has(> li > img.pg-inline--small:only-child) > li { margin: 0; }
+.stage .prose ul:has(> li > img.pg-inline--small:only-child) > li::marker { content: none; }
+.stage .prose li > img.pg-inline--small:only-child { display: block; float: none; width: 133px; max-width: 100%; height: auto; margin: 0; padding: 10px 14px; border-radius: 14px; background: #fff; box-shadow: 0 10px 26px rgba(0, 0, 0, .35); }
+
+/* 4. Phones: the inner hero's smoke darkens left to right (.9 to .26) for a desktop layout where the copy sits on the
+   left; on a phone the copy spans the full width, so its right half sat on the bright rim of the backdrop art (the
+   contact-lens hero). Under 760px the smoke is even across the width and deeper behind the copy. */
+@media (max-width: 760px) {
+  .pg-hero .backdrop__smoke { background: linear-gradient(180deg, rgba(8, 8, 10, .62) 0%, rgba(8, 8, 10, .8) 28%, rgba(8, 8, 10, .74) 70%, rgba(5, 5, 6, .94) 100%); }
+}

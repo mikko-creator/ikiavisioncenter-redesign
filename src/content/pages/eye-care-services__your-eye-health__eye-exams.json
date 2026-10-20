@@ -1,0 +1,217 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Eye Exams",
+ "h1": "Eye Exams",
+ "head": {
+  "title": "Eye Exams",
+  "description": "Are you thinking about getting your eyes examined? Click here for information on what to expect, how to prepare and the different types of exams.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Exams",
+   "og:description": "Are you thinking about getting your eyes examined? Click here for information on what to expect, how to prepare and the different types of exams.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Exams",
+   "twitter:description": "Are you thinking about getting your eyes examined? Click here for information on what to expect, how to prepare and the different types of exams.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+    "name": "Eye Exams",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Why are Eye Exams Important?",
+           "href": "/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+           "summary": "Catching problems in their early stages can prevent vision loss. An eye exam can do this by catching things you haven’t yet noticed.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Preparing for an Eye Exam",
+           "href": "/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+           "summary": "Make the most of your exams by knowing how often to get them, and what information to bring with you.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "What to Expect",
+           "href": "/eye-care-services/your-eye-health/eye-exams/what-to-expect/",
+           "summary": "Going to the eye doctor? Here’s what to expect, and what to remember.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Visiting Your Eye Care Professional",
+           "href": "/eye-care-services/your-eye-health/eye-exams/visiting-your-eye-care-professional/",
+           "summary": "Eye exams often begin by sharing information at the front desk, so be prepared.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "What to Ask",
+           "href": "/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+           "summary": "You may want to ask some of these questions before or during your next eye exam.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Your Comprehensive Eye Exam",
+           "href": "/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+           "summary": "Learn what common tests and procedures to expect during a routine eye exam.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Exams for Contact Lenses",
+           "href": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+           "summary": "A routine exam won’t provide some of the measurements and testing that are required to determine if your eyes are suitable for contact lens wear, and to generate your contact lens Rx.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Eye Exams for Children",
+           "href": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+           "summary": "When should your child have their first eye exam? Plus, learn about special considerations for developing eyes.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Common Tests",
+           "href": "/eye-care-services/your-eye-health/eye-exams/common-tests/",
+           "summary": "You may be given these common tests during a routine eye exam. Find out what you can expect.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Medications",
+           "href": "/eye-care-services/your-eye-health/eye-exams/medications/",
+           "summary": "It's important to understand the relationship between your eyes and any medications you may currently be using.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/",
+   "title": "Common Tests"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+   "title": "Eye Exams for Children"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+   "title": "Eye Exams for Contact Lenses"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/medications/",
+   "title": "Medications"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+   "title": "Preparing for an Eye Exam"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/visiting-your-eye-care-professional/",
+   "title": "Visiting Your Eye Care Professional"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+   "title": "What to Ask"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/what-to-expect/",
+   "title": "What to Expect"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+   "title": "Why are Eye Exams Important?"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+   "title": "Your Comprehensive Eye Exam"
+  }
+ ]
+}

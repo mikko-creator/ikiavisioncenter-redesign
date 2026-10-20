@@ -1,0 +1,93 @@
+{
+ "path": "/how-uv-damages-your-eyes-2016/",
+ "url": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+ "kind": "post",
+ "section": "how-uv-damages-your-eyes-2016",
+ "title": "How UV Damages Your Eyes",
+ "h1": "How UV Damages Your Eyes",
+ "head": {
+  "title": "How UV Damages Your Eyes",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "How UV Damages Your Eyes",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "/clipart/glasses_and_contacts/glasses5.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+   "twitter:card": "summary",
+   "twitter:title": "How UV Damages Your Eyes",
+   "twitter:description": "",
+   "twitter:image": "/clipart/glasses_and_contacts/glasses5.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+    "url": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+    "name": "How UV Damages Your Eyes",
+    "datePublished": "2016-05-18T04:00:00-04:00",
+    "dateModified": "2016-05-18T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/glasses_and_contacts/glasses5.jpg\" alt=\"\"></p><p><em>UV Awareness Month:</em></p><p>This article might scare you, and we hope it does - just enough to motivate you to wear proper eye protection against the sun.</p><p>Most people are aware of the dangers ultraviolet (UV)  light from the sun pose to your skin, while the long-term effects of sun exposure on your eyes are less well-known. UV radiation can damage the internal structures of your eye, causing eye damage and vision loss, as well as threaten the delicate skin surrounding the eye and the lids.</p><p>Before you head out into the sun without full eye protection consider the following risks:</p><h2>Cataracts:</h2><p>Cataracts or a clouding of the natural clear lens of the eye which is responsible for the eye’s ability to focus for clear vision, is strongly linked to UV exposure. According to the World Health Organization (WHO) up to an estimated 20% of cataracts may be directly linked to UV exposure. Cataracts are the most common cause of treatable blindness around the world.</p><h2>Macular Degeneration:</h2><p>Macular Degeneration or Age-related Macular Degeneration (AMD) is a leading cause of vision loss in adults aged 50 and older.  The vision loss occurs gradually and often unnoticeably as the macula - which is the center of the retina responsible for clear central vision - breaks down. While total blindness usually does not result, central vision is often lost resulting in a condition called low vision, which seriously impairs independent living and quality of life.  UVA exposure has been shown to be a cause of macular degeneration.</p><h2>Eyelid Cancer:</h2><p>According to the Skin Cancer Foundation, cancers of the eyelid account for 5 -10% of all skin cancers.  Skin cancers of the eyelid which include basal cell carcinomas, squamous cell carcinomas and melanoma, can all spread to the eye and surrounding areas, causing eye and vision damage as well as facial disfigurement. If left untreated, they can eventually spread to the brain. When diagnosed and treated early on these cancers have a positive response rate to surgery and follow-up care.</p><h3>Early warning signs of eyelid cancer include:</h3><ul><li>Chronic infection, red eye, swelling or inflammation that doesn’t respond to medication</li><li>A change in the appearance of the skin on the eyelid</li><li>A lesion that does not heal</li><li>A lump or thickening on the eyelid that may bleed and doesn’t heal</li><li>A sudden loss of eyelashes</li></ul><p>If you have any of these symptoms, they may have other causes but it is best to consult with a doctor as soon as possible.</p><h2>Keratitis</h2><p>Keratitis or corneal sunburn occurs when excessive exposure to UV causes burns to the cornea.  The cornea is the part of the eye that reflect light onto the retina allowing vision.  A corneal sunburn can result in temporary vision loss. Keratitis is known to occur from use of tanning beds and while skiing or snowboarding at high altitudes in snowy conditions where the sun rays reflect off of the white snow into the eyes. Proper eye protection is essential for these environments.</p><p>The best step you can take to keep your eyes and vision safe from UV exposure is to ensure that you wear 100% UV blocking sunglasses any time your eyes are exposed to the sun. Larger framed sunglasses and or wide brimmed sunhats that prevent light from entering on the top and sides are even more effective.  Take the time to ensure you have regular comprehensive eye exams as well to help catch any problems early on to prevent deterioration and save your eyes and vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "May 18, 2016",
+ "key": "how-uv-damages-your-eyes-2016",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "How UV Damages Your Eyes",
+   "path": "/how-uv-damages-your-eyes-2016/"
+  }
+ ],
+ "children": []
+}

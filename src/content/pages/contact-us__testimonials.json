@@ -1,0 +1,117 @@
+{
+ "path": "/contact-us/testimonials/",
+ "url": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+ "kind": "page",
+ "section": "contact-us",
+ "title": "Testimonials",
+ "h1": "Testimonials",
+ "head": {
+  "title": "Testimonials",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Testimonials",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+   "twitter:card": "summary",
+   "twitter:title": "Testimonials",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+    "url": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+    "name": "Testimonials",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Contact Us",
+   "path": "/contact-us/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "testimonials",
+         "view": "complete",
+         "items": [
+          {
+           "html": "<p>I had a pleasant experience with the Doctor on duty. The Receptionist took her time to attend to me in a friendly way. Thumbs up for iCare Clinic.</p>",
+           "name": "Oyebanji O.",
+           "rating": 5,
+           "photo": null
+          },
+          {
+           "html": "<p>The doctor was very nice and patient with us. He helped look for glasses, helping us pick out glasses of our choice, I will recommend this place to anyone.</p>",
+           "name": "OGHENERO E.",
+           "rating": 5,
+           "photo": null
+          },
+          {
+           "html": "<p>Nice and God-fearing with a well-experienced doctor. Please go check him out.</p>",
+           "name": "Onyii B.",
+           "rating": 5,
+           "photo": null
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "contact-us__testimonials",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Contact Us",
+   "path": "/contact-us/"
+  },
+  {
+   "name": "Testimonials",
+   "path": "/contact-us/testimonials/"
+  }
+ ],
+ "children": []
+}

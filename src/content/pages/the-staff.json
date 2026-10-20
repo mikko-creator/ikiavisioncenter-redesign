@@ -1,0 +1,89 @@
+{
+ "path": "/the-staff/",
+ "url": "https://www.ikiavisioncenter.com/the-staff/",
+ "kind": "page",
+ "section": "the-staff",
+ "title": "The Staff",
+ "h1": "The Staff",
+ "head": {
+  "title": "The Staff",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/the-staff/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "The Staff",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/the-staff/",
+   "twitter:card": "summary",
+   "twitter:title": "The Staff",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/the-staff/",
+    "url": "https://www.ikiavisioncenter.com/the-staff/",
+    "name": "The Staff",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2020-10-16T15:57:15-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Our exceptional, friendly staff is our greatest asset. They are excited about what they do and they care personally about getting the best results for our patients.</p><p>Our receptionists will try to accommodate your busy schedule by finding appointments that suit your needs. We will help you understand your insurance coverage and if financial arrangements are necessary, we will be glad to help you develop a plan to make your vision care treatment possible.</p><p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/drikestaff-300x300.jpg\" alt=\"drikestaff\"></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "the-staff",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "The Staff",
+   "path": "/the-staff/"
+  }
+ ],
+ "children": []
+}

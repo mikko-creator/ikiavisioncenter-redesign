@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Puffer Test",
+ "h1": "Puffer Test",
+ "head": {
+  "title": "Puffer Test",
+  "description": "One of the many tests you may undergo during your eye exam is the puffer test. Why do they need to do it and how is it done? Click here to find out!",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Puffer Test",
+   "og:description": "One of the many tests you may undergo during your eye exam is the puffer test. Why do they need to do it and how is it done? Click here to find out!",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+   "twitter:card": "summary",
+   "twitter:title": "Puffer Test",
+   "twitter:description": "One of the many tests you may undergo during your eye exam is the puffer test. Why do they need to do it and how is it done? Click here to find out!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+    "name": "Puffer Test",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Most people who’ve had a comprehensive eye exam are familiar with the puffer test. A puffer test is what it sounds like: With your head resting in the chinrest of a diagnostic machine called a slit lamp, your eye doctor uses a puff of air across the surface of the eye to measure the intraocular pressure, “inside” pressure, of the eye.</p><p>High pressure is a key indicator of glaucoma, a series of eye diseases that attacks the optic nerve.</p><h2>How does a puffer test work?</h2><p>Puff tests are quick and largely without discomfort. You’ll look at a light inside the machine while your eye doctor blows a gentle puff of air across the surface of your open eye. A device called a tonometer measures the eye’s resistance to the air, and calculates your internal eye pressure.</p><p>This usually takes only a few moments, and while your eye might water slightly, the procedure is generally over before you know it!</p><p>A puffer test is a part of glaucoma testing, and is a routine part of a comprehensive eye exam. Glaucoma is a serious disease of the optic nerve, and often doesn’t present itself until vision becomes impaired—that’s why it’s so important to have a puffer test to measure your intraocular pressure.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__puffer-test",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Puffer Test",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/"
+  }
+ ],
+ "children": []
+}

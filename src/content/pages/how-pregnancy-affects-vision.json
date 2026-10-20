@@ -1,0 +1,93 @@
+{
+ "path": "/how-pregnancy-affects-vision/",
+ "url": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+ "kind": "post",
+ "section": "how-pregnancy-affects-vision",
+ "title": "How Pregnancy Affects Vision",
+ "h1": "How Pregnancy Affects Vision",
+ "head": {
+  "title": "How Pregnancy Affects Vision",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "How Pregnancy Affects Vision",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+   "twitter:card": "summary",
+   "twitter:title": "How Pregnancy Affects Vision",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+    "url": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+    "name": "How Pregnancy Affects Vision",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/woman%20smelling%20flowers.jpeg\" alt=\"\"></p><p>The hormonal fluctuations experienced during pregnancy can cause many unexpected changes in your body, including your eyes and vision. Most of these changes are temporary and will return to normal once you give birth.  It’s important to know which vision changes are normal for an expecting mother and which could indicate a problem that requires medical attention.</p><h3>Normal Vision Changes</h3><h4>Visual Acuity/Blurred vision</h4><p>During pregnancy, you may notice a change in your vision due to hormone levels. If you find that your vision has gotten blurry or that your current prescription eyeglasses or contact lenses are not helping as much as they usually do, speak to your eye doctor. Often the change in your vision is due to fluid retention which can temporarily change the shape of your cornea. Since your hormones will continue to fluctuate and will return to normal shortly after you give birth or after you finish nursing, your doctor may advise waiting until after you deliver to assess whether you need to change your prescription. However, you may need a temporary pair of glasses with your current prescription if you need lenses for driving or other tasks that are dangerous or difficult without perfect eyesight.</p><h4>Dry Eyes</h4><p>Dry eyes is a common and usually temporary condition that is experienced during pregnancy. Dry eyes can lead to irritation and discomfort in general and especially when wearing contact lenses. To relieve dry eyes, over-the-counter lubricating or rewetting eye drops are completely safe to use during pregnancy and nursing. It’s a good idea to consult with your optometrist to make sure you’re using a good dry eye solution, and definitely see the eye doctor if symptoms persist or if you wear contact lenses.</p><h4>Puffy Eyelids</h4><p>Along with many other areas in the body, eyelids may swell during pregnancy. To reduce water retention, make sure you drink a lot of water and limit your intake of sodium and caffeine.</p><h3>Vision Changes that Require Medical Attention</h3><h4>Preeclampsia</h4><p>Some serious vision changes could be signs of preeclampsia, a potentially serious issue that occurs in 5-8% of pregnancies. Vision symptoms associated with the condition include temporary vision loss, light sensitivity, blurry vision, auras and the appearance of flashing lights, along with high blood pressure.  If you experience these symptoms seek medical attention immediately.</p><h4>Diabetes</h4><p>Both women that are regularly diabetic and those that have gestational (pregnancy) diabetes need to keep an eye on their vision as blurred vision can indicate elevated blood sugar levels. The risks of vision loss associated with diabetes is heightened during pregnancy so it is critical to monitor blood sugar levels at all times. Women with gestational diabetes should get a diabetic eye exam, which includes dilating the eye and examining the retina for signs of retinopathy.</p><p>While minor changes in your eyes and vision are a normal part of pregnancy, if at any time you notice persistent eye pain, vision loss or discomfort, visit your doctor.  It is always better to be safe than sorry.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Aug 30, 2015",
+ "key": "how-pregnancy-affects-vision",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "How Pregnancy Affects Vision",
+   "path": "/how-pregnancy-affects-vision/"
+  }
+ ],
+ "children": []
+}

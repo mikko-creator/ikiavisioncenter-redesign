@@ -1,0 +1,137 @@
+{
+ "path": "/eye-care-services/eye-exams/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Eye Exam Near You | Optometrist",
+ "h1": "Comprehensive Eye Exams",
+ "head": {
+  "title": "Eye Exam Near You | Optometrist",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Comprehensive Eye Exams",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-phoropter.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-phoropter.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Exam Near You | Optometrist",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-phoropter.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+    "name": "Comprehensive Eye Exams",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Eye Exams For the Whole Family</h2><p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Happy20Family20Outside201280x480_preview2-1024x384.jpeg\" alt=\"Eye Exam for patients of all ages\"></p><p>Routine eye exams are important, regardless of your age or physical health. During a complete eye exam, your eye doctor will not only determine your prescription for eyeglasses or contact lenses, but will also check your eyes for common eye diseases, assess how your eyes work together as a team and evaluate your eyes as an indicator of your overall health.</p><h3>Need an Eye Exam to Update Your Prescription?</h3><p>A comprehensive eye exam includes a number of tests and procedures to examine and evaluate the health of your eyes and the quality of your vision. These tests range from simple ones, like having you read an eye chart, to complex tests, such as using digital retinal imaging technology to evaluate retinal health.</p><p>Eye care experts recommend you have a complete eye exam every year to assess your risk for potentially damaging eye conditions, as well as to keep on top of any changes in vision you may be experiencing.</p><h3>Eye Care for Everyone</h3><h4>How Often Do You Need to See the Optometrist, Based on Age?</h4><p>The AOA recommends an annual eye exam for any patient who wears eyeglasses or contacts. If you don’t normally need vision correction, you still need an eye exam every year. Doctors often recommend more frequent eye examinations for people with diabetes, high blood pressure and other disorders, because many diseases can have an impact on vision and eye health.</p><p>Since the risk of eye disease continues to increase with advancing age, everyone over the age of 60 should be examined annually.</p><p>If you are over 40, it’s a good idea to have your eyes examined every one to two years to check for common age-related eye problems such as presbyopia, cataracts and macular degeneration.</p><h3>Eye Exams for Children</h3><p>Some experts estimate that approximately 5% to 10% of pre-schoolers and 25% of school-aged children have vision problems. According to the American Optometric Association (AOA), all children should have their eyes examined at 6 months of age, at age 3 and again at the start of school. Children without vision problems or risk factors for eye or vision problems should then continue to have their eyes examined at every year throughout school.</p><p>Children with existing vision problems or risk factors should have their eyes examined more frequently. Common risk factors for vision problems include:</p><ul><li>premature birth</li><li>developmental delays</li><li>turned or crossed eyes</li><li>family history of eye disease</li><li>history of eye injury</li><li>other physical illness or disease</li></ul><p>The AOA recommends that children who wear eyeglasses or contact lenses should have their eyes examined at least every 12 months or according to their optometrist’s instructions. Read more about <a href=\"/eye-care-services/eye-exams/pediatric-eye-exams/\">Pediatric Eye Exams</a>.</p><h2>Schedule an Eye Doctor’s Appointment</h2><p>Contact our eye care clinic to schedule an eye exam near you, today.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Children's Eye Care",
+           "href": "/eye-care-services/eye-exams/pediatric-eye-exams/",
+           "summary": "According to experts, 80% of learning is visual, which means that if your child is having difficulty seeing clearly, his or her learning can be affected. This also goes for infants who develop and learn about the world around them through their sense of sight. To ensure that your children have the visual resources they need to grow and develop normally, their eyes and vision should be checked by an eye doctor at certain stages of their development.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Technology - Advanced Eye Care",
+           "href": "/eye-care-services/eye-exams/advanced-technology/",
+           "summary": "We use the most up-to-date technology to ensure the best eye care possible. Learn about the different types of tests and equipment you may experience on a visit to our Practice.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "What to Expect",
+           "href": "/eye-care-services/eye-exams/what-to-expect/",
+           "summary": "Going to the eye doctor? Here’s what to expect, and what to remember.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__eye-exams",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Comprehensive Eye Exams",
+   "path": "/eye-care-services/eye-exams/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/eye-exams/advanced-technology/",
+   "title": "Technology – Advanced Eye Care"
+  },
+  {
+   "path": "/eye-care-services/eye-exams/pediatric-eye-exams/",
+   "title": "Children’s Eye Care"
+  },
+  {
+   "path": "/eye-care-services/eye-exams/what-to-expect/",
+   "title": "What to Expect"
+  }
+ ]
+}

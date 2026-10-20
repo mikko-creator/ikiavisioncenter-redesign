@@ -1,0 +1,105 @@
+{
+ "path": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+ "h1": "Cataract Surgery Co-Management",
+ "head": {
+  "title": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+  "description": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Cataract Surgery Co-Management",
+   "og:description": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+   "twitter:card": "summary",
+   "twitter:title": "Cataract Surgery | Treating Cataracts Pre-op & Post-op | Optometrist",
+   "twitter:description": "Cataract surgery is the removal of the natural lens of the eye that has developed a cataract. Our practice provides pre-op and post-cataract surgery care.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+    "name": "Cataract Surgery Co-Management",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Disease Management",
+   "path": "/eye-care-services/management-of-ocular-diseases/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Woman-Hands-in-Heart-1280x480.jpg\" alt=\"Senior Woman, Happy and seeing well, after eye surgery for cataracts\"></p><p>Cataracts is a disease of the eye that results in the clouding of the lens of the eyeball. Cataracts prevent clear images from appearing on the eye’s retina; causing mild, moderate, even severe blurred vision.</p><p>Typically an eye disorder associated with aging (over half of the people in America over age 80 have either had a cataract or cataract surgery), cataracts generally occur later in life as the lens structure within the human eye changes and gets older. In addition to age, other risk factors that lead to cataracts include smoking, UV overexposure and <a href=\"/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/\">diabetes</a>.</p><p>During the evaluation of your eye health we will carefully examine your lens for signs of cataract formation. If a cataract is noticed and the clouding is causing visual disruption, the optometrist will refer you to a trusted and respected surgeon for surgery, which is the only known cure for cataracts. Our Eye Care Practice will be there for you providing pre and post cataract surgery care.</p><h2>Cataract Surgery</h2><p>Cataract surgery is the removal of the natural lens of the eye (also called “crystalline lens”) that has developed an opacification, which is referred to as a cataract. Metabolic changes of the crystalline lens fibers over the time lead to the development of the cataract and loss of transparency, causing impairment or loss of vision. During cataract surgery, a patient’s cloudy natural lens is removed and replaced with a synthetic lens to restore the transparency of the lens.</p><p>Following surgical removal of the natural lens, an artificial intraocular lens implant is inserted (eye surgeons say that the lens is “implanted”). Cataract surgery is generally performed by an ophthalmologist (eye surgeon) in an ambulatory (rather than inpatient) setting, in a surgical center or hospital, using local anesthesia (either topical, peribulbar, or retrobulbar), usually causing little or no discomfort to the patient. Well over 90% of operations are successful in restoring useful vision, with a low complication rate. Outpatient care, high volume, minimally invasive, small incision phacoemulsification with quick post-op recovery has become the standard of care in cataract surgery all over the world.</p><h2>Learn More</h2><p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/cataracts-icon.jpg\" alt=\"Cataracts\">The more you know about cataracts, the better prepared you will be to deal with them – or help prevent them in the first place!</p><ul><li><a href=\"/your-eye-health/eye-diseases/cataracts/cataracts-video/\">Watch a short video about cataracts.</a></li><li><a href=\"/your-eye-health/eye-diseases/cataracts/\">Read more about the causes, symptoms and treatment options for cataracts.</a></li></ul>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__management-of-ocular-diseases__cataract-surgery-co-management",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Disease Management",
+   "path": "/eye-care-services/management-of-ocular-diseases/"
+  },
+  {
+   "name": "Cataract Surgery Co-Management",
+   "path": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/"
+  }
+ ],
+ "children": []
+}

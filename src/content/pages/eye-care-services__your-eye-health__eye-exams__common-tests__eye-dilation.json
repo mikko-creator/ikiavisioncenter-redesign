@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Eye Dilation",
+ "h1": "Eye Dilation",
+ "head": {
+  "title": "Eye Dilation",
+  "description": "Why do you need to have your Eyes Dilated by an eye doctor? Click to read how eye dilation helps your optometrist during an eye exam.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Dilation",
+   "og:description": "Why do you need to have your Eyes Dilated by an eye doctor? Click to read how eye dilation helps your optometrist during an eye exam.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Dilation",
+   "twitter:description": "Why do you need to have your Eyes Dilated by an eye doctor? Click to read how eye dilation helps your optometrist during an eye exam.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+    "name": "Eye Dilation",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>A truly comprehensive eye exam almost always includes eye dilation—the addition of special eye drops that “open up” the pupil at the front of the eyeball. This allows for a maximum amount of light to enter the eyeball, giving your eye doctor the best possible visibility during a variety of specific eye tests.</p><p>Eye dilation is common during an eye exam after preliminary testing of visual acuity, pressure testing, and any vision-correction measurements have been taken. Your eyes are dilated using special drops, by far the most effective way to examine the structures inside the eye, and the light-sensitive retina at the back of the eye.</p><p>Most eyecare professionals agree: eye dilation is a critical component of a comprehensive eye exam, and vital to the detection of symptoms of eye disease like macular degeneration, diabetic eye disease, glaucoma, cataracts and more.</p><h2>Anything else I should know?</h2><p>Having your eyes dilated doesn’t hurt—it just feels a little strange. Your pupil at the front of your eye automatically adjusts to light intensity, closing when light is more intense, and opening in lower lighting conditions—much like an automatic camera adjusts to take photos indoors or outdoors.</p><p>The drops used to dilate your eyes don’t wear off immediately, that’s why it’s recommended you bring sunwear with you to a comprehensive eye exam. And if you’re driving, you may want to consider having a friend with you to help you drive home, or assist you if you feel slightly disoriented.</p><p>(Remember, your eyes won’t automatically adjust to changing light conditions until the drops wear off.)</p><h2>Can I have an eye exam without having my eyes dilated?</h2><p>In short, yes. Most vision screenings done at a pediatrician’s office, health clinic or community health organizations don’t include eye dilation. But these basic vision tests cannot help you diagnose eye disease, and are certainly no substitute for a regular and thorough eye exam from a qualified eyecare professional.</p><p>Most eye doctors will tell you with very few exceptions, dilated eyes mean the best possible eye exam environment.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__eye-dilation",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Eye Dilation",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/"
+  }
+ ],
+ "children": []
+}

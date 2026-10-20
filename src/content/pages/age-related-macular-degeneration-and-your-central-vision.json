@@ -1,0 +1,93 @@
+{
+ "path": "/age-related-macular-degeneration-and-your-central-vision/",
+ "url": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+ "kind": "post",
+ "section": "age-related-macular-degeneration-and-your-central-vision",
+ "title": "Age Related Macular Degeneration and Your Central Vision",
+ "h1": "Age Related Macular Degeneration and Your Central Vision",
+ "head": {
+  "title": "Age Related Macular Degeneration and Your Central Vision",
+  "description": "Did you know that age-related macular degeneration (AMD) is one of the leading causes of vision loss and blindness among adults aged 50 and above?",
+  "canonical": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Age Related Macular Degeneration and Your Central Vision",
+   "og:description": "Did you know that age-related macular degeneration (AMD) is one of the leading causes of vision loss and blindness among adults aged 50 and above?",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+   "twitter:card": "summary",
+   "twitter:title": "Age Related Macular Degeneration and Your Central Vision",
+   "twitter:description": "Did you know that age-related macular degeneration (AMD) is one of the leading causes of vision loss and blindness among adults aged 50 and above?",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+    "url": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+    "name": "Age Related Macular Degeneration and Your Central Vision",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Did you know that age-related macular degeneration (AMD) is one of the leading causes of vision loss and blindness among adults aged 50 and above?</p><p>AMD occurs when the part of the retina responsible for your sharp central vision, the macula, begins to deteriorate. Central vision is the visual field that you rely on to focus on objects clearly, to read or to drive. As AMD affects your macula, the condition often results in gradual central vision loss. AMD does not cause complete blindness, as those affected by the condition are able to see by relying on their peripheral or side vision.</p><p>AMD is usually diagnosed as either dry or wet. The dry form is more common than <a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">wet macular degeneration</a>. In dry AMD, light-sensitive cells in the macula gradually break down and slowly begin to blur central vision in the affected eye. Over time, central vision in the affected eye can be slowly lost as the macula begins to further deteriorate.</p><p>In its wet form, macular degeneration can lead to more severe vision loss, as the more advanced stage of the disease causes new blood vessels to grow beneath the retina. These new blood vessels are delicate and can leak blood and fluid, causing damage and scarring of the retina, leading to further vision loss.</p><p>The early and intermediate stages of AMD usually occur without symptoms. Only a comprehensive dilated eye exam can detect AMD. The eye exam includes a visual acuity test that measures how well you see, a dilated eye exam and the use of an Amsler grid. An Amsler grid consists of a grid of straight lines with a central focus point in the center. Someone with AMD may see the central area darkened or will report that the lines are wavy. This is a very effective and easy way for you and your eye practitioner to monitor changes in your central vision.</p><p>Aside from age, other risk factors that can increase your chances of developing AMD include smoking, high blood pressure, UV exposure and family history of the disease. It is important to maintain a healthy lifestyle, which includes quitting smoking, exercising regularly and maintaining normal blood pressure and cholesterol levels. Eating a diet rich in colorful vegetables and fish can boost the vitamins that naturally protect the eyes from AMD. We may recommend vitamin and mineral supplements based on your risk factors and level of developing macular degeneration.</p><p>Early detection of AMD is the best way to control the condition and reduce damage to your eyesight. That's just one of the reasons why it's so important to get a comprehensive eye exam from an eye care professional at least once a year.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 17, 2013",
+ "key": "age-related-macular-degeneration-and-your-central-vision",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Age Related Macular Degeneration and Your Central Vision",
+   "path": "/age-related-macular-degeneration-and-your-central-vision/"
+  }
+ ],
+ "children": []
+}

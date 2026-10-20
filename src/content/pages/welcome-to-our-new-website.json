@@ -1,0 +1,93 @@
+{
+ "path": "/welcome-to-our-new-website/",
+ "url": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+ "kind": "post",
+ "section": "welcome-to-our-new-website",
+ "title": "Welcome to our New Website",
+ "h1": "Welcome to our New Website",
+ "head": {
+  "title": "Welcome to our New Website",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Welcome to our New Website",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+   "twitter:card": "summary",
+   "twitter:title": "Welcome to our New Website",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+    "url": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+    "name": "Welcome to our New Website",
+    "datePublished": "2015-09-03T01:44:00-04:00",
+    "dateModified": "2016-04-19T21:37:45-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>We invite you to take a look around our new site to get to know our practice and learn about eye and vision health. You will find a wealth of information about our optometrists, our staff and our services, as well as facts and advice about how to take care of your eyes and protect your vision.</p><p>Learn about our Practice specialties including comprehensive eye exams, contact lens fittings and the treatment of eye diseases. Our website also offers you a convenient way to find our hours, address and map, schedule an appointment online, order contact lenses or contact us to ask us any questions you have about eye care and our Practice.</p><p>Have a look around our online office and schedule a visit to meet us in person. We are here to partner with you and your family for a lifetime of healthy eyes and vision. We look forward to seeing you!</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Sep 02, 2015",
+ "key": "welcome-to-our-new-website",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Welcome to our New Website",
+   "path": "/welcome-to-our-new-website/"
+  }
+ ],
+ "children": []
+}

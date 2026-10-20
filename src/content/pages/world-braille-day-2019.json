@@ -1,0 +1,93 @@
+{
+ "path": "/world-braille-day-2019/",
+ "url": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+ "kind": "post",
+ "section": "world-braille-day-2019",
+ "title": "World Braille Day 2019",
+ "h1": "World Braille Day 2019",
+ "head": {
+  "title": "World Braille Day 2019",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "World Braille Day 2019",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Braille_640x350.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Braille_640x350.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+   "twitter:card": "summary",
+   "twitter:title": "World Braille Day 2019",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Braille_640x350.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+    "url": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+    "name": "World Braille Day 2019",
+    "dateModified": "2019-01-17T12:40:19-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Each year during the month of January we recognize World Braille Day which gives us the opportunity to take a moment and appreciate the incredible gift that Braille has given to those who are blind or suffer from vision loss.</p><h2>What is Braille?</h2><p>Braille is a tactile representation of letters and numbers that can be utilized by people with vision loss to read using their fingers.  The system uses combinations of six raised dots - three rows of two - that serve to represent the numbers, letters and even symbols such as music notes.</p><h3>Braille History:</h3><p>Braille was developed by a young Frenchman named Louis Braille and was first published in 1829. Braille invented the system at the age of 15 after he became blind as the result of an accident. The idea was originally based on night writing, a touch-based military code developed for Napoleon’s army by Charles Barbier as a strategy for soldiers to be able to communicate silently in the dark. Barbier’s code was ultimately rejected because it was too difficult to be used effectively by the soldiers. Barbier and Braille later met at the Royal Institute for the Blind in Paris and Braille was able to adapt the idea into a more functional system. In braille, the characters, or letters, are each represented by a cell or block with a particular arrangement of raised dots.</p><h3>Not Just the ABC's</h3><p>While first developed for the French alphabet, braille has since been expanded for many languages including all the European-based languages, as well as Arabic and Asian languages. Even within those languages there are different forms of the system.  For example, in English, there is Grade 1 braille which is composed of the representation of the 26 letters of the Roman alphabet and is primarily used for those learning to read and write the language. Grade 2 on the other hand is the type of braille you are likely to see written in public places such as menus or signs as it is more complex. Grade 2 includes higher level punctuation, abbreviations and contractions. Lastly, Grade 3 is a form of shorthand designed for personal use such as taking notes or writing letters.</p><p>In addition to the cells which represent the letters, braille may also include illustrations, graphs and symbols such as bullets or arrows. Further, a cell can also represent a number, a word or a punctuation mark. Because braille takes up more space than standard print there are many abbreviations or contractions that represent words or word sequences to save space. This also helps to improve the speed at which one can read and write using the system.</p><h2>How To Write Braille</h2><p>Writing braille requires some tools. To do it by hand you need a stylus, which is a metal tool that is used to create the dots, a slate, which is a type of stencil used to align the dots into neat cells and card-stock paper which is heavy enough to emboss.  You can also write braille with a special braille typewriter or an electronic brailler as well as certain computer programs with a braille embosser printer.</p><p>Being able to read and write braille allows those with vision impairment to learn and express themselves in a way that they would otherwise not be able to. While newer technologies such as screen readers and other computer based programs have become more common in recent years, braille is the foundation of innovation in improving the lives of the blind and vision impaired.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jan 17, 2019",
+ "key": "world-braille-day-2019",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "World Braille Day 2019",
+   "path": "/world-braille-day-2019/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,106 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "EyeGlass Guide",
+ "h1": "EyeGlass Guide",
+ "head": {
+  "title": "EyeGlass Guide",
+  "description": "Our interactive on-line tool guides you through questions about you, your lifestyle & your eyewear needs to help you choose glasses that are right for you!",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "EyeGlass Guide",
+   "og:description": "Our interactive on-line tool guides you through questions about you, your lifestyle & your eyewear needs to help you choose glasses that are right for you!",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyeglass-guide.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyeglass-guide.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+   "twitter:card": "summary",
+   "twitter:title": "EyeGlass Guide",
+   "twitter:description": "Our interactive on-line tool guides you through questions about you, your lifestyle & your eyewear needs to help you choose glasses that are right for you!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyeglass-guide.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+    "name": "EyeGlass Guide",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><a href=\"http://ecp.eyeglassguide.com/tool/default.aspx\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/product_images/eyeglass_guide_logo.png\" alt=\"EyeGlass Guide 2.0\"></a></p><p>Visit our interactive on-line tool and we’ll guide you through a series of questions about you, your lifestyle and your specific eyewear needs. As you answer, you’ll notice the background photos changing as well as the lenses and the glasses on the lower right. You’ll also get to view brief information videos about specific products that might be of interest. At the end, you’ll receive eyewear suggestions specifically tailored to meet your needs and designed to help you really click with your eye care professional – your ultimate EyeGlass Guide.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__eyeglass-guide",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "EyeGlass Guide",
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-guide/"
+  }
+ ],
+ "children": []
+}

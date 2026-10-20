@@ -1,0 +1,105 @@
+{
+ "path": "/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Astigmatism: What It Is and How It's Treated | Optometrist",
+ "h1": "Astigmatism",
+ "head": {
+  "title": "Astigmatism: What It Is and How It's Treated | Optometrist",
+  "description": "Astigmatism is a very common eye condition that's easily corrected by eyeglasses or contact lenses and on some occasions, surgery.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Astigmatism",
+   "og:description": "Astigmatism is a very common eye condition that's easily corrected by eyeglasses or contact lenses and on some occasions, surgery.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+   "twitter:card": "summary",
+   "twitter:title": "Astigmatism: What It Is and How It's Treated | Optometrist",
+   "twitter:description": "Astigmatism is a very common eye condition that's easily corrected by eyeglasses or contact lenses and on some occasions, surgery.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+    "name": "Astigmatism",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Condition Treatment",
+   "path": "/eye-care-services/eye-conditions/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/1280x480/Girl20Abstract20Colorful20Hair201280x480_preview1.jpeg\" alt=\"Girl Abstract Colorful Hair. Astigmatism causes blurry vision and can make driving and other tasks difficult\"></p><h2>Astigmatism: Causes and Symptoms</h2><p>Astigmatism is a very common eye condition that’s easily corrected with eyeglasses or contact lenses and on some occasions, surgery.</p><p>Astigmatism is caused when your eye is not completely round. Because our bodies are not perfect, astigmatism occurs in nearly everybody to some degree but for some, not to the degree that it causes blurring. Your eye is naturally shaped like a sphere. Under normal circumstances, when light enters the eye, it bends evenly, creating a clear picture on the back of your eye. In a person with astigmatism, their eye is shaped more like a football and light entering the eye is bent more in one direction than the other. This causes only part of the picture to be in focus at any given time. Objects at any distance can appear blurry and wavy. For vision problems due to astigmatism, glasses or contact lenses, and sometimes even vision correction surgery are all possible treatments.</p><p>People with undetected astigmatism often have blurred vision which can be associated with fatigue and eyestrain. While these symptoms may not necessarily be the result of astigmatism, you should schedule an eye exam if you are experiencing one or more symptoms.</p><h2>Our Eye Doctors Know Astigmatism!</h2><p>Our eye doctors can diagnose astigmatism with a thorough eye exam. Astigmatism may occur in combination with other vision problems such as nearsightedness and farsightedness, or even <a href=\"/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/\">dry eyes</a>. Because astigmatism gets worse over times, visit our eye doctor whenever you notice changes in your vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__eye-conditions__astigmatism-diagnosis-treatment",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Eye Condition Treatment",
+   "path": "/eye-care-services/eye-conditions/"
+  },
+  {
+   "name": "Astigmatism",
+   "path": "/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/"
+  }
+ ],
+ "children": []
+}

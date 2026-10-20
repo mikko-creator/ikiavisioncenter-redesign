@@ -1,0 +1,92 @@
+{
+ "path": "/smoking-and-vision-2017/",
+ "url": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+ "kind": "post",
+ "section": "smoking-and-vision-2017",
+ "title": "Does Smoking Affect Vision?",
+ "h1": "Does Smoking Affect Vision?",
+ "head": {
+  "title": "Does Smoking Affect Vision?",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Does Smoking Affect Vision?",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Woman-Hat-Makeup-Blond-1280x480.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+   "twitter:card": "summary",
+   "twitter:title": "Does Smoking Affect Vision?",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Woman-Hat-Makeup-Blond-1280x480.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+    "url": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+    "name": "Does Smoking Affect Vision?",
+    "dateModified": "2017-05-10T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/slide_show_images/Woman-Hat-Makeup-Blond-1280x480.jpg\" alt=\"\"></p><h2>Eye Doctors Weigh In: How Smoking Can Harm Your Vision &amp; Eye Health</h2><p>We all know that smoking is bad for you, especially the risks that it poses to your heart and lungs. What many people do not know is that cigarette smoke negatively affects your eyes and vision too. Smoking has been directly linked to an increase in the risks of both cataracts and macular degeneration, two leading causes of vision loss, and it is believed to be a factor in a number of other eye and vision issues.</p><h3>Smoking and Cataracts</h3><p>Studies show that smoking doubles the risk of cataracts and with heavy smoking, the risk triples. In fact, there seems to be a direct correlation between the amount of smoking and the likelihood of cataracts. Cataracts are characterised by the clouding of the lens of the eye and it is believed that smoking affects the cells of the lens, accelerating this process.</p><p>Cataracts are a leading cause of vision loss worldwide, however they can be treated surgically by removing the clouded lens and replacing it with an artificial one. Symptoms include:</p><ul><ul><li>Blurred, cloudy or dim vision</li><li>Sensitivity to light and glare</li><li>Presence of halos around lights</li><li>Increasingly poor night vision</li><li>Fading color vision</li><li>Double vision</li><li>and frequent prescription changes with minimal improvement in vision</li></ul></ul><h3>Smoking and Age-Related Macular Degeneration</h3><p>According to medical research, smoking increases the likelihood of developing age-related macular degeneration between two and four times the normal risk - the more you smoke, the greater the risk. Unfortunately, there is also an increased risk for those exposed to cigarette smoke for extended periods of time.</p><p>Age-related macular degeneration or AMD is a condition in which the macula, which is the center of the retina, begins to to deteriorate, reducing central vision and the eye’s ability to see fine details. The disease is characterized by blurred and distorted eyesight and blind spots in the central vision. With time, the disease can progress to leave the person with low vision, which is significant vision loss that cannot be corrected by eyeglasses, contact lenses or refractive surgery.</p><h3>Other Eye and Vision Risks of Smoking</h3><p>Smoking has also been linked to dry eyes, optic nerve damage and diabetic retinopathy (for those with diabetes).</p><p>\"Eye Vitamins\" are often used without doctor's recommendations. Smokers are cautioned not to take beta-carotene supplements, specifically, (or multi-vitamins containing this ingredient) as studies indicate there is increased risk of cancer even in people who quit smoking.</p><h4>What to Do?</h4><p>Even if you have been smoking for years, quitting will reduce the risks of developing these conditions, for yourself and those around you. If you do smoke, make sure to schedule a comprehensive eye exam every year to catch any developing disease early. Early diagnosis and treatment can be the key to saving your vision and preventing permanent vision loss.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "May 10, 2017",
+ "key": "smoking-and-vision-2017",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Does Smoking Affect Vision?",
+   "path": "/smoking-and-vision-2017/"
+  }
+ ],
+ "children": []
+}

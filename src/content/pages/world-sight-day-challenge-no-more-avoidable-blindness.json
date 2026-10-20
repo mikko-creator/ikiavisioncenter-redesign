@@ -1,0 +1,93 @@
+{
+ "path": "/world-sight-day-challenge-no-more-avoidable-blindness/",
+ "url": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+ "kind": "post",
+ "section": "world-sight-day-challenge-no-more-avoidable-blindness",
+ "title": "World Sight Day Challenge – No More Avoidable Blindness",
+ "h1": "World Sight Day Challenge – No More Avoidable Blindness",
+ "head": {
+  "title": "World Sight Day Challenge – No More Avoidable Blindness",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "World Sight Day Challenge – No More Avoidable Blindness",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+   "twitter:card": "summary",
+   "twitter:title": "World Sight Day Challenge – No More Avoidable Blindness",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+    "url": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+    "name": "World Sight Day Challenge &#8211; No More Avoidable Blindness",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/instruments/clipart-036.jpg\" alt=\"\"></p><p>The World Sight Day Challenge, slated to take place on October 9, 2014 is an annual awareness day that aims to focus global attention on blindness and vision impairment worldwide.</p><p>The day aims to create awareness that blindness can be avoided if there is universal access to quality vision and eye care services for all those in need.  Worldwide, many cases of vision impairment are simply due to the lack of a pair of eye glasses that would help correct a refractive error. The underlying vision of the campaign is to ensure that the quality-of-life and future livelihood of children and adults is not impacted because they do not have sufficient eye care.</p><p>According to Optometry Giving Sight, the organization overseeing the campaign, over 600 million people around the globe do not have access to the eye care and eyewear they need. As the ability to see well impacts every aspect of life and empowers adults and children alike to succeed at school or work, eye care from trained eye care professionals not only allows for the detection of vision problems, but can also help to identify early signs of serious health conditions such as diabetes, which can also lead to blindness.</p><h4><strong>What Can You Do?</strong></h4><p>Getting involved in the event is easy and involves making a donation on or before October 9.  The funds raised from the World Sight Day Challenge are used to sponsor projects that enable training, establishing vision centers and delivering eye care services to people who are vision impaired and could benefit from an eye exam and a pair of glasses.</p><p>The call to action for World Sight Day 2014 is \"No More Avoidable Blindness\". Help make your contribution for better eye health worldwide. Donate Here</p><p><a href=\"http://www.givingsight.org/wsdc-donate\" target=\"_blank\" rel=\"noopener\">http://www.givingsight.org/wsdc-donate</a></p><p>$25 could provide 5 people with vision through eye exams and glasses</p><p>$100 can help provide vision screenings for school aged children in developing communities</p><p>The Day is coordinated by the International Agency for the Prevention of Blindness under the VISION 2020 Global Initiative. It is supported by eye health organizations around the world, such as Optometry Giving Sight, and is included on the official World Health Organization (WHO) calendar.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Sep 28, 2014",
+ "key": "world-sight-day-challenge-no-more-avoidable-blindness",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "World Sight Day Challenge – No More Avoidable Blindness",
+   "path": "/world-sight-day-challenge-no-more-avoidable-blindness/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,93 @@
+{
+ "path": "/7-things-you-should-know-about-eyelid-twitches/",
+ "url": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+ "kind": "post",
+ "section": "7-things-you-should-know-about-eyelid-twitches",
+ "title": "7 Things You Should Know About Eyelid Twitches",
+ "h1": "7 Things You Should Know About Eyelid Twitches",
+ "head": {
+  "title": "7 Things You Should Know About Eyelid Twitches",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "7 Things You Should Know About Eyelid Twitches",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+   "twitter:card": "summary",
+   "twitter:title": "7 Things You Should Know About Eyelid Twitches",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+    "url": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+    "name": "7 Things You Should Know About Eyelid Twitches",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/eyes/eye2.jpg\" alt=\"\"></p><p>You may have experienced this before. Out of nowhere, your eyelid starts twitching uncontrollably. While this can be a cause of aggravation, eyelid twitches, spasms or tics are actually quite common.</p><p>Here are 7 things you should know about this eye condition:</p><ol><li>Eye twitches are generally caused by a repetitive, involuntary spasm in your eyelid muscles and are known in medical terms as a blepharospasm.</li><li>Almost all sudden-onset eye twitching is not considered to be a serious medical condition, though it can be hard to treat without knowing the underlying cause.</li><li>Eyelid twitches can occur sporadically, though some people have been known to feel them for a few consecutive days or weeks</li><li>Stress, tiredness, eyestrain, caffeine alcohol or tobacco usage, dry eyes, allergies or nutritional imbalances are factors that can trigger or exacerbate eye twitches. The body produces endogenous cortisol (a steroid) when stressed, which may cause biological warning signs to the body to de-stress.</li><li>If reducing stress does not alleviate the twitches, your eye doctor can perform a refraction (vision test) and comprehensive eye health exam to see if eye treatment can resolve the problem. Sometimes the solution is relieving eyestrain by updating your glasses.</li><li>Rarely, a twitch will continue despite these efforts to alleviate triggers. In that case, they can be treated with Botox injections to help stop the muscles in your eyelid from contracting.</li><li>Eyelid spasms are only considered a medical emergency when the twitch is accompanied by red or swollen eyes, unusual discharge, a drooping eyelid or twitching in other parts of the face. These may be symptoms of a more serious neurological disorder</li></ol><p>If the twitching persists, talk to your eye doctor to help you treat it.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Oct 31, 2014",
+ "key": "7-things-you-should-know-about-eyelid-twitches",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "7 Things You Should Know About Eyelid Twitches",
+   "path": "/7-things-you-should-know-about-eyelid-twitches/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,93 @@
+{
+ "path": "/under-pressure-are-you-at-risk-for-glaucoma/",
+ "url": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+ "kind": "post",
+ "section": "under-pressure-are-you-at-risk-for-glaucoma",
+ "title": "Under Pressure: Are you at Risk for Glaucoma?",
+ "h1": "Under Pressure: Are you at Risk for Glaucoma?",
+ "head": {
+  "title": "Under Pressure: Are you at Risk for Glaucoma?",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Under Pressure: Are you at Risk for Glaucoma?",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+   "twitter:card": "summary",
+   "twitter:title": "Under Pressure: Are you at Risk for Glaucoma?",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+    "url": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+    "name": "Under Pressure: Are you at Risk for Glaucoma?",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>January is Glaucoma Awareness Month.  Glaucoma is a serious, vision threatening disease. You can save your eyesight, by knowing the facts. Are you at risk of developing glaucoma?</p><p>The short answer is yes. Anyone can get glaucoma and because of this it is important for every person, young and old to have a regular eye exam. Early detection and treatment are the only answers to preventing the vision impairment and blindness that result from untreated glaucoma.</p><p>Having said that, there are a few factors that put certain individuals at greater risk of developing the disease:</p><ul><li>Over age 40: While glaucoma is known to occur in younger patients, even infants, the likelihood increases with age, particularly in those over the age of 40.</li><li>Family history: There is a genetic factor to the disease, making it more likely that it will occur when there is a family history.</li><li>Elevated Intraocular Pressure (IOP): Individuals that have an abnormally high internal eye pressure (intraocular pressure) have a dramatically increased risk of developing glaucoma and suffering eye damage from it.</li><li>Latino, Asian or African decent: Evidence clearly shows race is a factor and individuals from Latino, African and Asian backgrounds are at increased risk of developing glaucoma. African Americans in particular are at a higher risk, tend to develop glaucoma at a younger age and have a higher incidence of blindness from the disease.</li><li>Diabetes: Diabetes, particularly when it is uncontrolled, increases the risk of a number of vision threatening diseases including diabetic retinopathy and glaucoma.</li><li>Eye injury, disease or trauma: If you have suffered a serious eye injury in the past, your risk of glaucoma is increased. Similarly other eye conditions such as tumors, retinal detachment, lens dislocation or certain types of eye surgery can be factors.</li><li>Extremely high or low blood pressure: Since glaucoma has to do with the pressure inside the eye, abnormal blood pressure can contribute to an increased risk in the disease.</li><li>Long-term steroid use: Prolonged use of certain corticosteroid medications, such as prednisone, particularly in eye drop form, may also increase your chances of getting glaucoma.</li><li>Myopia (nearsightedness) or hyperopia (farsightedness): Poor vision may increase your risk of developing glaucoma.</li></ul><p>Comprehensive eye exams are the key to preventing vision threatening diseases and blindness. An annual exam for every person can help diagnose any eye disease, or any systemic disease from your body that has signs seen in the eyes.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jan 27, 2015",
+ "key": "under-pressure-are-you-at-risk-for-glaucoma",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Under Pressure: Are you at Risk for Glaucoma?",
+   "path": "/under-pressure-are-you-at-risk-for-glaucoma/"
+  }
+ ],
+ "children": []
+}

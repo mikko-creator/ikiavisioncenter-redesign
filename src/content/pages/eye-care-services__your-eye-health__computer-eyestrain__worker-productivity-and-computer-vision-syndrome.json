@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Worker Productivity and Computer Vision Syndrome",
+ "h1": "Worker Productivity and Computer Vision Syndrome",
+ "head": {
+  "title": "Worker Productivity and Computer Vision Syndrome",
+  "description": "Computer vision syndrome (CVS) is a group of physical and visual symptoms that many people experience after prolonged computer use. Stop suffering. Visit us.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Worker Productivity and Computer Vision Syndrome",
+   "og:description": "Computer vision syndrome (CVS) is a group of physical and visual symptoms that many people experience after prolonged computer use. Stop suffering. Visit us.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+   "twitter:card": "summary",
+   "twitter:title": "Worker Productivity and Computer Vision Syndrome",
+   "twitter:description": "Computer vision syndrome (CVS) is a group of physical and visual symptoms that many people experience after prolonged computer use. Stop suffering. Visit us.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+    "name": "Worker Productivity and Computer Vision Syndrome",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Computer Eyestrain",
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Since 43% of adults work at jobs that require prolonged use of a computer, tablet or other digital devices, computer vision syndrome (CVS) and blue light exposure are becoming increasingly serious threats to our vision, health and productivity.</p><p>Computer Vision Syndrome in the Workplace<br> Computer Vision Syndrome (CVS), also known as digital eye strain, is an increasingly common condition felt by those that spend two or more hours daily in front of a screen. Symptoms can include blurred vision, eye strain and fatigue, headaches, dry, red, irritated eyes, neck and back pain and headaches. Typically the symptoms of CVS are not permanent, however they can have an impact on comfort, productivity and one’s ability to focus. In rare cases, CVS can even be debilitating.</p><p>Studies show that symptoms of computer vision syndrome have become the most common workplace complaint or injury among workers with 50-90% of computer users reporting symptoms to some degree. These symptoms have been shown to have an impact on worker productivity.</p><p>The Effects of CVS on Productivity<br> In a study which looked at the correlation between computer vision and workplace productivity performed at the School of Optometry at the University of Alabama at Birmingham correlations were found between proper vision correction and overall productivity as well as the time it takes for a worker to complete a task. Even minor and unnoticeable vision problems were shown to affect productivity by up to 20% and to cause an increase in mistakes.</p><p>Blue Light Exposure<br> Blue light or high-energy visible (HEV) radiation exposure is another effect of extended digital device use. Excessive blue light exposure has been linked to sleep cycle disturbance – which can have an overall negative impact on alertness and one’s ability to focus. Blue light may also cause long term damage to the retina. While studies are currently being done to determine the effects of blue light, it is clear that protecting your eyes from blue light is recommended for eye health.</p><p>Workspace Ergonomics and Computer Eyewear<br> From both the worker’s and the employer’s perspectives, an investment in a combination of workspace ergonomics and computer eyewear can benefit the workplace and overall productivity. Workers will be more productive and experience fewer visual and musculoskeletal symptoms that can cause discomfort and distraction. Employers will benefit from productivity gains and reduced worker’s compensation claims.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__computer-eyestrain__worker-productivity-and-computer-vision-syndrome",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Computer Eyestrain",
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/"
+  },
+  {
+   "name": "Worker Productivity and Computer Vision Syndrome",
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/"
+  }
+ ],
+ "children": []
+}

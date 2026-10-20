@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Slit Lamp Exam",
+ "h1": "Slit Lamp Exam",
+ "head": {
+  "title": "Slit Lamp Exam",
+  "description": "Ever wonder how a slit lamp works or why your eye doctor might use one? All the information you ever wanted to know about it can be found right here.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Slit Lamp Exam",
+   "og:description": "Ever wonder how a slit lamp works or why your eye doctor might use one? All the information you ever wanted to know about it can be found right here.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+   "twitter:card": "summary",
+   "twitter:title": "Slit Lamp Exam",
+   "twitter:description": "Ever wonder how a slit lamp works or why your eye doctor might use one? All the information you ever wanted to know about it can be found right here.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+    "name": "Slit Lamp Exam",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>If you’ve ever had a comprehensive eye examination, chances are you’ve had a slit lamp exam. Slit lamp tests are designed to help your eye doctor magnify and examine the eye from front to back.</p><p>With your head resting in a machine called a slit lamp, your eye doctor can use a combination of bright light and different magnifying lenses to view your eye’s structure. A slit lamp examination helps your eye doctor see the entire physical structure of your eye from the inside.</p><p>A slit lamp test is designed to have your eyes tell a story that might indicate the presence of many types of eye diseases and potential vision problems.</p><h2>How does a slit lamp exam work?</h2><p>A slit lamp examination is relatively quick and largely without discomfort, though your eye may tear or water and you’ll have to resist the urge to blink frequently.</p><p>With your head resting in the chin rest of the slit lamp, you’ll look at a light inside the machine while your eye doctor performs a meticulous scan of your eyes using different lenses, much like on a microscope.</p><p>Slit lamp tests are ways to magnify what’s happening on the surface of your eye, at the front of the eye, inside the eye, and at the all-important retina at the back of the eye.</p><p>A slit lamp test is one of the most common procedures in a comprehensive eye exam because it tells your eye doctor so much about the state of your eye health, and can be used to spot indicators of a wide variety of diseases and conditions including cataracts, glaucoma, diabetic eye disease, age-related macular degeneration, even blood disorders and certain cancers.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__slit-lamp-exam",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Slit Lamp Exam",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/"
+  }
+ ],
+ "children": []
+}

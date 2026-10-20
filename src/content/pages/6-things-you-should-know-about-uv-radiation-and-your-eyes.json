@@ -1,0 +1,93 @@
+{
+ "path": "/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+ "url": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+ "kind": "post",
+ "section": "6-things-you-should-know-about-uv-radiation-and-your-eyes",
+ "title": "6 Things You Should Know about UV Radiation and Your Eyes",
+ "h1": "6 Things You Should Know about UV Radiation and Your Eyes",
+ "head": {
+  "title": "6 Things You Should Know about UV Radiation and Your Eyes",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "6 Things You Should Know about UV Radiation and Your Eyes",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+   "twitter:card": "summary",
+   "twitter:title": "6 Things You Should Know about UV Radiation and Your Eyes",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+    "url": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+    "name": "6 Things You Should Know about UV Radiation and Your Eyes",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/baby%20in%20shades.jpg\" alt=\"\"></p><p>The heat of long summer days is nearly upon us. As the sun's rays intensify and people spend more time outdoors in the sunshine it is very important to be aware of the potential damage exposure to the sun can have on your eyes. May is UV Awareness month. Here are 6 things you should know about ultraviolet rays and how important it is to protect your eyes from the sun year round.</p><ol><li>Exposing your eyes to UV rays can harm your vision and cause a number of eye issues such as cataracts, corneal sunburn, macular degeneration, pterygium and skin cancer around the eyelids.</li><li>Everyone, including children, is at risk for eye damage from UV radiation. Those who work or play in the sun, or are exposed to the sun for extended amounts of time are at the highest risk for damage to their eyes or vision from UV rays. At 20 years of age, the average person has received 80% of their life’s UV exposure. Children have more transparent lenses in their eyes and more sensitive skin on their bodies. As a result, they are at great risk of experiencing adverse effects of over-exposure to UV light. The effects of overexposure to UV light at a younger age may not show up until later in life with higher risk of cataracts and age related macular degeneration. This is why it is critical to effectively protect our eyes from the sun.</li><li>UV rays come from the sun but also reflect off other surfaces such as water, snow, sand and the ground. They are generally at their highest and most dangerous levels during peak sun hours, usually between 10 a.m. and 3 p.m.</li><li>There are 2 types of UV rays that can harm your sight:<ul><li>UV-A rays can cause damage to your central vision.</li><li>UV-B rays can damage the cornea and lens on the front of your eye.</li></ul></li><li>The best way to protect your eyes from the sun is by wearing sunglasses or eyewear that absorbs UV rays, together with a wide brimmed hat.</li><li>UV protection is the most important factor when purchasing sunglasses. Here's what you should look for:<ul><li>Eyewear that filters 100% UV-A and UV-B rays, providing you with maximum protection.</li><li>Eyewear that reduces glare and does not distort color.</li><li>Important to know: UV protection is available in some clear lenses as well as sunglasses. The choice can be confusing if you do not have some background information. Not all lenses are equal in terms of UV protection. For example, cheaply made UV400 sunglasses have a spray-on coating that will wear off with cleaning and give you a false sense of security.</li></ul></li></ol><p>Don't take any shortcuts when it comes to protecting your eyes from the sun. Stay indoors during peak sun hours and if you have to go out, be sure that your eyewear blocks UV rays so that you can protect your eyes and your vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "May 22, 2014",
+ "key": "6-things-you-should-know-about-uv-radiation-and-your-eyes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "6 Things You Should Know about UV Radiation and Your Eyes",
+   "path": "/6-things-you-should-know-about-uv-radiation-and-your-eyes/"
+  }
+ ],
+ "children": []
+}

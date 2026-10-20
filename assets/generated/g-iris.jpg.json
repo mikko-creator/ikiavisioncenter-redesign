@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-IRIS",
+  "file": "assets/generated/g-iris.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Extreme macro photograph of a single human eye with a rich amber-brown iris full of fine radial fibres and texture, a crisp ring-light reflection in the cornea, long natural lashes, the surrounding skin sinking into deep shadow, a faint teal reflection on the edge of the cornea, the eye centred in a wide frame; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 17574566,
+  "requestId": "01a15739-37d3-7a01-bdfe-02217ac470a7",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "e8cd23e9996e2fd941910a92cbc2d5f2365ca0e7b29b0d5312d1796addd4941e",
+  "raw": "tmp/img/raw/G-IRIS.1792464738525.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:52:20.859Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "amber iris macro with a teal catchlight, echoes the logo's orange iris; brighter than the brief (the skin is lit rather than sunk in shadow) and the lashes are slightly stylised; no text",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

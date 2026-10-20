@@ -1,0 +1,106 @@
+{
+ "path": "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Disposable Contacts",
+ "h1": "Disposable Contacts",
+ "head": {
+  "title": "Disposable Contacts",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Disposable Contacts",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/02/Thumbnail-dispoasable.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/02/Thumbnail-dispoasable.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+   "twitter:card": "summary",
+   "twitter:title": "Disposable Contacts",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/02/Thumbnail-dispoasable.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+    "name": "Disposable Contacts",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Contact Lenses",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "5d25bba7afb66",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Disposable contact lenses are extremely popular these days. As an alternative to hard lenses of the past and rigid gas permeable lenses of today, they are generally considered to be far superior in comfort and wearability. They come in many different varieties, and it is important to know which is best for you. Below, our trusted eyecare professionals give you a brief explanation of some of the major types of disposable contact lenses on the market today.</p><p><strong>Bi-Weekly and Monthly Contact Lenses</strong></p><p>Monthly and bi-weekly disposable contact lenses require more upkeep than daily disposables, requiring daily cleaning and storage in proper contact lens solution. They are, however, more economical overall, since less material goes into making them and you do not have to buy contact lenses as often. Additionally, monthly and bi-weekly contact lenses offer the possibility of extended wear, which allows up to 30 days of continuous day and night contact lens wear, without the necessity of taking them out.</p><p><strong>Daily Disposables</strong></p><p>Although more expensive than monthly and bi-weekly contacts, daily disposable contact lenses are an increasingly popular alternative because they offer the same crystal clear vision without the need to ensure proper storage and cleaning at the end of each day. Daily disposables allow contact lens wearers the ability to simply throw away each day's pair of contacts before bed and open a brand new pair the very next day to enjoy the benefits and comfort of clean, clear, crisp contact lenses. Dangerous calcium or hairspray deposits, normally associated with bi-weekly and monthly contact lenses, are no longer an issue, and the chances of developing contact lens related eye infections, normally associated with monthly and bi-weekly contact lenses, become almost a non-issue.</p><p>Many disposable contact lenses, of all varieties, also offer tints and colors that may accent your natural eye color or change your eye color altogether. Those with Presbyopia normally would need to have bi-weekly or monthly contacts, although new daily disposable options are also beginning to emerge. For more information, speak with your eye doctor today.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__contact-lenses__disposable-contacts",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "A WIDE SELECTION OF CONTACT LENSES",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  },
+  {
+   "name": "Disposable Contacts",
+   "path": "/eyeglasses-contacts/contact-lenses/disposable-contacts/"
+  }
+ ],
+ "children": []
+}

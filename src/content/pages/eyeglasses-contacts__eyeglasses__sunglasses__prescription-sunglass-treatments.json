@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Prescription Sunglass Treatments",
+ "h1": "Prescription Sunglass Treatments",
+ "head": {
+  "title": "Prescription Sunglass Treatments",
+  "description": "Pamper your eyes while in the sun, driving or playing at the beach—all the while delivering the vision correction you need in a second pair of glasses.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Prescription Sunglass Treatments",
+   "og:description": "Pamper your eyes while in the sun, driving or playing at the beach—all the while delivering the vision correction you need in a second pair of glasses.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+   "twitter:card": "summary",
+   "twitter:title": "Prescription Sunglass Treatments",
+   "twitter:description": "Pamper your eyes while in the sun, driving or playing at the beach—all the while delivering the vision correction you need in a second pair of glasses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+    "name": "Prescription Sunglass Treatments",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Sunglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Prescription sunglasses</h2><p>If you spend a lot of time outdoors or driving in the car, and still need vision correction, prescription sunglasses are perfect for soothing the eyes. Since most prescription sunglasses manufacturers block 100% UV, prescription sunglasses are a healthy way to enjoy the outdoors (especially the beach) and driving using the darkest lenses available to protect against the brightness of the sun.</p><h2>Polarized sunglasses</h2><p>For reduced glare and increased clarity in your vision, a pair of polarized sunglasses can’t be beat. An invisible filter is built into your lenses—making images appear sharper and clearer while reducing the intensity of the sun’s glare. Make sure your polarized sunglasses block 100% UV, and remember that polarized sunglasses are available with or without a prescription.</p><p><a href=\"/eyeglasses-contacts/prescription-eyeglasses/consider-a-second-pair-of-glasses/\" title=\"Consider a Second Pair of Glasses\">It’s always handy to have a second pair of eyeglasses</a>—why not choose a second pair that makes a real difference in the comfort and clarity of vision while doing the things you love most!</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__sunglasses__prescription-sunglass-treatments",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Sunglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/"
+  },
+  {
+   "name": "Prescription Sunglass Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/"
+  }
+ ],
+ "children": []
+}

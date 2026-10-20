@@ -1,0 +1,321 @@
+{
+  "_source": "Hand-transcribed 2026-10-20 from audit/raw/index.html (the live header, home location module and global footer). Every value is on the live site. Owner: orchestrator.",
+  "name": "Icare Clinic",
+  "org": "Ike Ikechi, OD",
+  "doctor": "Dr. Ike Ikechi",
+  "phone": "832-717-3937",
+  "tel": "tel:832-717-3937",
+  "address": {
+    "street": "14405B Bellaire Blvd",
+    "city": "Houston",
+    "region": "TX",
+    "regionName": "Texas",
+    "zip": "77083"
+  },
+  "topbar": {
+    "location": "We are conveniently located at 14405B Bellaire Blvd, Houston, TX",
+    "locationHref": "/hours-location/"
+  },
+  "hours": [
+    {
+      "day": "Monday",
+      "time": "10:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Tuesday",
+      "time": "10:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Wednesday",
+      "time": "10:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "time": "10:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Friday",
+      "time": "10:00 AM - 6:00 PM"
+    },
+    {
+      "day": "Saturday",
+      "time": "10:00 AM - 4:00 PM"
+    },
+    {
+      "day": "Sunday",
+      "time": "Closed"
+    }
+  ],
+  "logo": {
+    "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+    "alt": "Ike Ikechi, OD logo"
+  },
+  "headerButtons": [
+    {
+      "text": "Browse Eyewear",
+      "href": "https://shop.ikiavisioncenter.com/",
+      "external": true,
+      "kind": "amber"
+    },
+    {
+      "text": "Make an Appointment",
+      "href": "/contact-us/appointment-request-form/",
+      "kind": "glass"
+    }
+  ],
+  "nav": [
+    {
+      "text": "Hours & Location",
+      "href": "/hours-location/"
+    },
+    {
+      "text": "Our Eye Doctors",
+      "href": "/our-eye-doctors/"
+    },
+    {
+      "text": "The Staff",
+      "href": "/the-staff/"
+    },
+    {
+      "text": "Eye Care Services",
+      "href": "/eye-care-services/",
+      "mega": true
+    },
+    {
+      "text": "Eyeglasses & Contacts",
+      "href": "/eyeglasses-contacts/",
+      "mega": true
+    },
+    {
+      "text": "Insurance",
+      "href": "/insurance/"
+    }
+  ],
+  "_navNote": "The live header menu is flat (6 items, no dropdowns). nav[].children for the two mega items are filled by the extractor from the live URL tree (pages that exist under each hub, live titles); the redesign adds the panels, no page or URL changes.",
+  "footer": {
+    "important": {
+      "title": "Important Links",
+      "links": [
+        {
+          "text": "Home",
+          "href": "/"
+        },
+        {
+          "text": "Contact Us",
+          "href": "/contact-us/"
+        },
+        {
+          "text": "What’s New",
+          "href": "/whats-new/"
+        },
+        {
+          "text": "Disclaimer",
+          "href": "/disclaimer/"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "/privacy-policy/"
+        }
+      ]
+    },
+    "quick": {
+      "title": "Quick Links",
+      "links": [
+        {
+          "text": "Hours & Location",
+          "href": "/hours-location/"
+        },
+        {
+          "text": "Our Eye Doctors",
+          "href": "/our-eye-doctors/"
+        },
+        {
+          "text": "The Staff",
+          "href": "/the-staff/"
+        },
+        {
+          "text": "Eye Care Services",
+          "href": "/eye-care-services/"
+        },
+        {
+          "text": "Eyeglasses & Contacts",
+          "href": "/eyeglasses-contacts/"
+        },
+        {
+          "text": "Insurance",
+          "href": "/insurance/"
+        }
+      ]
+    },
+    "searchTitle": "Ask Here, Voice Search",
+    "napLine": "Icare Clinic - Located at 14405B Bellaire Blvd, Houston, Texas 77083 Phone: 832-717-3937",
+    "bottom": [
+      {
+        "text": "Accessibility",
+        "href": "/website-accessibility-policy/"
+      },
+      {
+        "text": "Sitemap",
+        "href": "/sitemap/"
+      },
+      {
+        "text": "Privacy",
+        "href": "/privacy-policy/"
+      },
+      {
+        "text": "Disclaimer",
+        "href": "/disclaimer/"
+      }
+    ],
+    "_removed": "'© 2026 Powered by eyecarepro' (platform credit) and 'Login' (ecpbuilder wp-admin) are platform chrome and do not ship."
+  },
+  "social": [
+    {
+      "name": "facebook",
+      "label": "Visit us on facebook",
+      "href": "https://www.facebook.com/ikiavisioncenter/?rf=226796727464790"
+    },
+    {
+      "name": "yelp",
+      "label": "Visit us on yelp",
+      "href": "https://www.yelp.com/biz/icare-clinic-tomball-spring"
+    },
+    {
+      "name": "google",
+      "label": "Visit us on google",
+      "href": "https://www.google.com/search?q=icare+clinic+23110+Kuykendahl+Rd+ike"
+    }
+  ],
+  "_socialNote": "Carried as live. The Yelp and Google links name an older Tomball/Spring address (23110 Kuykendahl Rd): a client decision, not ours. The Google link drops the live URL's tracking parameters only.",
+  "emergency": {
+    "title": "Is it an Emergency?",
+    "html": "<p>If you experience loss of vision, double vision, swelling, infection or any eye emergency, contact us immediately for guidance. We’ll help you with the best treatment to prevent complications and promote long-lasting clear eyesight.</p><p>Please call our office at: <strong>832-717-3937</strong> for further instructions. Use your best judgment on urgency, if you feel the need to find the nearest emergency room.</p>"
+  },
+  "redirects": [
+    {
+      "from": "/eye-care-services/pediatric-eye-exams/",
+      "to": "/eye-care-services/eye-exams/pediatric-eye-exams/",
+      "status": 301
+    },
+    {
+      "from": "/eye-care-services/dry-eye-disease-and-treatment/",
+      "to": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "status": 301
+    },
+    {
+      "from": "/eyeglasses/designer-frames/",
+      "to": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "status": 301
+    },
+    {
+      "from": "/eyeglasses-contacts/designer-frames/",
+      "to": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "status": 301
+    },
+    {
+      "from": "/your-eye-health/eye-diseases/",
+      "to": "/eye-care-services/your-eye-health/eye-diseases/",
+      "status": 301
+    },
+    {
+      "from": "/your-eye-health/protecting-your-eyes/",
+      "to": "/eye-care-services/your-eye-health/protecting-your-eyes/",
+      "status": 301
+    },
+    {
+      "from": "/your-eye-health/eye-conditions/",
+      "to": "/eye-care-services/eye-conditions/",
+      "status": 301
+    }
+  ],
+  "sidebar": [
+    {
+      "t": "search",
+      "label": "Search:"
+    },
+    {
+      "t": "badges",
+      "items": [
+        {
+          "label": "Schedule An Appointment",
+          "href": "/contact-us/appointment-request-form/",
+          "external": false,
+          "icon": "fa-calendar"
+        },
+        {
+          "label": "Patient History Form",
+          "href": "/contact-us/patient-registration-form/",
+          "external": false,
+          "icon": "fa-pencil-square-o"
+        },
+        {
+          "label": "Email Us",
+          "href": "/contact-us/contact-form/",
+          "external": false,
+          "icon": "fa-envelope-o"
+        },
+        {
+          "label": "Browse Eyewear",
+          "href": "https://shop.ikiavisioncenter.com/",
+          "external": true,
+          "icon": "ecp-customicon-computer-eye"
+        },
+        {
+          "label": "Enroll in Vision Membership Plan",
+          "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+          "external": true,
+          "icon": "fa-address-card-o"
+        }
+      ]
+    },
+    {
+      "t": "locations",
+      "view": "summary",
+      "items": [
+        {
+          "name": "Icare Clinic",
+          "address": [
+            "14405B Bellaire Blvd",
+            "Houston, TX 77083"
+          ],
+          "phone": "832-717-3937",
+          "tel": "tel:832-717-3937",
+          "hours": [
+            {
+              "day": "Monday",
+              "time": "10:00 AM - 6:00 PM"
+            },
+            {
+              "day": "Tuesday",
+              "time": "10:00 AM - 6:00 PM"
+            },
+            {
+              "day": "Wednesday",
+              "time": "10:00 AM - 6:00 PM"
+            },
+            {
+              "day": "Thursday",
+              "time": "10:00 AM - 6:00 PM"
+            },
+            {
+              "day": "Friday",
+              "time": "10:00 AM - 6:00 PM"
+            },
+            {
+              "day": "Saturday",
+              "time": "10:00 AM - 4:00 PM"
+            },
+            {
+              "day": "Sunday",
+              "time": "Closed"
+            }
+          ],
+          "href": "/location/icare-clinic/",
+          "html": "",
+          "payment": null,
+          "labels": []
+        }
+      ]
+    }
+  ]
+}

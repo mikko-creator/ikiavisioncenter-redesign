@@ -1,0 +1,93 @@
+{
+ "path": "/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Scleral Lenses | Icare Clinic",
+ "h1": "Scleral Lenses",
+ "head": {
+  "title": "Scleral Lenses | Icare Clinic",
+  "description": "If you are looking to wear contact lenses but have always had problems with the comfort it may be time to look into a type of contact lens known as a “scleral lens",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "If you are looking to wear contact lenses but have always had problems with the comfort it may be time to look into a type of contact lens known as a “scleral lens",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Scleral Lenses | Icare Clinic",
+   "twitter:description": "If you are looking to wear contact lenses but have always had problems with the comfort it may be time to look into a type of contact lens known as a “scleral lens"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Contact Lenses",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>If you are looking to wear contact lenses but have always had problems with comfort or have been told you’ll never be able to wear contact lenses because of an irregularly shaped cornea or other eye problem, it may be time to look into a type of contact lens known as a “scleral lens.”</p><p>Scleral contact lenses are large diameter rigid gas permeable contact lenses designed to pass over the cornea entirely, resting comfortably on the white of your eye, also known as the sclera. This allows scleral lenses to essentially replace the irregular surface of the cornea with a perfectly formed optical surface, giving you the kind of perfectly crisp vision you may not even be able to accomplish at all with eyeglasses or other forms of vision correction. This extra area also allows the lens to be a liquid reservoir to provide extra comfort for those who otherwise may have comfort issues with regular contact lenses.</p><p>Scleral lenses are noticeably larger than normal gas permeable lenses, varying in size from 14.5 mm to 24 mm across. The size of the scleral lens that a person needs is often determined by how complex their eye condition is. Mild keratoconus and abnormal astigmatism are usually considered less complicated and tend to require smaller, less costly, scleral lenses, whereas more advanced cases of keratoconus, severe and chronic dry eyes or advanced ocular diseases often are considered more complicated to treat, and usually require larger, more costly, scleral lenses.</p><p>Scleral lenses are always custom made to fit the unique contours of your eye, so fitting of this type of specialty lens requires a specific expertise and a greater amount of time fitting than with standard gas permeable and soft contact lenses. In many cases, a digital map of your cornea will by created, displaying for your optometrist an image referred to as your “corneal topography.” This will help your eye doctor more easily find the right fit for you, and reduce the number of trial pairs and the amount of time spent in fitting.</p><p>Because of the increased amount of time that is required to obtain a corneal topography and customize a scleral lens that works best and is most comfortable for your eyes, as well as the larger material cost to produce, scleral lenses can be significantly more expensive than traditional gas permeable and soft contact lenses. Despite this, scleral lenses still remain the most comfortable and, in many cases, only way, to obtain comfortable, accurate vision for those suffering from severe dry eye, keratoconus and other similar eye conditions.</p><p>For more information, contact your eye doctor today.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__contact-lenses__scleral-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "A WIDE SELECTION OF CONTACT LENSES",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  },
+  {
+   "name": "Scleral Lenses",
+   "path": "/eyeglasses-contacts/contact-lenses/scleral-lenses/"
+  }
+ ],
+ "children": []
+}

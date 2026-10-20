@@ -1,0 +1,34 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-SUNGLASSES",
+  "file": "assets/generated/cut-sunglasses.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one pair of round metal-frame sunglasses with amber gradient lenses and thin polished gold wire temples, angled three-quarter view from the front left, centred with generous empty space around them, isolated on a plain light grey seamless background, soft even studio light, crisp clean edges, both lenses clear of any mark, every part of the frame plain and unmarked with no brand name; no text, no letters, no numbers, no logos, no watermark, premium commercial product photography, crisp focus from front to back, true-to-life colour, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3345552618,
+  "requestId": "01a1573c-4c7e-78a2-a09d-939ef3e94c6c",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a1573c-837f-7f92-b7d4-4e6a2e4f6093"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "0ed50a5e6e931c6795b454c237dda7239e0dfa0e37625c1e33bffdef37ab7c13",
+  "raw": "tmp/img/raw/CUT-SUNGLASSES.1792464944223.jpg",
+  "attempt": 3,
+  "generatedAt": "2026-10-20T02:55:48.964Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 3: round gold wire sunglasses with amber gradient lenses in a three-quarter view, no marks; 88.1% of pixels fully transparent, lenses opaque tint, alpha bbox 167,716-1871,1523 of 2048: nothing clipped",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

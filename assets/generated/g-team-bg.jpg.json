@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-TEAM-BG",
+  "file": "assets/generated/g-team-bg.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Abstract background, a soft pool of warm amber spotlight on a dark textured plaster wall, the light falling off into deep warm black towards the edges, a soft teal glow along one edge, subtle plaster texture, empty wall, no people, no objects; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3277788378,
+  "requestId": "01a1573a-0a04-7b10-a4b3-609299b6c7e4",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "b631fba1cebcba286babe276069c7d5c9aae47cf0d9cb75a48e78b64adcb69dc",
+  "raw": "tmp/img/raw/G-TEAM-BG.1792464796118.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-20T02:53:18.232Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "amber light shaft on a dark textured wall over a dark tiled floor; no people or objects; no teal edge glow",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

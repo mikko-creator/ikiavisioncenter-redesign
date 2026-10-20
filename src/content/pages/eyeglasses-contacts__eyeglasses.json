@@ -1,0 +1,272 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Eyeglasses",
+ "h1": "PLENTY OF CHOICE—EYEGLASSES",
+ "head": {
+  "title": "Eyeglasses",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eyeglasses",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Glasses.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Glasses.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+   "twitter:card": "summary",
+   "twitter:title": "Eyeglasses",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Glasses.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+    "name": "Eyeglasses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2023-01-12T14:54:46-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Glasses-hero-1.jpg",
+  "overlay": false,
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<h2>PLENTY OF CHOICE—EYEGLASSES</h2><p>Our optical offers a large selection of eyeglasses, designer frames and sunglasses. We carry the latest European and American designer eyewear collections in a variety of styles, colors and materials including titanium, stainless steel and plastic.</p>"
+   },
+   {
+    "t": "button",
+    "text": "BOOK AN EYE EXAM TODAY!",
+    "href": "/contact-us/appointment-request-form/",
+    "external": false
+   },
+   {
+    "t": "button",
+    "text": "BROWSE EYEWEAR",
+    "href": "https://shop.ikiavisioncenter.com/",
+    "external": true
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c50c3468e900",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Quality Eyeglasses and Lenses</h2><p>Find the best fit for your specific needs and we can explain how different lenses and frames will impact your vision. They will help you narrow down your choices so you can find the look, fit and functionality you want from your eyewear.</p><p>New clients and all our current patients are welcome to visit our optical Icare Clinic  with their current prescription - no appointment necessary.</p><hr><h3>Our Eyeglass Services:</h3>"
+        },
+        {
+         "t": "search"
+        },
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Designer Frames",
+           "href": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+           "summary": "We carry a large variety of top designer frames for both eyeglasses and sunglasses.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-sunglasses.jpg",
+           "imageAlt": "Thumbnail sunglasses"
+          },
+          {
+           "title": "Eyeglass Basics",
+           "href": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+           "summary": "Eyeglasses are more popular today than ever, despite the availability of contact lenses and vision correction surgery.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyeglass-basics.jpg",
+           "imageAlt": "Thumbnail eyeglass basics"
+          },
+          {
+           "title": "Sunglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/",
+           "summary": "Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced performance to your activities, while helping you look great.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-designer.jpg",
+           "imageAlt": "Thumbnail designer"
+          },
+          {
+           "title": "Prescription Eyeglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+           "summary": "Get tips on caring for your lenses and frames and learn about the benefits of bifocals, progressives, high index lenses and prescription sunglasses.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-prescription-2.jpg",
+           "imageAlt": "Thumbnail prescription 2"
+          },
+          {
+           "title": "Specialty Eyewear",
+           "href": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+           "summary": "Sports glasses, Protective eyewear, SCUBA diving... we can help you with glasses for your specific needs.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-specialty.jpg",
+           "imageAlt": "Thumbnail specialty"
+          },
+          {
+           "title": "Lens Treatments",
+           "href": "/eyeglasses-contacts/eyeglasses/lens-treatments/",
+           "summary": "Today’s eyeglass lens treatments make a real difference in what you see, and what you don’t see. Scratches, glare, ultraviolet rays—all are potential hazards to healthy sight that can be minimized or eliminated by a lens treatment.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-lens-treatment-2.jpg",
+           "imageAlt": "Thumbnail lens treatment 2"
+          },
+          {
+           "title": "Transitions® Lenses",
+           "href": "/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+           "summary": "Transitions® Lenses Optical, Inc. has developed the world's most advanced photochromic lens technology—the ability of a lens to darken in the presence of invisible UV light. Transitions® Lenses are the #1 brand of photochromic lenses recommended by eye care professionals worldwide.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-transitions.jpg",
+           "imageAlt": "Thumbnail transitions"
+          },
+          {
+           "title": "Kid's Optical",
+           "href": "/eyeglasses-contacts/eyeglasses/kids-optical/",
+           "summary": "Help your child choose eyewear that suits their lifestyle. The right frame and lens will help them in school, work and at play.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Kids.jpg",
+           "imageAlt": "Thumbnail Kids"
+          },
+          {
+           "title": "EyeGlass Guide",
+           "href": "/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+           "summary": "Visit our interactive on-line tool and we'll guide you through a series of questions about you, your lifestyle and your specific eyewear needs to help you choose the glasses that are right for you!",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-eyeglass-guide.jpg",
+           "imageAlt": "Thumbnail eyeglass guide"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+   "title": "Designer Frames"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+   "title": "Eyeglass Basics"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+   "title": "EyeGlass Guide"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/kids-optical/",
+   "title": "Kid’s Optical"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/",
+   "title": "Lens Treatments"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+   "title": "Prescription Eyeglasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+   "title": "Specialty Eyewear"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/",
+   "title": "Sunglasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+   "title": "Transitions® Lenses"
+  }
+ ]
+}

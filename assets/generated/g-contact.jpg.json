@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-CONTACT",
+  "file": "assets/generated/g-contact.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Macro photograph of a single thin soft contact lens, a delicate transparent dome with a fine edge, resting cup-side up on the tip of an index finger, a tiny droplet of saline glistening inside the lens, realistic natural human skin with fine fingerprint ridges softly out of focus, the clear lens catching curved amber and teal reflections, the background completely dark, crisp focus on the lens edge; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2286871410,
+  "requestId": "01a1573b-52b4-7cd0-881e-3c14e31a551b",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "bed155c45ce1e25442865af8205f777960d4ecd519a44d892eab2303670c6d09",
+  "raw": "tmp/img/raw/G-CONTACT.1792464878582.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-20T02:54:40.343Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: contact lens on a fingertip with natural fingerprint ridges, amber and teal reflections, dark ground; the lens reads slightly thick and the skin has small glints",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

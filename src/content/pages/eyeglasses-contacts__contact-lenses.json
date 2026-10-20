@@ -1,0 +1,346 @@
+{
+ "path": "/eyeglasses-contacts/contact-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Contact Lenses",
+ "h1": "A WIDE SELECTION OF CONTACT LENSES",
+ "head": {
+  "title": "Contact Lenses",
+  "description": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Contact Lenses",
+   "og:description": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Contact Lenses",
+   "twitter:description": "We offer a wide range of contact lenses to fit your needs including contact lens exams and fittings.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+    "name": "Contact Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T06:58:05-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Glasses-Contacts-hero.jpg",
+  "overlay": false,
+  "blocks": [
+   {
+    "t": "rich",
+    "html": "<h2>A WIDE SELECTION OF CONTACT LENSES</h2><p>These include disposable soft contact, bifocal/multifocal, toric, and colored lenses. Whether you wear daily, weekly or monthly disposables, or conventional (vial) lenses, check out our selection of lenses at Icare Clinic.</p>"
+   },
+   {
+    "t": "button",
+    "text": "CLICK NOW & MAKE AN APPOINTMENT",
+    "href": "/contact-us/appointment-request-form/",
+    "external": false
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c50c6e604340",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c50c6e603982",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 50,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Establishing a Good Contact Lens Fit"
+        },
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "It starts with a thorough eye exam to ensure the most up-to-date prescription and rule out any  pre-existing conditions that could interfere with contact lens wear."
+        },
+        {
+         "t": "rich",
+         "html": "<p><strong>Fitting lenses to your lifestyle</strong><br> We will determine the best fitting lens based on your lifestyle needs and the shape and health of your eye. In most cases, you’ll have the opportunity to try lenses on the same day as your exam. You can even go home with a few samples before making a final decision.</p>"
+        },
+        {
+         "t": "rich",
+         "html": "<p><strong>Follow up fittings</strong><br>We follow up the initial fitting and then make any necessary changes in fit or materials to get you the best possible fit. We teach all our patients proper contact lens care and also possible consequences if proper care is not taken. Then we continue with long-term follow-up to monitor the condition of the lenses and to ensure that proper hygiene is being maintained.</p>"
+        }
+       ]
+      },
+      {
+       "w": 50,
+       "small": true,
+       "blocks": [
+        {
+         "t": "image",
+         "src": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Contact-lens-whoosh-300x300.jpg",
+         "alt": "Contact lens whoosh",
+         "href": null,
+         "external": false,
+         "caption": null
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c50c6e604279",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "Our Recommended Brands:"
+        },
+        {
+         "t": "rich",
+         "html": "<ul><li><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/Contact%20Lenses/Acuvue.png\" alt=\"Acuvue\"></li><li><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/Contact%20Lenses/BandL.png\" alt=\"Bausch &amp; Lomb\"></li><li><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/Contact%20Lenses/CooperVision.png\" alt=\"CooperVision\"></li></ul>"
+        },
+        {
+         "t": "divider"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "Our Contact Lens Services:"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Our Featured Brands",
+           "href": "/eyeglasses-contacts/contact-lenses/our-featured-brands/",
+           "summary": "We carry all of the top contact lens brands!",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-brands.jpg",
+           "imageAlt": "Thumbnail contacts brands"
+          },
+          {
+           "title": "Disposable Contacts",
+           "href": "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+           "summary": "Disposable contact lenses are generally considered to be far superior in comfort and wearability than hard and rigid lenses.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/02/Thumbnail-dispoasable.jpg",
+           "imageAlt": "Thumbnail dispoasable"
+          },
+          {
+           "title": "Eye Exams for Contact Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+           "summary": "A routine exam won’t provide some of the measurements and testing that are required to determine if your eyes are suitable for contact lens wear, and to generate your contact lens Rx.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contact-exam.jpg",
+           "imageAlt": "Thumbnail contact exam"
+          },
+          {
+           "title": "Bifocal and Multifocal Contact Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+           "summary": "Fortunately for those who don’t like the look, feel or inconvenience of reading glasses, there is another option. Bifocal and multifocal lenses are also available in contact lenses in both soft and rigid varieties.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-senior.jpg",
+           "imageAlt": "Thumbnail contacts senior"
+          },
+          {
+           "title": "Gas Permeable (GP) Contact Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+           "summary": "These rigid lenses aren’t as popular or well-known as soft lenses, but they offer the advantages of durability, crisp vision and high oxygen permeability.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-3.jpg",
+           "imageAlt": "Thumbnail contacts 3"
+          },
+          {
+           "title": "Contact Lenses for the \"Hard-to-Fit\" Patient",
+           "href": "/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+           "summary": "Challenges such as astigmatism, presbyopia, keratoconus and dry eyes needn’t be a barrier to contact lens wear, but they do require more time and patience.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-4.jpg",
+           "imageAlt": "Thumbnail contacts 4"
+          },
+          {
+           "title": "Toric Contact Lenses for Astigmatism",
+           "href": "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+           "summary": "“I can’t wear soft contacts; I have astigmatism.” This once-true statement is now simply a myth.",
+           "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-contacts-astig.jpg",
+           "imageAlt": "Thumbnail contacts astig"
+          },
+          {
+           "title": "Scleral Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+           "summary": "",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "RGP Lenses",
+           "href": "/eyeglasses-contacts/contact-lenses/rgp-lenses/",
+           "summary": "Below is a brief comparison of Soft and Rigid Gas Permeable (RGP) contact lenses. A thorough eye examination and a better understanding of your specific vision requirements will help determine the best options for you.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__contact-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "A WIDE SELECTION OF CONTACT LENSES",
+   "path": "/eyeglasses-contacts/contact-lenses/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+   "title": "Bifocal and Multifocal Contact Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+   "title": "Contact Lenses for the “Hard-to-Fit” Patient"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+   "title": "Disposable Contacts"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+   "title": "Eye Exams for Contact Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+   "title": "Gas Permeable (GP) Contact Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/our-featured-brands/",
+   "title": "Our Featured Brands"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/rgp-lenses/",
+   "title": "RGP Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+   "title": "Scleral Lenses"
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+   "title": "Toric Contact Lenses for Astigmatism"
+  }
+ ]
+}

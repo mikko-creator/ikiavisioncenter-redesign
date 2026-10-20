@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Phoropter",
+ "h1": "Phoropter",
+ "head": {
+  "title": "Phoropter",
+  "description": "Stop! Wondering what eye tests will be done at your next eye exam? Read all about the phoropters and other equipment found in your doctor's office.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Phoropter",
+   "og:description": "Stop! Wondering what eye tests will be done at your next eye exam? Read all about the phoropters and other equipment found in your doctor's office.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+   "twitter:card": "summary",
+   "twitter:title": "Phoropter",
+   "twitter:description": "Stop! Wondering what eye tests will be done at your next eye exam? Read all about the phoropters and other equipment found in your doctor's office.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+    "name": "Phoropter",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>If, during an eye examination, your doctor has discovered a vision problem like nearsightedness, farsightedness or astigmatism, it’s likely that one of the next steps you’ll take will involve a phoropter. A phoropter is special machine used to switch multiple lenses in front of your eyes to correct your vision.</p><p>Phoropters look imposing—like space-age visors—but are really an ingenious way to quickly determine the exact vision correction needed by your individual eyes.</p><p>By having you look through the phoropter at a visual reference, image, or the “Big E” chart (the Snellen chart), your eye doctor will help guide you toward lenses that correct your vision impairment by switching lenses within the machine on the fly.</p><h2>How does a phoropter work?</h2><p>The process of switching lenses in front of your eyes is less involved than it may look, given the imposing nature of the device. A phoropter is used to manually determine “refraction”—exactly how a lens must be shaped and curved to correct your vision to a normal state, nothing more.</p><p>Phoropters are subjective however, based on your visual perception and response to your eye doctor’s questions. Is your vision better, or worse? With this lens, or this lens? How about now?</p><p>There are other procedures and technologies available that automatically measure the refraction needed within your eye and produce a “prescription” measurement without your input. These are called autorefractors and aberrometers.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__phoropter",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Phoropter",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/"
+  }
+ ],
+ "children": []
+}

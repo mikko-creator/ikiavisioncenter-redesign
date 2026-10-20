@@ -1,0 +1,93 @@
+{
+ "path": "/a-look-behind-sleeping-eyes/",
+ "url": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+ "kind": "post",
+ "section": "a-look-behind-sleeping-eyes",
+ "title": "A Look Behind Sleeping Eyes",
+ "h1": "A Look Behind Sleeping Eyes",
+ "head": {
+  "title": "A Look Behind Sleeping Eyes",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "A Look Behind Sleeping Eyes",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+   "twitter:card": "summary",
+   "twitter:title": "A Look Behind Sleeping Eyes",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+    "url": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+    "name": "A Look Behind Sleeping Eyes",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/sleepinggirlwithdad.jpg\" alt=\"\"></p><p>Have you ever wondered what your eyes do when you finally close them after a long day of visual processing and stimulation? Let's take a closer look at what happens behind your closed lids when your head hits the pillow.</p><p>Firstly, once your eyes are closed, they do continue to function in a limited fashion with the ability to sense light. This explains why a bright light being switched on or the sun rising in the morning can wake you up, while lying in a dark room will help you sleep.</p><p>During sleep your eyes don't send visual data or information about images to your brain. In fact, it takes almost 30 seconds for the connection between your eyes and your brain to reboot when you wake up. This is why it's often difficult to see complete and clear images when you first wake up.</p><p>Our bodies pass through five phases of sleep known as stages 1, 2, 3, 4, (which together are called Non-REM) and REM (rapid eye movement) sleep. During a typical sleep cycle, you progress from stage 1 to 4 then REM and then start over.  Almost 50 percent of our total sleep time is spent in stage 2 sleep, while 20 percent is spent in REM sleep, and the remaining 30 percent in the other stages. During stage 1, your eyes roll slowly, opening and closing slightly; however the eyes are then still from stages 2-4 when sleep is deeper.</p><p>During REM sleep, your eyes move around rapidly in a range of directions, but don’t send any visual information to your brain. Scientists have discovered that during REM sleep the visual cortex of the brain, which is responsible for processing visual data, is active. However, this activity serves part of a memory forming or reinforcing function which aims to consolidate your memory with experiences from the day, as opposed to processing visual information that you see. This is also the time when most people dream.</p><p>As for your eyelids, they cover your eyes and function as a shield protecting them from light. They also help preserve moisture on the cornea and prevent your eyes from drying out while your body is resting.</p><p>In short, while your eyes do move around during sleep, they are not actively processing visual imagery. Closing your eyelids and sleeping essentially gives your eyes a break. Shut-eye helps recharge your eyes, preparing them to help you see the next day.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 19, 2014",
+ "key": "a-look-behind-sleeping-eyes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "A Look Behind Sleeping Eyes",
+   "path": "/a-look-behind-sleeping-eyes/"
+  }
+ ],
+ "children": []
+}

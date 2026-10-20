@@ -1,0 +1,155 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Eye Diseases",
+ "h1": "Eye Diseases",
+ "head": {
+  "title": "Eye Diseases",
+  "description": "Learn about some of the more common eye diseases and what your eye doctor can do to keep your eyes healthy. Read about Glaucoma, Cataracts and other diseases.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Eye Diseases",
+   "og:description": "Learn about some of the more common eye diseases and what your eye doctor can do to keep your eyes healthy. Read about Glaucoma, Cataracts and other diseases.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+   "twitter:card": "summary",
+   "twitter:title": "Eye Diseases",
+   "twitter:description": "Learn about some of the more common eye diseases and what your eye doctor can do to keep your eyes healthy. Read about Glaucoma, Cataracts and other diseases.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+    "name": "Eye Diseases",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>The following is a list of common eye diseases. For information about eye problems such as astigmatism, blepharitis, keratoconus and many more please see <a href=\"/your-eye-health/eye-conditions/\">Eye Conditions</a>.</p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Cataracts",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+           "summary": "Cataracts are a common cause of vision loss after age 55. Learn more about recognizing cataracts symptoms, protecting your eyes and understanding cataract surgery.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Diabetes and Eyesight",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+           "summary": "How does diabetes affect vision? What does diabetes mean for eyesight? Learn more about eye problems resulting from diabetes including diabetic retinopathy, the most common diabetic eye disease and a leading contributor to blindness for adults in America.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Glaucoma",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+           "summary": "Early detection is key, so knowing the early symptoms of glaucoma could go a long way toward preventing and treating this common eye disease.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Macular Degeneration Information",
+           "href": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+           "summary": "Macular Degeneration is an eye disease that affects the portion of the eye responsible for processing fine detail and providing sharp central vision (called the macula).",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+   "title": "Cataracts"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+   "title": "Diabetes and Eyesight"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+   "title": "Glaucoma"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+   "title": "Macular Degeneration Information"
+  }
+ ]
+}

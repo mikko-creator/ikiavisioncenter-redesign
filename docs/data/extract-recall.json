@@ -1,0 +1,2393 @@
+{
+ "min": 0.97,
+ "median": 1,
+ "pages": [
+  {
+   "path": "/our-eye-doctors/",
+   "kind": "page",
+   "words": 141,
+   "recall": 0.9858,
+   "missing": [
+    "read",
+    "more"
+   ]
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+   "kind": "page",
+   "words": 120,
+   "recall": 0.9917,
+   "missing": [
+    "brands"
+   ]
+  },
+  {
+   "path": "/eye-care-services/myopia-management-optometrist/",
+   "kind": "page",
+   "words": 359,
+   "recall": 0.9944,
+   "missing": [
+    "click",
+    "info"
+   ]
+  },
+  {
+   "path": "/progressive-myopia-2018/",
+   "kind": "post",
+   "words": 296,
+   "recall": 0.9966,
+   "missing": [
+    "zeisstm"
+   ]
+  },
+  {
+   "path": "/keeping-your-contact-lenses-clean/",
+   "kind": "post",
+   "words": 326,
+   "recall": 0.9969,
+   "missing": [
+    "little"
+   ]
+  },
+  {
+   "path": "/whats-new/",
+   "kind": "blog",
+   "words": 1786,
+   "recall": 0.9994,
+   "missing": [
+    "read"
+   ]
+  },
+  {
+   "path": "/",
+   "kind": "home",
+   "words": 320,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/1-eye-allergies-2016/",
+   "kind": "post",
+   "words": 314,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/10-eye-healthy-foods-to-eat-this-year-2017/",
+   "kind": "post",
+   "words": 304,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/10-steps-to-prevent-vision-loss/",
+   "kind": "post",
+   "words": 349,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/10-tips-to-protect-your-vision/",
+   "kind": "post",
+   "words": 402,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/10-tips-to-teach-children-about-eye-safety-2016/",
+   "kind": "post",
+   "words": 322,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/12-tips-for-optimal-eye-health-2019/",
+   "kind": "post",
+   "words": 469,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/5-ways-to-ensure-healthy-vision/",
+   "kind": "post",
+   "words": 209,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/6-common-eye-myths-debunked/",
+   "kind": "post",
+   "words": 284,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/6-crazy-holiday-eye-injuries-to-avoid-2017/",
+   "kind": "post",
+   "words": 312,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/6-things-you-need-to-know-about-cataracts/",
+   "kind": "post",
+   "words": 205,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+   "kind": "post",
+   "words": 230,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/6-ways-to-prevent-amd-2017/",
+   "kind": "post",
+   "words": 353,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/7-eye-symptoms-you-should-not-ignore-2018/",
+   "kind": "post",
+   "words": 338,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/7-facts-you-should-know-about-glaucoma/",
+   "kind": "post",
+   "words": 204,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/7-things-you-should-know-about-eyelid-twitches/",
+   "kind": "post",
+   "words": 166,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/8-tips-to-beat-winter-dry-eyes/",
+   "kind": "post",
+   "words": 237,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/8-tips-to-relieve-winter-dry-eyes-2018/",
+   "kind": "post",
+   "words": 268,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/9-tips-for-coping-with-eye-allergy-season/",
+   "kind": "post",
+   "words": 194,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/a-look-behind-sleeping-eyes/",
+   "kind": "post",
+   "words": 195,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/age-related-macular-degeneration-and-your-central-vision/",
+   "kind": "post",
+   "words": 222,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/aging-eyes-driving-safety-2017/",
+   "kind": "post",
+   "words": 351,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/all-about-night-blindness-2018/",
+   "kind": "post",
+   "words": 282,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/amd-awareness-could-save-your-vision-2018/",
+   "kind": "post",
+   "words": 380,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/an-active-and-eye-safe-lifestyle-2016/",
+   "kind": "post",
+   "words": 304,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/april-is-womens-eye-health-and-safety-month-2017/",
+   "kind": "post",
+   "words": 224,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/are-nerf-guns-a-dangerous-holiday-present-2018/",
+   "kind": "post",
+   "words": 307,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/are-you-ignoring-your-dry-eyes-2017/",
+   "kind": "post",
+   "words": 348,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/are-your-eyes-sensitive-to-light-2017/",
+   "kind": "post",
+   "words": 236,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/associations-awards/",
+   "kind": "page",
+   "words": 4,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/be-on-the-lookout-for-vision-problems-this-summer-break/",
+   "kind": "post",
+   "words": 215,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/bifocal-and-multifocal-contact-lenses-2016/",
+   "kind": "post",
+   "words": 211,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/can-you-really-go-blind-from-looking-at-a-solar-eclipse/",
+   "kind": "post",
+   "words": 257,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/cataract-awareness-and-prevention-2017/",
+   "kind": "post",
+   "words": 321,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/cataract-awareness-month-2016-2/",
+   "kind": "post",
+   "words": 380,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/cataract-awareness-month-2019/",
+   "kind": "post",
+   "words": 332,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/comfortable-vision-for-back-to-school-reading/",
+   "kind": "post",
+   "words": 235,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/community-outreach-charity-initiatives/",
+   "kind": "page",
+   "words": 49,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-lenses-halloween-beware-take-care-2019/",
+   "kind": "post",
+   "words": 251,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-us/",
+   "kind": "page",
+   "words": 71,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-us/appointment-request-form/",
+   "kind": "form",
+   "words": 0,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-us/contact-form/",
+   "kind": "form",
+   "words": 0,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-us/patient-registration-form/",
+   "kind": "form",
+   "words": 0,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/contact-us/testimonials/",
+   "kind": "page",
+   "words": 61,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/cutting-edge-eye-dentification-2016/",
+   "kind": "post",
+   "words": 240,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/cutting-edge-glaucoma-technology/",
+   "kind": "post",
+   "words": 200,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/dealing-with-your-tweens-and-teens-eyesight/",
+   "kind": "post",
+   "words": 253,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/decorative-lenses-could-cost-you-your-vision/",
+   "kind": "post",
+   "words": 191,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/diabetes-and-your-eyes/",
+   "kind": "post",
+   "words": 354,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/disclaimer/",
+   "kind": "page",
+   "words": 176,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/do-you-know-the-facts-about-diabetic-eye-disease/",
+   "kind": "post",
+   "words": 255,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/does-chlorine-hurt-your-eyes/",
+   "kind": "post",
+   "words": 216,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/dry-eye-syndrome-causes-and-cures-2016/",
+   "kind": "post",
+   "words": 334,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/enjoying-life-during-eye-allergy-season/",
+   "kind": "post",
+   "words": 278,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/exercise-and-your-eye-health-2018/",
+   "kind": "post",
+   "words": 267,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-am-home-for-the-holidays-7-eye-tips-for-college-students/",
+   "kind": "post",
+   "words": 300,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/",
+   "kind": "page",
+   "words": 204,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/contact-lens-exams/",
+   "kind": "page",
+   "words": 334,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/emergency-eye-care-services/",
+   "kind": "page",
+   "words": 162,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/",
+   "kind": "page",
+   "words": 149,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+   "kind": "page",
+   "words": 138,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+   "kind": "page",
+   "words": 414,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+   "kind": "page",
+   "words": 303,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-emergencies-pinkred-eyes/",
+   "kind": "page",
+   "words": 240,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-exams/",
+   "kind": "page",
+   "words": 259,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-exams/advanced-technology/",
+   "kind": "page",
+   "words": 419,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-exams/pediatric-eye-exams/",
+   "kind": "page",
+   "words": 395,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/eye-exams/what-to-expect/",
+   "kind": "page",
+   "words": 270,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/lasik-refractive-surgery-co-management/",
+   "kind": "page",
+   "words": 439,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/",
+   "kind": "page",
+   "words": 165,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+   "kind": "page",
+   "words": 198,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+   "kind": "page",
+   "words": 442,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+   "kind": "page",
+   "words": 145,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+   "kind": "page",
+   "words": 177,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/",
+   "kind": "article",
+   "words": 300,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/",
+   "kind": "article",
+   "words": 115,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+   "kind": "article",
+   "words": 311,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+   "kind": "article",
+   "words": 380,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+   "kind": "article",
+   "words": 245,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+   "kind": "article",
+   "words": 227,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+   "kind": "article",
+   "words": 266,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/",
+   "kind": "article",
+   "words": 363,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/blue-lighthigh-energy-visible-hev-light-and-your-eyes/",
+   "kind": "article",
+   "words": 258,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/children-and-computer-vision-syndrome/",
+   "kind": "article",
+   "words": 334,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/computer-glasses/",
+   "kind": "article",
+   "words": 336,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+   "kind": "article",
+   "words": 194,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/contact-lens-basics/",
+   "kind": "article",
+   "words": 412,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/",
+   "kind": "article",
+   "words": 210,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+   "kind": "article",
+   "words": 248,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+   "kind": "article",
+   "words": 204,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+   "kind": "article",
+   "words": 207,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+   "kind": "article",
+   "words": 195,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+   "kind": "article",
+   "words": 365,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+   "kind": "article",
+   "words": 398,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+   "kind": "article",
+   "words": 291,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+   "kind": "article",
+   "words": 229,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+   "kind": "article",
+   "words": 185,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+   "kind": "article",
+   "words": 440,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+   "kind": "article",
+   "words": 290,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+   "kind": "article",
+   "words": 206,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+   "kind": "article",
+   "words": 185,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+   "kind": "article",
+   "words": 154,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+   "kind": "article",
+   "words": 262,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+   "kind": "article",
+   "words": 271,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+   "kind": "article",
+   "words": 299,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+   "kind": "article",
+   "words": 218,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+   "kind": "article",
+   "words": 257,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+   "kind": "article",
+   "words": 231,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+   "kind": "article",
+   "words": 202,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+   "kind": "article",
+   "words": 220,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/",
+   "kind": "article",
+   "words": 91,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+   "kind": "article",
+   "words": 205,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/cataract-surgery-treatment/",
+   "kind": "article",
+   "words": 232,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/causes-of-cataracts/",
+   "kind": "article",
+   "words": 115,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/common-questions-about-presbyopia-correcting-iols/",
+   "kind": "article",
+   "words": 177,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/more-about-cataracts/",
+   "kind": "article",
+   "words": 108,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/cataracts/signs-symptoms/",
+   "kind": "article",
+   "words": 106,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+   "kind": "article",
+   "words": 203,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/causes-of-diabetic-retinopathy/",
+   "kind": "article",
+   "words": 131,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/overview-of-diabetic-retinopathy/",
+   "kind": "article",
+   "words": 113,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/signs-and-symptoms-of-diabetic-retinopathy/",
+   "kind": "article",
+   "words": 166,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/treatment-for-diabetic-retinopathy/",
+   "kind": "article",
+   "words": 102,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+   "kind": "article",
+   "words": 440,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+   "kind": "article",
+   "words": 191,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/forms-of-macular-degeneration/",
+   "kind": "article",
+   "words": 153,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/overview/",
+   "kind": "article",
+   "words": 285,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/symptoms-risk-factors-of-macular-degeneration/",
+   "kind": "article",
+   "words": 228,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+   "kind": "article",
+   "words": 134,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/",
+   "kind": "article",
+   "words": 114,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/",
+   "kind": "article",
+   "words": 182,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+   "kind": "article",
+   "words": 131,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/eye-dilation/",
+   "kind": "article",
+   "words": 197,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/glaucoma-test/",
+   "kind": "article",
+   "words": 141,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/ophthalmoscope/",
+   "kind": "article",
+   "words": 137,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/optomap/",
+   "kind": "article",
+   "words": 162,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/peripheral-vision-test/",
+   "kind": "article",
+   "words": 164,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/phoropter/",
+   "kind": "article",
+   "words": 143,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/puffer-test/",
+   "kind": "article",
+   "words": 121,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/retinoscope/",
+   "kind": "article",
+   "words": 159,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/slit-lamp-exam/",
+   "kind": "article",
+   "words": 148,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/snellen-chart/",
+   "kind": "article",
+   "words": 155,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-screening/",
+   "kind": "article",
+   "words": 262,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/vision-testing/",
+   "kind": "article",
+   "words": 277,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+   "kind": "article",
+   "words": 371,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+   "kind": "article",
+   "words": 321,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/medications/",
+   "kind": "article",
+   "words": 198,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+   "kind": "article",
+   "words": 293,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/visiting-your-eye-care-professional/",
+   "kind": "article",
+   "words": 302,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+   "kind": "article",
+   "words": 175,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/what-to-expect/",
+   "kind": "article",
+   "words": 263,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+   "kind": "article",
+   "words": 270,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+   "kind": "article",
+   "words": 414,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+   "kind": "article",
+   "words": 568,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/healthy-sight/",
+   "kind": "article",
+   "words": 246,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/how-the-eye-works/",
+   "kind": "article",
+   "words": 219,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/protecting-your-eyes/",
+   "kind": "article",
+   "words": 72,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/",
+   "kind": "article",
+   "words": 43,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/",
+   "kind": "article",
+   "words": 199,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+   "kind": "article",
+   "words": 261,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+   "kind": "article",
+   "words": 162,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+   "kind": "article",
+   "words": 230,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+   "kind": "article",
+   "words": 231,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/",
+   "kind": "article",
+   "words": 42,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+   "kind": "article",
+   "words": 426,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+   "kind": "article",
+   "words": 251,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/",
+   "kind": "article",
+   "words": 241,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/",
+   "kind": "article",
+   "words": 137,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+   "kind": "article",
+   "words": 130,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+   "kind": "article",
+   "words": 298,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+   "kind": "article",
+   "words": 348,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+   "kind": "article",
+   "words": 203,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+   "kind": "article",
+   "words": 252,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik/",
+   "kind": "article",
+   "words": 306,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/prk/",
+   "kind": "article",
+   "words": 389,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+   "kind": "article",
+   "words": 242,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-health-for-college-students-2018/",
+   "kind": "post",
+   "words": 397,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-health-for-women-2017/",
+   "kind": "post",
+   "words": 224,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eye-safe-toys-and-gifts-for-this-holiday-season/",
+   "kind": "post",
+   "words": 249,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/",
+   "kind": "page",
+   "words": 101,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/",
+   "kind": "page",
+   "words": 228,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+   "kind": "page",
+   "words": 291,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+   "kind": "page",
+   "words": 344,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+   "kind": "page",
+   "words": 174,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+   "kind": "page",
+   "words": 321,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+   "kind": "page",
+   "words": 242,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/our-featured-brands/",
+   "kind": "page",
+   "words": 10,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/rgp-lenses/",
+   "kind": "page",
+   "words": 69,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+   "kind": "page",
+   "words": 202,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+   "kind": "page",
+   "words": 176,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/",
+   "kind": "page",
+   "words": 199,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+   "kind": "page",
+   "words": 334,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/eyeglass-frames/",
+   "kind": "article",
+   "words": 238,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+   "kind": "article",
+   "words": 282,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+   "kind": "article",
+   "words": 241,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+   "kind": "page",
+   "words": 63,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/kids-optical/",
+   "kind": "page",
+   "words": 238,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/",
+   "kind": "article",
+   "words": 92,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+   "kind": "article",
+   "words": 151,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+   "kind": "article",
+   "words": 126,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+   "kind": "article",
+   "words": 150,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+   "kind": "article",
+   "words": 138,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+   "kind": "article",
+   "words": 133,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+   "kind": "article",
+   "words": 220,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+   "kind": "article",
+   "words": 304,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+   "kind": "article",
+   "words": 249,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+   "kind": "article",
+   "words": 131,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+   "kind": "article",
+   "words": 141,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+   "kind": "article",
+   "words": 200,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+   "kind": "article",
+   "words": 434,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+   "kind": "article",
+   "words": 360,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+   "kind": "article",
+   "words": 205,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+   "kind": "article",
+   "words": 238,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+   "kind": "article",
+   "words": 236,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/",
+   "kind": "article",
+   "words": 87,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+   "kind": "article",
+   "words": 285,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+   "kind": "article",
+   "words": 220,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+   "kind": "article",
+   "words": 104,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+   "kind": "article",
+   "words": 213,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/",
+   "kind": "article",
+   "words": 247,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+   "kind": "page",
+   "words": 166,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/are-transitions-right-for-you/",
+   "kind": "article",
+   "words": 165,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+   "kind": "article",
+   "words": 79,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+   "kind": "article",
+   "words": 104,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+   "kind": "article",
+   "words": 75,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/eyelid-twitches-2018/",
+   "kind": "post",
+   "words": 290,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/fall-eye-allergies-2016/",
+   "kind": "post",
+   "words": 295,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/first-aid-for-eye-injuries/",
+   "kind": "post",
+   "words": 244,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/fun-holiday-gifts-that-are-good-for-childrens-vision/",
+   "kind": "post",
+   "words": 243,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/got-a-shiner-2017/",
+   "kind": "post",
+   "words": 267,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/guidelines-for-picking-the-right-pair-of-shades/",
+   "kind": "post",
+   "words": 293,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/halloween-eye-safety-2017/",
+   "kind": "post",
+   "words": 357,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/have-an-eye-safe-halloween-2018/",
+   "kind": "post",
+   "words": 296,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/healthy-aging-for-the-eyes-2018/",
+   "kind": "post",
+   "words": 366,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/help-my-child-does-not-want-to-wear-glasses-2019/",
+   "kind": "post",
+   "words": 323,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/holiday-season-shopping-2016/",
+   "kind": "post",
+   "words": 223,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/hope-in-sight-for-low-vision/",
+   "kind": "post",
+   "words": 284,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/hours-location/",
+   "kind": "page",
+   "words": 124,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-contact-lenses-can-be-a-danger-to-your-eyes-2016/",
+   "kind": "post",
+   "words": 308,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-do-we-see/",
+   "kind": "post",
+   "words": 223,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-pregnancy-affects-vision/",
+   "kind": "post",
+   "words": 229,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-encourage-young-kids-to-wear-their-first-pair-of-glasses/",
+   "kind": "post",
+   "words": 248,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-find-the-right-pair-of-glasses-for-your-child-2016/",
+   "kind": "post",
+   "words": 313,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-guide-for-buying-sunglasses-2018/",
+   "kind": "post",
+   "words": 352,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-keep-your-glasses-from-fogging-up-2019/",
+   "kind": "post",
+   "words": 324,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-prevent-diabetic-vision-loss/",
+   "kind": "post",
+   "words": 322,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-to-prevent-dry-eyes-during-air-travel/",
+   "kind": "post",
+   "words": 127,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-uv-damages-your-eyes-2016/",
+   "kind": "post",
+   "words": 269,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/how-your-eyes-convey-emotion/",
+   "kind": "post",
+   "words": 276,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/hydrogen-peroxide-contact-lens-solution-2019/",
+   "kind": "post",
+   "words": 277,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/infant-eyesight-2018/",
+   "kind": "post",
+   "words": 297,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/innovations-in-color-blindness-2016/",
+   "kind": "post",
+   "words": 303,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/inside-a-life-with-color-vision-deficiency-2017/",
+   "kind": "post",
+   "words": 295,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/insurance/",
+   "kind": "page",
+   "words": 240,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/insurance/carecredit/",
+   "kind": "page",
+   "words": 118,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/insurance/faqs-of-vision-insurance-plans/",
+   "kind": "page",
+   "words": 197,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/insurance/whats-in-your-vision-insurance-plan/",
+   "kind": "page",
+   "words": 280,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/is-screen-time-dangerous-for-kids-2018/",
+   "kind": "post",
+   "words": 276,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/is-your-babys-eyesight-developing-normally/",
+   "kind": "post",
+   "words": 236,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/is-your-teen-ready-for-contacts-2017/",
+   "kind": "post",
+   "words": 336,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/its-time-to-be-serious-about-home-eye-safety/",
+   "kind": "post",
+   "words": 188,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/june-is-cataract-awareness-month/",
+   "kind": "post",
+   "words": 241,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/keeping-an-eye-on-cataracts/",
+   "kind": "post",
+   "words": 217,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/know-how-and-when-to-treat-an-eye-infection/",
+   "kind": "post",
+   "words": 281,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/living-with-low-vision/",
+   "kind": "post",
+   "words": 325,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/location/icare-clinic/",
+   "kind": "page",
+   "words": 32,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/mental-health-and-vision-2019/",
+   "kind": "post",
+   "words": 388,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/new-study-shows-how-your-eyes-shed-light-on-your-health/",
+   "kind": "post",
+   "words": 288,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/new-years-resolutions-for-an-eye-healthy-2014/",
+   "kind": "post",
+   "words": 300,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/november-is-diabetes-awareness-month-2016/",
+   "kind": "post",
+   "words": 246,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/october-is/",
+   "kind": "post",
+   "words": 246,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/ocular-migraines-2018/",
+   "kind": "post",
+   "words": 307,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/parkinsons-awareness-month-and-your-vision-2019/",
+   "kind": "post",
+   "words": 340,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/pink-stinging-eyes-it-could-be-pink-eye/",
+   "kind": "post",
+   "words": 229,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/pink-stinging-eyes/",
+   "kind": "post",
+   "words": 229,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/poolside-eye-safety-2016/",
+   "kind": "post",
+   "words": 263,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/prevent-age-related-macular-degeneration-2016/",
+   "kind": "post",
+   "words": 286,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/privacy-policy/",
+   "kind": "page",
+   "words": 487,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/protect-childrens-eyes-during-sports/",
+   "kind": "post",
+   "words": 188,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/protecting-your-eyes-from-the-desk-job/",
+   "kind": "post",
+   "words": 345,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/protective-sports-eyewear-is-a-serious-matter/",
+   "kind": "post",
+   "words": 230,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/refocus-on-the-digital-age-with-computer-glasses/",
+   "kind": "post",
+   "words": 203,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/request-your-next-appointment-online/",
+   "kind": "post",
+   "words": 38,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/resolve-to-prevent-glaucoma-2016/",
+   "kind": "post",
+   "words": 258,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/rubbing-your-eyes-2018/",
+   "kind": "post",
+   "words": 299,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/school-and-vision-2-important-partners-2019/",
+   "kind": "post",
+   "words": 362,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/should-you-be-worried-about-eye-floaters/",
+   "kind": "post",
+   "words": 255,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/signs-that-your-child-has-a-vision-problem-2018/",
+   "kind": "post",
+   "words": 274,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/sjogren-awareness-2017/",
+   "kind": "post",
+   "words": 233,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/smart-hygiene-habits-to-care-for-your-contact-lenses-2019/",
+   "kind": "post",
+   "words": 248,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/smoking-and-vision-2017/",
+   "kind": "post",
+   "words": 230,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/sneak-thief-of-sight-january-2017/",
+   "kind": "post",
+   "words": 319,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/snow-blindness-winter-vacation-2017/",
+   "kind": "post",
+   "words": 311,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/solar-eclipse-2017/",
+   "kind": "post",
+   "words": 305,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/sports-eye-injuries-2019/",
+   "kind": "post",
+   "words": 468,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/sports-vision-deconstructed-2018/",
+   "kind": "post",
+   "words": 258,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/summer-heat-wave-and-your-eyes-2019/",
+   "kind": "post",
+   "words": 295,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/sunwear-for-a-bright-future-2016/",
+   "kind": "post",
+   "words": 300,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/talk-about-blue-light-2017/",
+   "kind": "post",
+   "words": 305,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/team/dr-ike-ikechi-od/",
+   "kind": "page",
+   "words": 78,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/technology-in-the-classroom-and-the-eyes/",
+   "kind": "post",
+   "words": 243,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/the-dangers-of-an-online-eye-test-2018/",
+   "kind": "post",
+   "words": 281,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/the-great-glasses-play-day-2013/",
+   "kind": "post",
+   "words": 232,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/the-right-way-to-clean-your-glasses-2017/",
+   "kind": "post",
+   "words": 233,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/the-sneak-thief-of-sight-2018/",
+   "kind": "post",
+   "words": 308,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/the-staff/",
+   "kind": "page",
+   "words": 55,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/this-halloween-be-wary-of-costume-contact-lenses/",
+   "kind": "post",
+   "words": 195,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/top-4-eyecare-tips-for-summer-vacation-2019/",
+   "kind": "post",
+   "words": 320,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/top-5-tips-for-managing-eye-allergies-this-spring-2019/",
+   "kind": "post",
+   "words": 327,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/treating-vision-problems-lowers-risk-of-falling-in-seniors/",
+   "kind": "post",
+   "words": 185,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/trouble-seeing-the-fine-print-2017/",
+   "kind": "post",
+   "words": 349,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/ultraviolet-light-and-your-eyes-2018/",
+   "kind": "post",
+   "words": 315,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/under-pressure-are-you-at-risk-for-glaucoma/",
+   "kind": "post",
+   "words": 187,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/understanding-eye-color-2017/",
+   "kind": "post",
+   "words": 251,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/understanding-the-eye-chart/",
+   "kind": "post",
+   "words": 191,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/uv-safety-awareness-month-2019/",
+   "kind": "post",
+   "words": 336,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/website-accessibility-policy/",
+   "kind": "page",
+   "words": 427,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/welcome-to-our-new-website/",
+   "kind": "post",
+   "words": 85,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-is-a-stye-anyway-2016/",
+   "kind": "post",
+   "words": 198,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-women-need-to-know-about-eye-health/",
+   "kind": "post",
+   "words": 353,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-you-need-to-know-about-firework-eye-safety/",
+   "kind": "post",
+   "words": 224,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-you-need-to-know-about-glaucoma-the-sneak-thief-of-sight-2019/",
+   "kind": "post",
+   "words": 316,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-you-need-to-know-to-help-world-blindness-2017/",
+   "kind": "post",
+   "words": 254,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/what-you-should-know-about-diabetes-and-your-vision/",
+   "kind": "post",
+   "words": 279,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/whats-in-your-household-cleaning-supplies-2019/",
+   "kind": "post",
+   "words": 439,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/when-20-20-vision-isnt-enough-for-your-child-2016/",
+   "kind": "post",
+   "words": 287,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/why-do-we-need-glasses/",
+   "kind": "post",
+   "words": 267,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/women-and-diabetes-world-diabetes-day-2017/",
+   "kind": "post",
+   "words": 295,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/women-eye-health-5-tips-for-optimal-vision-for-life-2018/",
+   "kind": "post",
+   "words": 344,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/womens-health-and-your-vision-2019/",
+   "kind": "post",
+   "words": 376,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/workplace-eye-wellness-the-dangers-of-blue-light-2016/",
+   "kind": "post",
+   "words": 356,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/world-braille-day-2019/",
+   "kind": "post",
+   "words": 276,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/world-sight-day-challenge-no-more-avoidable-blindness/",
+   "kind": "post",
+   "words": 187,
+   "recall": 1,
+   "missing": []
+  },
+  {
+   "path": "/your-childs-hidden-vision-problem-2017/",
+   "kind": "post",
+   "words": 397,
+   "recall": 1,
+   "missing": []
+  }
+ ]
+}

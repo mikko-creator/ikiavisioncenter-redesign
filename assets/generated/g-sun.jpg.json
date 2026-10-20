@@ -1,0 +1,31 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-SUN",
+  "file": "assets/generated/g-sun.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "A pair of stylish round sunglasses with amber gradient lenses and thin polished gold wire temples, resting on a dark slate stone surface, a hard beam of sunlight slicing across them and casting a long sharp shadow, the lenses glowing amber where the light passes through, the rest of the frame dark, every part of the frame plain and unmarked with no brand name; no text, no letters, no numbers, no logos, no watermark, tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark",
+  "input": {
+    "aspect_ratio": "4:3",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2529995482,
+  "requestId": "01a1573b-52b2-7a91-ac2b-185acd2d275f",
+  "cutout": null,
+  "width": 2368,
+  "height": 1792,
+  "sha256": "3375f0274e960949a2d7be5c3e7dec3710e78ce20357698e93c0e849e92bfc4a",
+  "raw": "tmp/img/raw/G-SUN.1792464881629.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-20T02:54:43.763Z",
+  "review": {
+    "verdict": "ACCEPT",
+    "reason": "attempt 2: round gold wire sunglasses with amber lenses on dark stone in a hard beam, long amber lens shadows; no marks on the temples or lenses",
+    "by": "lane MEDIA, by eye (Read of the full image plus zoomed crops where text could hide)",
+    "at": "2026-10-20T03:04:17.152Z"
+  }
+}

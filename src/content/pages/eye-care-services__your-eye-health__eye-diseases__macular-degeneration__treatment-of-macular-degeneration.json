@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Treatment of Macular Degeneration",
+ "h1": "Treatment of Macular Degeneration",
+ "head": {
+  "title": "Treatment of Macular Degeneration",
+  "description": "Are there any treatments for Macular Degeneration? Read about what options you may have before you discuss it with your optometrist at your next eye exam.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Treatment of Macular Degeneration",
+   "og:description": "Are there any treatments for Macular Degeneration? Read about what options you may have before you discuss it with your optometrist at your next eye exam.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+   "twitter:card": "summary",
+   "twitter:title": "Treatment of Macular Degeneration",
+   "twitter:description": "Are there any treatments for Macular Degeneration? Read about what options you may have before you discuss it with your optometrist at your next eye exam.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/",
+    "name": "Treatment of Macular Degeneration",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Macular Degeneration Information",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>While there is no cure for macular degeneration, treatments do exist that can delay the progression of the disease, preserve existing vision and sometimes even improve vision loss.</p><p>Currently, there are no approved treatments to prevent or cure dry AMD, although there is evidence that indicates that certain nutritional supplements, including omega 3 fatty acids, lutein and zeaxanthin, can prevent the progression of the disease to the more advanced wet form, which can cause more severe vision loss.</p><p>There are a couple of options for treating wet AMD to slow the progression of vision loss which include medicated injections and laser therapy. These therapies are designed to stop the development of new blood vessels, to destroy existing ones and to prevent leakage into the macula – the main dangers with wet AMD.</p><p>Unfortunately, while much research continues to be conducted, currently there is no treatment and no way to fully regain vision lost by AMD. Those who have suffered significant vision loss can benefit from the many low vision devices on the market which utilize your existing vision to assist in maintaining your independence. Such devices include standing and hand-held magnifiers and telescopes and other aides that can help to improve your vision.</p><p>If you have been diagnosed with AMD, regular vision tests are essential. Close monitoring and adherence to treatment can not only prevent further vision deterioration but can sometimes even improve vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-diseases__macular-degeneration__treatment-of-macular-degeneration",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Diseases",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/"
+  },
+  {
+   "name": "Macular Degeneration Information",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/"
+  },
+  {
+   "name": "Treatment of Macular Degeneration",
+   "path": "/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/treatment-of-macular-degeneration/"
+  }
+ ],
+ "children": []
+}

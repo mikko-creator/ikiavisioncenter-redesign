@@ -1,0 +1,62 @@
+/* motion.css - reveal states, stagger, keyframes, hover physics, reduced motion (FOUNDATION lane).
+   Reveal states apply only under html.js-motion (set in <head>, removed again after 2.5 s if site.js never ran).
+   Reveals use the INDIVIDUAL translate/scale properties (plus opacity, filter, clip-path), never `transform`, so a
+   hover transform (cards, buttons) is never outranked; [data-depth] parallax writes `transform` on its own element.
+   site.js adds .is-in when an element enters the viewport and .is-done when its transition has run. */
+
+/* ---------- keyframes ---------- */
+@keyframes glow-drift { 0%, 100% { translate: 0 0; scale: 1; } 33% { translate: -4% 3%; scale: 1.06; } 66% { translate: 3% -2%; scale: .96; } }
+@keyframes glow-breathe { 0%, 100% { opacity: .75; } 50% { opacity: 1; } }
+@keyframes float { 0%, 100% { transform: rotate(var(--rot, 0deg)) translate3d(0, 0, 0); } 50% { transform: rotate(calc(var(--rot, 0deg) + 2deg)) translate3d(0, -12px, 0); } }
+@keyframes spin { to { transform: rotate(360deg); } }
+@keyframes sheen { from { translate: -130% 0; } to { translate: 230% 0; } }
+@keyframes pulse-ring { 0% { box-shadow: 0 0 0 0 rgba(252, 87, 0, .5); } 100% { box-shadow: 0 0 0 16px rgba(252, 87, 0, 0); } }
+@keyframes iris-open { from { clip-path: circle(0% at 50% 50%); } to { clip-path: circle(150% at 50% 50%); } }
+
+/* pools drift slowly; the dashed iris ring turns; cut-outs float */
+.pool { animation: glow-drift 24s var(--ease-in-out) infinite, glow-breathe 9s ease-in-out infinite; }
+.pool--teal { animation-duration: 30s, 11s; animation-direction: reverse, normal; }
+.iris-ring .iris-ring__dash { animation: spin 80s linear infinite; }
+.cutout__in--float { animation: float 9s var(--ease-in-out) infinite; }
+.btn--amber::after { content: ""; position: absolute; inset: 0; border-radius: inherit; pointer-events: none; overflow: hidden; background: linear-gradient(100deg, transparent 30%, rgba(255, 255, 255, .28) 50%, transparent 70%) no-repeat; background-size: 40% 100%; background-position: -60% 0; transition: background-position .9s var(--ease-out); }
+.btn--amber:hover::after { background-position: 160% 0; }
+
+/* ---------- reveals ---------- */
+/* initial states (until .is-in) */
+.js-motion [data-reveal]:not(.is-in) { opacity: 0; }
+.js-motion :is([data-reveal=''], [data-reveal='up']):not(.is-in) { translate: 0 42px; }
+.js-motion [data-reveal='left']:not(.is-in) { translate: -56px 0; }
+.js-motion [data-reveal='right']:not(.is-in) { translate: 56px 0; }
+.js-motion [data-reveal='zoom']:not(.is-in) { scale: .92; }
+.js-motion [data-reveal='blur']:not(.is-in) { filter: blur(14px); translate: 0 18px; }
+.js-motion [data-reveal='iris']:not(.is-in) { opacity: 1; clip-path: circle(0% at 50% 50%); }
+.js-motion [data-reveal='iris'].is-in:not(.is-done) { clip-path: circle(150% at 50% 50%); }
+/* the reveal transition only while it runs: after .is-done the element's own transitions (hover lift, glow) are back */
+.js-motion [data-reveal]:not(.is-done) { transition: opacity var(--dur-3) var(--ease-out) var(--d, 0s), translate var(--dur-4) var(--ease-out) var(--d, 0s), scale var(--dur-4) var(--ease-out) var(--d, 0s), filter var(--dur-3) var(--ease-out) var(--d, 0s), clip-path 1.6s var(--ease-out) var(--d, 0s); }
+
+/* stagger: site.js sets --i on each child of [data-stagger] */
+.js-motion [data-stagger]:not(.is-in) > * { opacity: 0; translate: 0 34px; }
+.js-motion [data-stagger]:not(.is-done) > * { transition: opacity var(--dur-3) var(--ease-out) calc(var(--i, 0) * 80ms + var(--d, 0s)), translate var(--dur-4) var(--ease-out) calc(var(--i, 0) * 80ms + var(--d, 0s)); }
+
+/* ---------- hover physics ---------- */
+@media (hover: hover) and (pointer: fine) {
+  .lift { transition: transform .5s var(--ease-out), box-shadow .5s var(--ease-out); }
+  .lift:hover { transform: translate3d(0, -6px, 0); box-shadow: var(--sh-3); }
+  .glow-hover { transition: box-shadow .4s var(--ease-out); }
+  .glow-hover:hover { box-shadow: var(--glow-amber); }
+}
+.pulse { animation: pulse-ring 2.2s var(--ease-out) infinite; }
+
+/* ---------- reduced motion: everything static and visible ---------- */
+@media (prefers-reduced-motion: reduce) {
+  .js-motion [data-reveal], .js-motion [data-stagger] > * { opacity: 1 !important; translate: none !important; scale: none !important; filter: none !important; clip-path: none !important; transition: none !important; }
+  .pool, .iris-ring .iris-ring__dash, .cutout__in--float, .pulse { animation: none !important; }
+  [data-depth] { transform: none !important; }
+  .card[data-tilt] { transform: translate3d(0, var(--lift, 0), 0) !important; }
+  .btn { transform: none !important; }
+}
+@media print {
+  .js-motion [data-reveal], .js-motion [data-stagger] > * { opacity: 1 !important; translate: none !important; scale: none !important; filter: none !important; clip-path: none !important; }
+  .topbar, .hdr, .drawer, .backdrop, .pools, .loop-toggle { display: none !important; }
+  body, .stage, .ftr { background: #fff !important; color: #000 !important; }
+}

@@ -1,0 +1,204 @@
+{
+ "path": "/insurance/",
+ "url": "https://www.ikiavisioncenter.com/insurance/",
+ "kind": "page",
+ "section": "insurance",
+ "title": "Insurance",
+ "h1": "Our Clinic in Houston Accepts The Following:",
+ "head": {
+  "title": "Insurance",
+  "description": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+  "canonical": "https://www.ikiavisioncenter.com/insurance/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Insurance",
+   "og:description": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/insurance/",
+   "twitter:card": "summary",
+   "twitter:title": "Insurance",
+   "twitter:description": "The cost of routine eye exams and prescription eyewear can be of real concern, vision insurance can lower these annual expenses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/insurance/",
+    "url": "https://www.ikiavisioncenter.com/insurance/",
+    "name": "Insurance",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Insurance-Family-3.jpg",
+  "overlay": true,
+  "blocks": [
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "WE'VE GOT YOU COVERED"
+   },
+   {
+    "t": "rich",
+    "html": "<p>Because we provide both medical and routine eye care, we accept a number of insurance plans to help cover the cost depending on your individual needs.</p>"
+   },
+   {
+    "t": "button",
+    "text": "CLICK NOW & MAKE AN APPOINTMENT",
+    "href": "/contact-us/appointment-request-form/",
+    "external": false
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c50c251f3dda",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Our Clinic in Houston Accepts The Following:</h2><h2>Vision Plans We Accept</h2><ul><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/alwayscare.png\" alt=\"Alwayscare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/davis-vision.png\" alt=\"Davis Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/eye-med.png\" alt=\"Eye Med\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/nva.png\" alt=\"National Vision Administration (NVA)\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/opticare.png\" alt=\"Opticare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/spectera.png\" alt=\"Spectera\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/superior-vision-.png\" alt=\"Superior Vision \"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vsp.png\" alt=\"VSP\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/wxM2dYfaxgGHvRzW.png\" alt=\"AARP MyVision Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/avesis.png\" alt=\"Avesis\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/block-vision.png\" alt=\"Block Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/eFr8gHhll8RQHam5.png\" alt=\"Blue Cross\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/blueview-vision-x.png\" alt=\"Blue View Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/mmobxov6HYvSErMZ.png\" alt=\"Boon Chapman\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/care-credit.png\" alt=\"Care Credit\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/chip.png\" alt=\"Chip\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/cignahealthspring.png\" alt=\"Cigna Health Spring\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vHnUoeuX068Psoz4.png\" alt=\"Cigna Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/community-eye-care.png\" alt=\"Community Eye Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/eyetopia.png\" alt=\"Eyetopia\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/20be0e0a-00f4-4014-aa1c-747638159dfa.png\" alt=\"FEP Blue Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/guardian.png\" alt=\"Guardian\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/4lyQb6GKj4Gdh18W.png\" alt=\"Humana Vision (VCP)\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/scSoWXeOR75fOBub.png\" alt=\"Humana Medicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/fHVPANSn9XU8zKth.png\" alt=\"Humana Military\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/2f6UDj2TwZaMknf1.png\" alt=\"Humana Military &amp; Tricare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/mes-vision.png\" alt=\"MES Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/march-vision-care.png\" alt=\"March Vision Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/molina-healthcare.png\" alt=\"Molina Healthcare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/national-vision.png\" alt=\"National Vision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/optum.png\" alt=\"Optum\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/premier-eye-care.png\" alt=\"Premier Eye Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/safeguard.png\" alt=\"Safeguard\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/tZiQobvO2eXjZiwR.png\" alt=\"TriWest\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vpa.png\" alt=\"VPA\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/ytyngRNC19uSHY34.png\" alt=\"VSP Individual Vision Plans\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vsp-premier.png\" alt=\"VSP Premier\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vision-care-direct.png\" alt=\"Vision Care Direct\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vision-care-plan.png\" alt=\"Vision Care Plan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/qMkzWrsKBXTG0VUw.png\" alt=\"Vision Plan of America\"></li></ul><ul><li>Alwayscare</li><li>Davis Vision</li><li>Eye Med</li><li>National Vision Administration (NVA)</li><li>Opticare</li><li>Spectera</li><li>Superior Vision</li><li>VSP</li><li>AARP MyVision Care</li><li>Avesis</li><li>Block Vision</li><li>Blue Cross</li><li>Blue View Vision</li><li>Boon Chapman</li><li>Care Credit</li><li>Chip</li><li>Cigna Health Spring</li><li>Cigna Vision</li><li>Community Eye Care</li><li>Eyetopia</li><li>FEP Blue Vision</li><li>Guardian</li><li>Humana Vision (VCP)</li><li>Humana Medicare</li><li>Humana Military</li><li>Humana Military &amp; Tricare</li><li>MES Vision</li><li>March Vision Care</li><li>Molina Healthcare</li><li>National Vision</li><li>Optum</li><li>Premier Eye Care</li><li>Safeguard</li><li>TriWest</li><li>VPA</li><li>VSP Individual Vision Plans</li><li>VSP Premier</li><li>Vision Care Direct</li><li>Vision Care Plan</li><li>Vision Plan of America</li></ul><h2>Medical Plans We Accept</h2><ul><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/blue-cross-blue-sheild.png\" alt=\"Blue Cross Blue Shield\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/humana.png\" alt=\"Humana\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/h5AvJTzxULfgOkD5.png\" alt=\"Medicaid\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/medicare.png\" alt=\"Medicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/aarp.png\" alt=\"AARP\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/vnMUO3B0xhLUl2ws.png\" alt=\"AARP Medicare Complete\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/T0A0Cm15PTL032aN.png\" alt=\"AARP Medicare-Complete\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/advantica.png\" alt=\"Advantica\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/4ON2tzqw5GNU7H4U.png\" alt=\"Aetna\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/aetna-better-health.png\" alt=\"Aetna Better Health\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/Lht6C99AiFyDb9XD.png\" alt=\"Aetna Medicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/americgroup.png\" alt=\"Amerigroup\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/anthem.png\" alt=\"Anthem\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/yhtL9uNR0TscWSRU.png\" alt=\"Anthem Blue Cross Blue Shield\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/7Znc032rGvLlwFoC.png\" alt=\"Availity\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/eFr8gHhll8RQHam5.png\" alt=\"Blue Cross\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/0oAvwvw8EfJYxK3p.png\" alt=\"Blue Cross\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/blue-cross-blue-shield-federal.png\" alt=\"Blue Cross Blue Shield Federal\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/mmobxov6HYvSErMZ.png\" alt=\"Boon Chapman\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/care-credit.png\" alt=\"Care Credit\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/care-improvemetnt-plus.png\" alt=\"Care Improvement Plus\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/chip.png\" alt=\"Chip\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/champva.png\" alt=\"Champva\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/cigna.png\" alt=\"Cigna\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/cignahealthspring.png\" alt=\"Cigna Health Spring\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/bKtyUGlCQuhoSx9M.png\" alt=\"Colonial Penn\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/61e9eb89-22fb-4df6-af65-6b3b9317a4ce.png\" alt=\"Community Health Choice\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/first-health.png\" alt=\"First Health\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/first-choice-health.png\" alt=\"First Choice Health\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/guardian.png\" alt=\"Guardian\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/scSoWXeOR75fOBub.png\" alt=\"Humana Medicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/2f6UDj2TwZaMknf1.png\" alt=\"Humana Military &amp; Tricare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/ZzBaiTVW54IJZK3a.png\" alt=\"Medicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/memorial-hermann.png\" alt=\"Memorial Hermann Health Insurance Company\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/metlife.png\" alt=\"Metlife\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/molina-healthcare.png\" alt=\"Molina Healthcare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/multiplan.png\" alt=\"Multiplan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/f0635649-1efb-4ab4-a54f-079835754d0d.png\" alt=\"Samaritan Health Plans\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/xU4g3E4Xn9l0Np1X.png\" alt=\"Single Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/En84TgQ3ZspzJz9S.png\" alt=\"Starmount\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/d3b9bd43-3a8a-4c44-8d38-edc1f0cc0d78.png\" alt=\"State Farm\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/6c29f1ee-dcd7-4666-b501-a1604f5b4d72.png\" alt=\"Superior Health Plan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/a062e17c-ea69-41b4-9894-8032484877f9.png\" alt=\"Texas Children's Hospital\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/fdc5a8cd-6a90-42f6-b717-20c7ff62fd67.png\" alt=\"Texas Health and Human Services\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/tmhp.png\" alt=\"Texas Medicaid Healthcare Partnership (TMHP)\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/0c413311-71f3-4e2a-8b6e-fb438d9f17bc.png\" alt=\"Texas.gov\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/tZiQobvO2eXjZiwR.png\" alt=\"TriWest\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/tricare.png\" alt=\"Tricare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/umr.png\" alt=\"UMR\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/a8338ced-3dd4-4034-9cb3-ce4f6db9f91a.png\" alt=\"USAA\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/uhc-community-plan.png\" alt=\"Uhc Community Plan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/unicare.png\" alt=\"Unicare\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/united-healthcare.png\" alt=\"United Health Care\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/j80i4lxAog2NqwMi.png\" alt=\"United Health Care Community Plan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/united-healthone-transparent---orig.png\" alt=\"United Health One\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/Qyv9X9ixPJB5lZtn.png\" alt=\"United Healthcare Medicare Solutions\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/7cc3183a-24d8-4352-a8bf-a1b0d561a33d.png\" alt=\"Veterans Affairs\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/insurances/well-care-health-plans.png\" alt=\"Well Care Health Plans\"></li></ul><ul><li>Blue Cross Blue Shield</li><li>Humana</li><li>Medicaid</li><li>Medicare</li><li>AARP</li><li>AARP Medicare Complete</li><li>AARP Medicare-Complete</li><li>Advantica</li><li>Aetna</li><li>Aetna Better Health</li><li>Aetna Medicare</li><li>Amerigroup</li><li>Anthem</li><li>Anthem Blue Cross Blue Shield</li><li>Availity</li><li>Blue Cross</li><li>Blue Cross</li><li>Blue Cross Blue Shield Federal</li><li>Boon Chapman</li><li>Care Credit</li><li>Care Improvement Plus</li><li>Chip</li><li>Champva</li><li>Cigna</li><li>Cigna Health Spring</li><li>Colonial Penn</li><li>Community Health Choice</li><li>First Health</li><li>First Choice Health</li><li>Guardian</li><li>Humana Medicare</li><li>Humana Military &amp; Tricare</li><li>Medicare</li><li>Memorial Hermann Health Insurance Company</li><li>Metlife</li><li>Molina Healthcare</li><li>Multiplan</li><li>Samaritan Health Plans</li><li>Single Care</li><li>Starmount</li><li>State Farm</li><li>Superior Health Plan</li><li>Texas Children's Hospital</li><li>Texas Health and Human Services</li><li>Texas Medicaid Healthcare Partnership (TMHP)</li><li>Texas.gov</li><li>TriWest</li><li>Tricare</li><li>UMR</li><li>USAA</li><li>Uhc Community Plan</li><li>Unicare</li><li>United Health Care</li><li>United Health Care Community Plan</li><li>United Health One</li><li>United Healthcare Medicare Solutions</li><li>Veterans Affairs</li><li>Well Care Health Plans</li></ul>"
+        },
+        {
+         "t": "search"
+        },
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        },
+        {
+         "t": "rich",
+         "html": "<p>If you do not see your plan listed here, please give us a call and we would be happy to assist you. Our staff is also always available to answer any questions regarding your benefits.</p><p>The cost of routine eye exams and prescription eyewear can be of real concern, especially for large families. In many cases, vision insurance can lower these annual expenses.</p><p>A vision insurance policy is not the same as medical insurance. Regular medical health insurance plans protect you against financial losses due to unexpected eye injuries or disease. Vision insurance, on the other hand, is a wellness benefit designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "after-builder",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "FAQs of Vision Insurance Plans",
+           "href": "/insurance/faqs-of-vision-insurance-plans/",
+           "summary": "Vision insurance is designed to provide routine eye care, prescription eyewear and other vision-related services at a reduced cost. Learn about types of plans, coverage and payment options.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "What's in Your Vision Insurance Plan",
+           "href": "/insurance/whats-in-your-vision-insurance-plan/",
+           "summary": "Make the most of your vision insurance plan by understanding your particular vision coverage.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "CareCredit",
+           "href": "/insurance/carecredit/",
+           "summary": "As a service to our patients, we are pleased to offer the CareCredit card, the nation's leading patient payment program. CareCredit lets you begin your procedure immediately—then pay for it over time with low monthly payments that are easy to fit into your monthly budget.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "insurance",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Our Clinic in Houston Accepts The Following:",
+   "path": "/insurance/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/insurance/carecredit/",
+   "title": "CareCredit"
+  },
+  {
+   "path": "/insurance/faqs-of-vision-insurance-plans/",
+   "title": "FAQs of Vision Insurance Plans"
+  },
+  {
+   "path": "/insurance/whats-in-your-vision-insurance-plan/",
+   "title": "What’s in Your Vision Insurance Plan"
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "path": "/eye-care-services/your-eye-health/how-the-eye-works/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "How the Eye Works",
+ "h1": "How the Eye Works",
+ "head": {
+  "title": "How the Eye Works",
+  "description": "Before you visit your eye doctor for your next eye exam, learn a little bit about how the human eye works. Click for an explanation on vision.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "How the Eye Works",
+   "og:description": "Before you visit your eye doctor for your next eye exam, learn a little bit about how the human eye works. Click for an explanation on vision.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+   "twitter:card": "summary",
+   "twitter:title": "How the Eye Works",
+   "twitter:description": "Before you visit your eye doctor for your next eye exam, learn a little bit about how the human eye works. Click for an explanation on vision.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+    "name": "How the Eye Works",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>To understand <strong>how the human eye works</strong>, first imagine a photographic camera—since cameras were developed very much with the human eye in mind.</p><h2>How do we see what we see?</h2><p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/eyeball-drawing.jpg\" alt=\"eye diagram\">Light reflects off of objects and enters the eyeball through a transparent layer of tissue at the front of the eye called the cornea. The cornea accepts widely divergent light rays and bends them through the pupil—the dark opening in the center of the colored portion of the eye.</p><p>The pupil appears to expand or contract automatically based on the intensity of the light entering the eye. In truth, this action is controlled by the iris—a ring of muscles within the colored portion of the eye that adjusts the pupil opening based on the intensity of light. (So when a pupil appears to expand or contract, it is actually the iris doing its job.)</p><p>The adjusted light passes through the lens of the eye. Located behind the pupil, the lens automatically adjusts the path of the light and brings it into sharp focus onto the receiving area at back of the eye—the retina.</p><p>An amazing membrane full of photoreceptors (a.k.a. the “rods and cones”), the retina converts the light rays into electrical impulses. These then travel through the optic nerve at the back of the eye to the brain, where an image is finally perceived.</p><h2>A delicate system, subject to flaws.</h2><p>It’s easy to see that a slight alteration in any aspect of <strong>how the human eye works</strong>—the shape of the eyeball, the cornea’s health, lens shape and curvature, retina problems—can cause the eye to produce fuzzy or blurred vision. That is why many people need vision correction. Eyeglasses and contact lenses help the light focus images correctly on the retina and allow people to see clearly.</p><p>In effect, a lens is put in front of the eye to make up for any deficiencies in the complex vision process.</p><h2>The main parts of the human eye include:</h2><ul><li><strong>Cornea:</strong> transparent tissue covering the front of the eye that lets light travel through</li><li><strong>Iris:</strong> a ring of muscles in the colored part of the eye that controls the size of the pupil</li><li><strong>Pupil:</strong> an opening in the center of the iris that changes size to control how much light is entering the eye.</li><li><strong>Sclera:</strong> the white part of the eye that is composed of fibrous tissue that protects the inner workings of the eye</li><li><strong>Lens:</strong> located directly behind the pupil, it focuses light rays onto the retina</li><li><strong>Retina:</strong> membrane at the back of the eye that changes light into nerve signals</li><li><strong>Rods and cones:</strong> special cells used by the retina to process light</li><li><strong>Fovea:</strong> a tiny spot in the center of the retina that contains only cone cells. It allows us to see things sharply.</li><li><strong>Optic Nerve:</strong> a bundle of nerve fibers that carries messages from the eyes to the brain</li><li><strong>Macula:</strong> a small and highly sensitive part of the retina responsible for central vision, which allows a person to see shapes, colors, and details clearly and sharply.</li></ul><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__how-the-eye-works",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "How the Eye Works",
+   "path": "/eye-care-services/your-eye-health/how-the-eye-works/"
+  }
+ ],
+ "children": []
+}

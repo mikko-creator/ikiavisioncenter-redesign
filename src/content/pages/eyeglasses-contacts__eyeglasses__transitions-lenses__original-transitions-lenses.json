@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Original Transitions Lenses",
+ "h1": "Original Transitions Lenses",
+ "head": {
+  "title": "Original Transitions Lenses",
+  "description": "This dynamic eyewear is designed to be worn indoors and to automatically adapt when outdoors for a comfortable viewing experience and UV protection.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Original Transitions Lenses",
+   "og:description": "This dynamic eyewear is designed to be worn indoors and to automatically adapt when outdoors for a comfortable viewing experience and UV protection.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Original Transitions Lenses",
+   "twitter:description": "This dynamic eyewear is designed to be worn indoors and to automatically adapt when outdoors for a comfortable viewing experience and UV protection.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+    "name": "Original Transitions Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Original Transitions lenses are designed to meet the needs of the majority of those who appreciate the value of eyewear offering adaptive lens technology. With the widest variety of lens designs and materials to choose from, original Transitions lenses quickly adapt between indoor and outdoor conditions, offering a distinct advantage over ordinary clear lenses.</p><ul><li>Changes from clear indoors to dark outdoors</li><li>Clear as an ordinary clear lens indoors and at night</li><li>Blocks 100% of the sun’s harmful UVA &amp; UVB rays</li><li>Available in Gray or Brown</li><li>Compatible with leading frame brands and styles</li></ul><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__transitions-lenses__original-transitions-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  },
+  {
+   "name": "Original Transitions Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/"
+  }
+ ],
+ "children": []
+}

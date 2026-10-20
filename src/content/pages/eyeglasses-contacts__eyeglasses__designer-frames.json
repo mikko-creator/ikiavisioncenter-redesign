@@ -1,0 +1,320 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/designer-frames/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+ "kind": "page",
+ "section": "eyeglasses-contacts",
+ "title": "Designer Frames",
+ "h1": "",
+ "head": {
+  "title": "Designer Frames",
+  "description": "We carry a large variety of top designer frames for both eyeglasses and sunglasses.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Designer Frames",
+   "og:description": "We carry a large variety of top designer frames for both eyeglasses and sunglasses.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-sunglasses.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-sunglasses.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+   "twitter:card": "summary",
+   "twitter:title": "Designer Frames",
+   "twitter:description": "We carry a large variety of top designer frames for both eyeglasses and sunglasses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-sunglasses.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+    "name": "Designer Frames",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2023-12-26T15:33:24-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": null,
+ "hero": {
+  "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Designer-Frame-3a.jpg",
+  "overlay": false,
+  "blocks": [
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "SEE BETTER"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "DESIGNER EYEWEAR"
+   },
+   {
+    "t": "heading",
+    "level": 2,
+    "html": "LIVE BETTER"
+   }
+  ]
+ },
+ "rows": [
+  {
+   "id": "5c51df8de7e78",
+   "vis": "all",
+   "bg": {
+    "kind": "color"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "badges",
+         "items": [
+          {
+           "label": "Schedule An Appointment",
+           "href": "/contact-us/appointment-request-form/",
+           "external": false,
+           "icon": "fa-calendar"
+          },
+          {
+           "label": "Patient History Form",
+           "href": "/contact-us/patient-registration-form/",
+           "external": false,
+           "icon": "fa-pencil-square-o"
+          },
+          {
+           "label": "Email Us",
+           "href": "/contact-us/contact-form/",
+           "external": false,
+           "icon": "fa-envelope-o"
+          },
+          {
+           "label": "Browse Eyewear",
+           "href": "https://shop.ikiavisioncenter.com/",
+           "external": true,
+           "icon": "ecp-customicon-computer-eye"
+          },
+          {
+           "label": "Enroll in Vision Membership Plan",
+           "href": "https://app.vision-hq.com/accounts/signup/my-optometrist/223",
+           "external": true,
+           "icon": "fa-address-card-o"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c51df8de7825",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "divider"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c51df8de7267",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "O U R . F U L L . E Y E W E A R . C O L L E C T I O N"
+        },
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "DESIGNER EYEWEAR IN Houston"
+        },
+        {
+         "t": "rich",
+         "html": "<ul><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/7WsKPcHnHM9Wloki.png\" alt=\"BCBG Maxazria\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/calvin-klein.gif\" alt=\"Calvin Klein\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/christian-dior.png\" alt=\"Christian Dior\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/coach.gif\" alt=\"Coach\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/fendi.gif\" alt=\"Fendi\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/gant.gif\" alt=\"Gant\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/gucci.gif\" alt=\"Gucci\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/guess.gif\" alt=\"Guess?\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/kenneth-cole-reaction.png\" alt=\"Kenneth Cole Reaction\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/lacoste.gif\" alt=\"Lacoste\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/michael-kors.gif\" alt=\"Michael Kors\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/nautica.png\" alt=\"Nautica\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/nike-eyewear.gif\" alt=\"Nike Eyewear\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/nine-west.gif\" alt=\"Nine West\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/rampage.png\" alt=\"Rampage\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/vera-bradley.png\" alt=\"Vera Bradley\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/aJD6kwfNzgOjTWLr.png\" alt=\"Air Mag\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/ann-taylor.png\" alt=\"Ann Taylor\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/anne-klein.png\" alt=\"Anne Klein\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/armani-exchange.gif\" alt=\"Armani Exchange\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/armourx.png\" alt=\"ArmouRx\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/balenciaga-color.png\" alt=\"Balenciaga Color\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/armani-x.gif\" alt=\"Armani X\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/avalon.png\" alt=\"Avalon\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/HWjPXJxWSZX43Bhj.png\" alt=\"BluTech Eyewear\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/bongo.png\" alt=\"Bongo\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/brooks-brothers.png\" alt=\"Brooks Brothers\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/burberry-one.png\" alt=\"Burberry\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/carolina-herrera.png\" alt=\"CH Carolina Herrera\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/callaway-golf-.png\" alt=\"Callaway Golf \"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/calvinkleincollection.png\" alt=\"Calvin Klein Collection\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/o5befwOvLS1FiiWA.png\" alt=\"Calvin Klein Jeans\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/candies.gif\" alt=\"Candies\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/cartier.png\" alt=\"Cartier\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/caviar.png\" alt=\"Caviar\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/caviar.gif\" alt=\"Caviar\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/cazal-eyewear.png\" alt=\"Cazal\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/cazal-color.png\" alt=\"Cazal Color\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/champion.png\" alt=\"Champion\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/clearvision.png\" alt=\"ClearVision\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/cole-haan.gif\" alt=\"Cole Haan\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/coleman.png\" alt=\"Coleman\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/converse.png\" alt=\"Converse\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/costa.png\" alt=\"Costa\"></li><li><img data-ref=\"https://storage.googleapis.com/ecp-samurai/designer-frames/d-squared.png\" alt=\"D Squared\"></li></ul>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "button",
+         "text": "Schedule An Appointment",
+         "href": "/contact-us/appointment-request-form/",
+         "external": false
+        },
+        {
+         "t": "button",
+         "text": "Call 832-717-3937",
+         "href": "tel:832-717-3937",
+         "external": false
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c51df8de7765",
+   "vis": "desktop",
+   "bg": {
+    "kind": "photo",
+    "image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2020/10/Frames-Chanel-Pink-sm.jpg",
+    "overlay": false
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 2,
+         "html": "#TELLITLIKEITIS"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "testimonials",
+         "view": "summary",
+         "items": [
+          {
+           "html": "Dr is very nice , explains everything he has to do",
+           "name": "",
+           "rating": 5,
+           "photo": null
+          },
+          {
+           "html": "Dr is very nice , explains everything he has to do",
+           "name": "Manuela M.",
+           "rating": 5,
+           "when": "3 months ago",
+           "photo": null
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "button",
+         "text": "More Google Reviews",
+         "href": "https://www.google.com/search?q=Icare+Clinic%2C+77083+reviews&rlz=1C1CHBD_enPH877PH877&oq=Icare+Clinic%2C+77083+reviews&aqs=chrome..69i57j33.10367j0j4&sourceid=chrome&ie=UTF-8#lrd=0x8647325d53018bf5:0x6db3733b56be9e5a,1,,,",
+         "external": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "5c51df8de7d58",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "heading",
+         "level": 3,
+         "html": "EYEWEAR GOES BEYOND GREAT VISION"
+        },
+        {
+         "t": "rich",
+         "html": "<p>We know your favorite fashion accessory isn’t actually an accessory at all… it’s actually quite a necessity. For that reason, we have an extensive selection of eyewear including the latest styles, functional options, and prices in sunglasses and <a href=\"http://en.wikipedia.org/wiki/Eyeglass_prescription\" target=\"_blank\" rel=\"noopener\">prescription eyeglasses</a>.</p><p>Below are just <em>some</em> of the lines we have on offer. Feel free to pop into our shop and get the full shopping experience. Feel free to ask one of our opticians to help you pair frame shapes to best suit the shape of your face.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__designer-frames",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Designer Frames",
+   "path": "/eyeglasses-contacts/eyeglasses/designer-frames/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,2944 @@
+{
+  "origin": "https://www.ikiavisioncenter.com",
+  "at": "2026-10-20T02:29:57.374Z",
+  "robotsHonoured": true,
+  "gapMs": 700,
+  "max": 300,
+  "truncated": false,
+  "stopped": "5 x 404 inside 300 s (last https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/cataracts/)",
+  "pending": [
+    "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/macular-degeneration/",
+    "https://www.ikiavisioncenter.com/eyeglasses-contacts/prescription-eyeglasses/consider-a-second-pair-of-glasses/",
+    "https://www.ikiavisioncenter.com/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-uv-rays/",
+    "https://www.ikiavisioncenter.com/your-eye-health/protecting-your-eyes/",
+    "https://www.ikiavisioncenter.com/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-glare/",
+    "https://www.ikiavisioncenter.com/your-eye-health/eye-conditions/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/cataracts/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/diabetes-and-eyesight/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/glaucoma/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/macular-degeneration/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/why-are-eye-exams-important/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/preparing-for-an-eye-exam/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-expect/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/visiting-your-eye-care-professional/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/what-to-ask/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/your-comprehensive-eye-exam/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/eye-exams-for-contact-lenses/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/eye-exams-for-children/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/medications/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/children-and-computer-vision-syndrome/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/blue-lighthigh-energy-visible-hev-light-and-your-eyes/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/computer-glasses/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/worker-productivity-and-computer-vision-syndrome/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/vision-therapy-for-children/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/childrens-vision-faqs/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/your-infants-visual-development/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/are-contact-lenses-a-good-choice-for-kids/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/controlling-nearsightedness-in-children/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corrective-eye-surgery-basics/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-risks-and-complications/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/prk/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-inlays-and-onlays/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/corneal-transplant/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/multifocal-eyeglass-lenses/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/occupational-bifocal-and-trifocals/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/how-progressive-lenses-work/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/reading-glasses-after-40/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/dry-eye-after-menopause/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+    "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/"
+  ],
+  "pendingCount": 45,
+  "counts": {
+    "total": 285,
+    "ok": 279,
+    "redirected": 5,
+    "notFound": 6
+  },
+  "records": [
+    {
+      "url": "https://www.ikiavisioncenter.com/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/index.html",
+      "bytes": 350766
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-us/appointment-request-form/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-us/appointment-request-form/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/contact-us__appointment-request-form.html",
+      "bytes": 132069
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-us/contact-form/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/contact-us__contact-form.html",
+      "bytes": 131281
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-us/patient-registration-form/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-us/patient-registration-form/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/contact-us__patient-registration-form.html",
+      "bytes": 249406
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/disclaimer/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/disclaimer/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/disclaimer.html",
+      "bytes": 284455
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/kids-optical/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/kids-optical/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__kids-optical.html",
+      "bytes": 249835
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/disposable-contacts/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__disposable-contacts.html",
+      "bytes": 247888
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/pediatric-eye-exams/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/pediatric-eye-exams/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eye-care-services__eye-exams__pediatric-eye-exams.html",
+      "bytes": 289562
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/presbyopia-diagnosis-and-treatment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eye-care-services__eye-conditions__presbyopia-diagnosis-and-treatment.html",
+      "bytes": 288044
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eye-care-services__eye-conditions__dry-eye-disease-and-treatment.html",
+      "bytes": 289206
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses.html",
+      "bytes": 249081
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/womens-eyeglass-frames/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__eyeglass-basics__womens-eyeglass-frames.html",
+      "bytes": 285554
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/website-accessibility-policy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/website-accessibility-policy/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/website-accessibility-policy.html",
+      "bytes": 289798
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/contact-lens-exams/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/contact-lens-exams/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eye-care-services__contact-lens-exams.html",
+      "bytes": 289152
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-us/testimonials/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/contact-us__testimonials.html",
+      "bytes": 292633
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/eye-care-services__eye-conditions.html",
+      "bytes": 285471
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/community-outreach-charity-initiatives.html",
+      "bytes": 282233
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/associations-awards/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/associations-awards/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/associations-awards.html",
+      "bytes": 281887
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/diabetes-and-your-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/diabetes-and-your-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": true,
+      "file": "audit/raw/diabetes-and-your-eyes.html",
+      "bytes": 288329
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services.html",
+      "bytes": 248594
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/hours-location/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/hours-location/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/hours-location.html",
+      "bytes": 267411
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/our-eye-doctors/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/our-eye-doctors.html",
+      "bytes": 256385
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/the-staff/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/the-staff/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/the-staff.html",
+      "bytes": 282916
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts.html",
+      "bytes": 244266
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/insurance/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/insurance/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/insurance.html",
+      "bytes": 277573
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-exams.html",
+      "bytes": 287453
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__management-of-ocular-diseases.html",
+      "bytes": 285868
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__designer-frames.html",
+      "bytes": 344525
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses.html",
+      "bytes": 260653
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/pediatric-eye-exams/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.ikiavisioncenter.com/eye-care-services/pediatric-eye-exams/",
+          "status": 301,
+          "to": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/pediatric-eye-exams/"
+        }
+      ],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/pediatric-eye-exams/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-exams__pediatric-eye-exams.html",
+      "bytes": 289562
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/dry-eye-disease-and-treatment/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.ikiavisioncenter.com/eye-care-services/dry-eye-disease-and-treatment/",
+          "status": 301,
+          "to": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/"
+        }
+      ],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/dry-eye-disease-and-treatment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-conditions__dry-eye-disease-and-treatment.html",
+      "bytes": 289206
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses/designer-frames/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.ikiavisioncenter.com/eyeglasses/designer-frames/",
+          "status": 301,
+          "to": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/"
+        }
+      ],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__designer-frames.html",
+      "bytes": 344525
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/location/icare-clinic/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/location__icare-clinic.html",
+      "bytes": 283275
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-us/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-us/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/contact-us.html",
+      "bytes": 286664
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/whats-new/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/whats-new/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/whats-new.html",
+      "bytes": 429742
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/privacy-policy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/privacy-policy/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/privacy-policy.html",
+      "bytes": 294582
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sitemap/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sitemap/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sitemap.html",
+      "bytes": 298827
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__eyeglass-basics.html",
+      "bytes": 251956
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses.html",
+      "bytes": 285591
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses.html",
+      "bytes": 286632
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear.html",
+      "bytes": 287066
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__lens-treatments.html",
+      "bytes": 285248
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__transitions-lenses.html",
+      "bytes": 249819
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-guide/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__eyeglass-guide.html",
+      "bytes": 284125
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-conditions/astigmatism-diagnosis-treatment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-conditions__astigmatism-diagnosis-treatment.html",
+      "bytes": 285070
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info.html",
+      "bytes": 291641
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__emergency-eye-care-services.html",
+      "bytes": 286539
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-emergencies-pinkred-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-emergencies-pinkred-eyes.html",
+      "bytes": 287367
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/lasik-refractive-surgery-co-management/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/lasik-refractive-surgery-co-management/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__lasik-refractive-surgery-co-management.html",
+      "bytes": 290712
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health.html",
+      "bytes": 289849
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/myopia-management-optometrist/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__myopia-management-optometrist.html",
+      "bytes": 286993
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/team/dr-ike-ikechi-od/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/team__dr-ike-ikechi-od.html",
+      "bytes": 283365
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/insurance/faqs-of-vision-insurance-plans/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/insurance/faqs-of-vision-insurance-plans/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/insurance__faqs-of-vision-insurance-plans.html",
+      "bytes": 285776
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/insurance/whats-in-your-vision-insurance-plan/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/insurance__whats-in-your-vision-insurance-plan.html",
+      "bytes": 287500
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/insurance/carecredit/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/insurance__carecredit.html",
+      "bytes": 284234
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/advanced-technology/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/advanced-technology/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-exams__advanced-technology.html",
+      "bytes": 290952
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/what-to-expect/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/eye-exams/what-to-expect/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__eye-exams__what-to-expect.html",
+      "bytes": 287171
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/cataract-surgery-co-management/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__management-of-ocular-diseases__cataract-surgery-co-management.html",
+      "bytes": 286676
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/treating-diabetic-retinopathy/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__management-of-ocular-diseases__treating-diabetic-retinopathy.html",
+      "bytes": 285168
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/glaucoma-testing-treatment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__management-of-ocular-diseases__glaucoma-testing-treatment.html",
+      "bytes": 292446
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/management-of-ocular-diseases/treating-macular-degeneration/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__management-of-ocular-diseases__treating-macular-degeneration.html",
+      "bytes": 285478
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/our-featured-brands/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/our-featured-brands/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__our-featured-brands.html",
+      "bytes": 285680
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/eye-exams-for-contact-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__eye-exams-for-contact-lenses.html",
+      "bytes": 289321
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/bifocal-and-multifocal-contact-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__bifocal-and-multifocal-contact-lenses.html",
+      "bytes": 288571
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/gas-permeable-gp-contact-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__gas-permeable-gp-contact-lenses.html",
+      "bytes": 287101
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/contact-lenses-for-the-hard-to-fit-patient/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__contact-lenses-for-the-hard-to-fit-patient.html",
+      "bytes": 290401
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/toric-contact-lenses-for-astigmatism/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__toric-contact-lenses-for-astigmatism.html",
+      "bytes": 285700
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/scleral-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__scleral-lenses.html",
+      "bytes": 285329
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/rgp-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/contact-lenses/rgp-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__contact-lenses__rgp-lenses.html",
+      "bytes": 283400
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/hydrogen-peroxide-contact-lens-solution-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/hydrogen-peroxide-contact-lens-solution-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/hydrogen-peroxide-contact-lens-solution-2019.html",
+      "bytes": 287683
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/smart-hygiene-habits-to-care-for-your-contact-lenses-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/smart-hygiene-habits-to-care-for-your-contact-lenses-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/smart-hygiene-habits-to-care-for-your-contact-lenses-2019.html",
+      "bytes": 287381
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-keep-your-glasses-from-fogging-up-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-keep-your-glasses-from-fogging-up-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-keep-your-glasses-from-fogging-up-2019.html",
+      "bytes": 287948
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/12-tips-for-optimal-eye-health-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/12-tips-for-optimal-eye-health-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/12-tips-for-optimal-eye-health-2019.html",
+      "bytes": 290213
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/contact-lenses-halloween-beware-take-care-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/contact-lenses-halloween-beware-take-care-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/contact-lenses-halloween-beware-take-care-2019.html",
+      "bytes": 287458
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sports-eye-injuries-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sports-eye-injuries-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sports-eye-injuries-2019.html",
+      "bytes": 290409
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/summer-heat-wave-and-your-eyes-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/summer-heat-wave-and-your-eyes-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/summer-heat-wave-and-your-eyes-2019.html",
+      "bytes": 287300
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/uv-safety-awareness-month-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/uv-safety-awareness-month-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/uv-safety-awareness-month-2019.html",
+      "bytes": 287929
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/top-4-eyecare-tips-for-summer-vacation-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/top-4-eyecare-tips-for-summer-vacation-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/top-4-eyecare-tips-for-summer-vacation-2019.html",
+      "bytes": 287710
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/cataract-awareness-month-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/cataract-awareness-month-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/cataract-awareness-month-2019.html",
+      "bytes": 288100
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/help-my-child-does-not-want-to-wear-glasses-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/help-my-child-does-not-want-to-wear-glasses-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/help-my-child-does-not-want-to-wear-glasses-2019.html",
+      "bytes": 288304
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/mental-health-and-vision-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/mental-health-and-vision-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/mental-health-and-vision-2019.html",
+      "bytes": 288282
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/parkinsons-awareness-month-and-your-vision-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/parkinsons-awareness-month-and-your-vision-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/parkinsons-awareness-month-and-your-vision-2019.html",
+      "bytes": 288380
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/top-5-tips-for-managing-eye-allergies-this-spring-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/top-5-tips-for-managing-eye-allergies-this-spring-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/top-5-tips-for-managing-eye-allergies-this-spring-2019.html",
+      "bytes": 287841
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/womens-health-and-your-vision-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/womens-health-and-your-vision-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/womens-health-and-your-vision-2019.html",
+      "bytes": 288898
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/whats-in-your-household-cleaning-supplies-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/whats-in-your-household-cleaning-supplies-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/whats-in-your-household-cleaning-supplies-2019.html",
+      "bytes": 289550
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/school-and-vision-2-important-partners-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/school-and-vision-2-important-partners-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/school-and-vision-2-important-partners-2019.html",
+      "bytes": 288070
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-you-need-to-know-about-glaucoma-the-sneak-thief-of-sight-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-you-need-to-know-about-glaucoma-the-sneak-thief-of-sight-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-you-need-to-know-about-glaucoma-the-sneak-thief-of-sight-2019.html",
+      "bytes": 288678
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/world-braille-day-2019/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/world-braille-day-2019.html",
+      "bytes": 286260
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/are-nerf-guns-a-dangerous-holiday-present-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/are-nerf-guns-a-dangerous-holiday-present-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/are-nerf-guns-a-dangerous-holiday-present-2018.html",
+      "bytes": 287293
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/8-tips-to-relieve-winter-dry-eyes-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/8-tips-to-relieve-winter-dry-eyes-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/8-tips-to-relieve-winter-dry-eyes-2018.html",
+      "bytes": 286873
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/have-an-eye-safe-halloween-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/have-an-eye-safe-halloween-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/have-an-eye-safe-halloween-2018.html",
+      "bytes": 286630
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/exercise-and-your-eye-health-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/exercise-and-your-eye-health-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/exercise-and-your-eye-health-2018.html",
+      "bytes": 286151
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/is-screen-time-dangerous-for-kids-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/is-screen-time-dangerous-for-kids-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/is-screen-time-dangerous-for-kids-2018.html",
+      "bytes": 286584
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/healthy-aging-for-the-eyes-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/healthy-aging-for-the-eyes-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/healthy-aging-for-the-eyes-2018.html",
+      "bytes": 287645
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/progressive-myopia-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/progressive-myopia-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/progressive-myopia-2018.html",
+      "bytes": 287096
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/the-dangers-of-an-online-eye-test-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/the-dangers-of-an-online-eye-test-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/the-dangers-of-an-online-eye-test-2018.html",
+      "bytes": 287311
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/signs-that-your-child-has-a-vision-problem-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/signs-that-your-child-has-a-vision-problem-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/signs-that-your-child-has-a-vision-problem-2018.html",
+      "bytes": 286697
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-health-for-college-students-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-health-for-college-students-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-health-for-college-students-2018.html",
+      "bytes": 288443
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/rubbing-your-eyes-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/rubbing-your-eyes-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/rubbing-your-eyes-2018.html",
+      "bytes": 287430
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/ocular-migraines-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/ocular-migraines-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/ocular-migraines-2018.html",
+      "bytes": 286731
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-guide-for-buying-sunglasses-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-guide-for-buying-sunglasses-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-guide-for-buying-sunglasses-2018.html",
+      "bytes": 288112
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sports-vision-deconstructed-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sports-vision-deconstructed-2018.html",
+      "bytes": 286959
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/7-eye-symptoms-you-should-not-ignore-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/7-eye-symptoms-you-should-not-ignore-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/7-eye-symptoms-you-should-not-ignore-2018.html",
+      "bytes": 287935
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/women-eye-health-5-tips-for-optimal-vision-for-life-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/women-eye-health-5-tips-for-optimal-vision-for-life-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/women-eye-health-5-tips-for-optimal-vision-for-life-2018.html",
+      "bytes": 287869
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/ultraviolet-light-and-your-eyes-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/ultraviolet-light-and-your-eyes-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/ultraviolet-light-and-your-eyes-2018.html",
+      "bytes": 287749
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyelid-twitches-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyelid-twitches-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyelid-twitches-2018.html",
+      "bytes": 286977
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/infant-eyesight-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/infant-eyesight-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/infant-eyesight-2018.html",
+      "bytes": 286604
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/amd-awareness-could-save-your-vision-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/amd-awareness-could-save-your-vision-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/amd-awareness-could-save-your-vision-2018.html",
+      "bytes": 288100
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/all-about-night-blindness-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/all-about-night-blindness-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/all-about-night-blindness-2018.html",
+      "bytes": 286953
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/the-sneak-thief-of-sight-2018/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/the-sneak-thief-of-sight-2018/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/the-sneak-thief-of-sight-2018.html",
+      "bytes": 286945
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/snow-blindness-winter-vacation-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/snow-blindness-winter-vacation-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/snow-blindness-winter-vacation-2017.html",
+      "bytes": 286861
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/6-crazy-holiday-eye-injuries-to-avoid-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/6-crazy-holiday-eye-injuries-to-avoid-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/6-crazy-holiday-eye-injuries-to-avoid-2017.html",
+      "bytes": 286630
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/10-eye-healthy-foods-to-eat-this-year-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/10-eye-healthy-foods-to-eat-this-year-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/10-eye-healthy-foods-to-eat-this-year-2017.html",
+      "bytes": 287598
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/women-and-diabetes-world-diabetes-day-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/women-and-diabetes-world-diabetes-day-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/women-and-diabetes-world-diabetes-day-2017.html",
+      "bytes": 287180
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-you-need-to-know-to-help-world-blindness-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-you-need-to-know-to-help-world-blindness-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-you-need-to-know-to-help-world-blindness-2017.html",
+      "bytes": 286342
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/halloween-eye-safety-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/halloween-eye-safety-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/halloween-eye-safety-2017.html",
+      "bytes": 287679
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/trouble-seeing-the-fine-print-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/trouble-seeing-the-fine-print-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/trouble-seeing-the-fine-print-2017.html",
+      "bytes": 288459
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/aging-eyes-driving-safety-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/aging-eyes-driving-safety-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/aging-eyes-driving-safety-2017.html",
+      "bytes": 287313
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/is-your-teen-ready-for-contacts-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/is-your-teen-ready-for-contacts-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/is-your-teen-ready-for-contacts-2017.html",
+      "bytes": 287816
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/inside-a-life-with-color-vision-deficiency-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/inside-a-life-with-color-vision-deficiency-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/inside-a-life-with-color-vision-deficiency-2017.html",
+      "bytes": 286869
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/solar-eclipse-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/solar-eclipse-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/solar-eclipse-2017.html",
+      "bytes": 287406
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/are-your-eyes-sensitive-to-light-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/are-your-eyes-sensitive-to-light-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/are-your-eyes-sensitive-to-light-2017.html",
+      "bytes": 285962
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/got-a-shiner-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/got-a-shiner-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/got-a-shiner-2017.html",
+      "bytes": 286041
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/cataract-awareness-and-prevention-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/cataract-awareness-and-prevention-2017.html",
+      "bytes": 286941
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/are-you-ignoring-your-dry-eyes-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/are-you-ignoring-your-dry-eyes-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/are-you-ignoring-your-dry-eyes-2017.html",
+      "bytes": 288009
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/smoking-and-vision-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/smoking-and-vision-2017.html",
+      "bytes": 285810
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sjogren-awareness-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sjogren-awareness-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sjogren-awareness-2017.html",
+      "bytes": 286028
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/april-is-womens-eye-health-and-safety-month-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/april-is-womens-eye-health-and-safety-month-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/april-is-womens-eye-health-and-safety-month-2017.html",
+      "bytes": 285907
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-health-for-women-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-health-for-women-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-health-for-women-2017.html",
+      "bytes": 285411
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/the-right-way-to-clean-your-glasses-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/the-right-way-to-clean-your-glasses-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/the-right-way-to-clean-your-glasses-2017.html",
+      "bytes": 287650
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/talk-about-blue-light-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/talk-about-blue-light-2017.html",
+      "bytes": 286762
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/understanding-eye-color-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/understanding-eye-color-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/understanding-eye-color-2017.html",
+      "bytes": 286199
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/6-ways-to-prevent-amd-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/6-ways-to-prevent-amd-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/6-ways-to-prevent-amd-2017.html",
+      "bytes": 287359
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/your-childs-hidden-vision-problem-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/your-childs-hidden-vision-problem-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/your-childs-hidden-vision-problem-2017.html",
+      "bytes": 289299
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sneak-thief-of-sight-january-2017/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sneak-thief-of-sight-january-2017/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sneak-thief-of-sight-january-2017.html",
+      "bytes": 287914
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/holiday-season-shopping-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/holiday-season-shopping-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/holiday-season-shopping-2016.html",
+      "bytes": 285535
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/dry-eye-syndrome-causes-and-cures-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/dry-eye-syndrome-causes-and-cures-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/dry-eye-syndrome-causes-and-cures-2016.html",
+      "bytes": 287699
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/november-is-diabetes-awareness-month-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/november-is-diabetes-awareness-month-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/november-is-diabetes-awareness-month-2016.html",
+      "bytes": 286351
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/fall-eye-allergies-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/fall-eye-allergies-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/fall-eye-allergies-2016.html",
+      "bytes": 286729
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-contact-lenses-can-be-a-danger-to-your-eyes-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-contact-lenses-can-be-a-danger-to-your-eyes-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-contact-lenses-can-be-a-danger-to-your-eyes-2016.html",
+      "bytes": 287427
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/an-active-and-eye-safe-lifestyle-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/an-active-and-eye-safe-lifestyle-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/an-active-and-eye-safe-lifestyle-2016.html",
+      "bytes": 287158
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/10-tips-to-teach-children-about-eye-safety-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/10-tips-to-teach-children-about-eye-safety-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/10-tips-to-teach-children-about-eye-safety-2016.html",
+      "bytes": 286956
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/when-20-20-vision-isnt-enough-for-your-child-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/when-20-20-vision-isnt-enough-for-your-child-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/when-20-20-vision-isnt-enough-for-your-child-2016.html",
+      "bytes": 286805
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/cutting-edge-eye-dentification-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/cutting-edge-eye-dentification-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/cutting-edge-eye-dentification-2016.html",
+      "bytes": 285701
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/innovations-in-color-blindness-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/innovations-in-color-blindness-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/innovations-in-color-blindness-2016.html",
+      "bytes": 287188
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/poolside-eye-safety-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/poolside-eye-safety-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/poolside-eye-safety-2016.html",
+      "bytes": 286297
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/cataract-awareness-month-2016-2/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/cataract-awareness-month-2016-2/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/cataract-awareness-month-2016-2.html",
+      "bytes": 288673
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/sunwear-for-a-bright-future-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/sunwear-for-a-bright-future-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/sunwear-for-a-bright-future-2016.html",
+      "bytes": 286334
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-uv-damages-your-eyes-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-uv-damages-your-eyes-2016.html",
+      "bytes": 286121
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-is-a-stye-anyway-2016.html",
+      "bytes": 284808
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/1-eye-allergies-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/1-eye-allergies-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/1-eye-allergies-2016.html",
+      "bytes": 287067
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/bifocal-and-multifocal-contact-lenses-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/bifocal-and-multifocal-contact-lenses-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/bifocal-and-multifocal-contact-lenses-2016.html",
+      "bytes": 286476
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/workplace-eye-wellness-the-dangers-of-blue-light-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/workplace-eye-wellness-the-dangers-of-blue-light-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/workplace-eye-wellness-the-dangers-of-blue-light-2016.html",
+      "bytes": 287804
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-find-the-right-pair-of-glasses-for-your-child-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-find-the-right-pair-of-glasses-for-your-child-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-find-the-right-pair-of-glasses-for-your-child-2016.html",
+      "bytes": 287419
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/prevent-age-related-macular-degeneration-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/prevent-age-related-macular-degeneration-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/prevent-age-related-macular-degeneration-2016.html",
+      "bytes": 286835
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/resolve-to-prevent-glaucoma-2016/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/resolve-to-prevent-glaucoma-2016/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/resolve-to-prevent-glaucoma-2016.html",
+      "bytes": 286712
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/why-do-we-need-glasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/why-do-we-need-glasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/why-do-we-need-glasses.html",
+      "bytes": 288043
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-safe-toys-and-gifts-for-this-holiday-season/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-safe-toys-and-gifts-for-this-holiday-season/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-safe-toys-and-gifts-for-this-holiday-season.html",
+      "bytes": 286339
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-do-we-see/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-do-we-see/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-do-we-see.html",
+      "bytes": 285343
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-prevent-diabetic-vision-loss/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-prevent-diabetic-vision-loss/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-prevent-diabetic-vision-loss.html",
+      "bytes": 287666
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/decorative-lenses-could-cost-you-your-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/decorative-lenses-could-cost-you-your-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/decorative-lenses-could-cost-you-your-vision.html",
+      "bytes": 284883
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/its-time-to-be-serious-about-home-eye-safety/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/its-time-to-be-serious-about-home-eye-safety/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/its-time-to-be-serious-about-home-eye-safety.html",
+      "bytes": 284895
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/6-common-eye-myths-debunked/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/6-common-eye-myths-debunked/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/6-common-eye-myths-debunked.html",
+      "bytes": 286301
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/protective-sports-eyewear-is-a-serious-matter/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/protective-sports-eyewear-is-a-serious-matter/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/protective-sports-eyewear-is-a-serious-matter.html",
+      "bytes": 285862
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/welcome-to-our-new-website/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/welcome-to-our-new-website.html",
+      "bytes": 283225
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/pink-stinging-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/pink-stinging-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/pink-stinging-eyes.html",
+      "bytes": 284912
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-pregnancy-affects-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-pregnancy-affects-vision.html",
+      "bytes": 285517
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/is-your-babys-eyesight-developing-normally/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/is-your-babys-eyesight-developing-normally/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/is-your-babys-eyesight-developing-normally.html",
+      "bytes": 285892
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/guidelines-for-picking-the-right-pair-of-shades/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/guidelines-for-picking-the-right-pair-of-shades/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/guidelines-for-picking-the-right-pair-of-shades.html",
+      "bytes": 286640
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/6-things-you-need-to-know-about-cataracts/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/6-things-you-need-to-know-about-cataracts/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/6-things-you-need-to-know-about-cataracts.html",
+      "bytes": 285034
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-you-need-to-know-about-firework-eye-safety/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-you-need-to-know-about-firework-eye-safety/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-you-need-to-know-about-firework-eye-safety.html",
+      "bytes": 284999
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/5-ways-to-ensure-healthy-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/5-ways-to-ensure-healthy-vision.html",
+      "bytes": 284716
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-women-need-to-know-about-eye-health/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-women-need-to-know-about-eye-health/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-women-need-to-know-about-eye-health.html",
+      "bytes": 287737
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/enjoying-life-during-eye-allergy-season/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/enjoying-life-during-eye-allergy-season/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/enjoying-life-during-eye-allergy-season.html",
+      "bytes": 285932
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/can-you-really-go-blind-from-looking-at-a-solar-eclipse/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/can-you-really-go-blind-from-looking-at-a-solar-eclipse/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/can-you-really-go-blind-from-looking-at-a-solar-eclipse.html",
+      "bytes": 286265
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/10-steps-to-prevent-vision-loss/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/10-steps-to-prevent-vision-loss/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/10-steps-to-prevent-vision-loss.html",
+      "bytes": 287705
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/refocus-on-the-digital-age-with-computer-glasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/refocus-on-the-digital-age-with-computer-glasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/refocus-on-the-digital-age-with-computer-glasses.html",
+      "bytes": 284985
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/living-with-low-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/living-with-low-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/living-with-low-vision.html",
+      "bytes": 287947
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/request-your-next-appointment-online/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/request-your-next-appointment-online/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/request-your-next-appointment-online.html",
+      "bytes": 282857
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/under-pressure-are-you-at-risk-for-glaucoma/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/under-pressure-are-you-at-risk-for-glaucoma.html",
+      "bytes": 285041
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/know-how-and-when-to-treat-an-eye-infection/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/know-how-and-when-to-treat-an-eye-infection/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/know-how-and-when-to-treat-an-eye-infection.html",
+      "bytes": 286071
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/8-tips-to-beat-winter-dry-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/8-tips-to-beat-winter-dry-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/8-tips-to-beat-winter-dry-eyes.html",
+      "bytes": 285362
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-am-home-for-the-holidays-7-eye-tips-for-college-students/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-am-home-for-the-holidays-7-eye-tips-for-college-students/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-am-home-for-the-holidays-7-eye-tips-for-college-students.html",
+      "bytes": 287487
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/do-you-know-the-facts-about-diabetic-eye-disease/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/do-you-know-the-facts-about-diabetic-eye-disease/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/do-you-know-the-facts-about-diabetic-eye-disease.html",
+      "bytes": 287542
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/7-things-you-should-know-about-eyelid-twitches/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/7-things-you-should-know-about-eyelid-twitches.html",
+      "bytes": 284365
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/october-is/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/october-is/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/october-is.html",
+      "bytes": 285234
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/world-sight-day-challenge-no-more-avoidable-blindness/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/world-sight-day-challenge-no-more-avoidable-blindness.html",
+      "bytes": 285061
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/protect-childrens-eyes-during-sports/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/protect-childrens-eyes-during-sports/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/protect-childrens-eyes-during-sports.html",
+      "bytes": 285511
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/cutting-edge-glaucoma-technology/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/cutting-edge-glaucoma-technology.html",
+      "bytes": 284740
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/comfortable-vision-for-back-to-school-reading/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/comfortable-vision-for-back-to-school-reading/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/comfortable-vision-for-back-to-school-reading.html",
+      "bytes": 285917
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/be-on-the-lookout-for-vision-problems-this-summer-break/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/be-on-the-lookout-for-vision-problems-this-summer-break/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/be-on-the-lookout-for-vision-problems-this-summer-break.html",
+      "bytes": 285265
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/should-you-be-worried-about-eye-floaters/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/should-you-be-worried-about-eye-floaters/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/should-you-be-worried-about-eye-floaters.html",
+      "bytes": 285752
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/keeping-an-eye-on-cataracts/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/keeping-an-eye-on-cataracts.html",
+      "bytes": 284982
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/a-look-behind-sleeping-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/a-look-behind-sleeping-eyes.html",
+      "bytes": 284670
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/6-things-you-should-know-about-uv-radiation-and-your-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/6-things-you-should-know-about-uv-radiation-and-your-eyes.html",
+      "bytes": 285622
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/dealing-with-your-tweens-and-teens-eyesight/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/dealing-with-your-tweens-and-teens-eyesight/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/dealing-with-your-tweens-and-teens-eyesight.html",
+      "bytes": 286196
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/9-tips-for-coping-with-eye-allergy-season/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/9-tips-for-coping-with-eye-allergy-season/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/9-tips-for-coping-with-eye-allergy-season.html",
+      "bytes": 285018
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-your-eyes-convey-emotion/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-your-eyes-convey-emotion/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-your-eyes-convey-emotion.html",
+      "bytes": 286315
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/protecting-your-eyes-from-the-desk-job/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/protecting-your-eyes-from-the-desk-job/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/protecting-your-eyes-from-the-desk-job.html",
+      "bytes": 287520
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/new-study-shows-how-your-eyes-shed-light-on-your-health/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/new-study-shows-how-your-eyes-shed-light-on-your-health/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/new-study-shows-how-your-eyes-shed-light-on-your-health.html",
+      "bytes": 287033
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/hope-in-sight-for-low-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/hope-in-sight-for-low-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/hope-in-sight-for-low-vision.html",
+      "bytes": 286500
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-encourage-young-kids-to-wear-their-first-pair-of-glasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-encourage-young-kids-to-wear-their-first-pair-of-glasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-encourage-young-kids-to-wear-their-first-pair-of-glasses.html",
+      "bytes": 286844
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/7-facts-you-should-know-about-glaucoma/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/7-facts-you-should-know-about-glaucoma.html",
+      "bytes": 285238
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/new-years-resolutions-for-an-eye-healthy-2014/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/new-years-resolutions-for-an-eye-healthy-2014/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/new-years-resolutions-for-an-eye-healthy-2014.html",
+      "bytes": 286680
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/fun-holiday-gifts-that-are-good-for-childrens-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/fun-holiday-gifts-that-are-good-for-childrens-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/fun-holiday-gifts-that-are-good-for-childrens-vision.html",
+      "bytes": 286613
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/what-you-should-know-about-diabetes-and-your-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/what-you-should-know-about-diabetes-and-your-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/what-you-should-know-about-diabetes-and-your-vision.html",
+      "bytes": 286991
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/keeping-your-contact-lenses-clean/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/keeping-your-contact-lenses-clean/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/keeping-your-contact-lenses-clean.html",
+      "bytes": 288403
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/10-tips-to-protect-your-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/10-tips-to-protect-your-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/10-tips-to-protect-your-vision.html",
+      "bytes": 288948
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/this-halloween-be-wary-of-costume-contact-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/this-halloween-be-wary-of-costume-contact-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/this-halloween-be-wary-of-costume-contact-lenses.html",
+      "bytes": 286036
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/how-to-prevent-dry-eyes-during-air-travel/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/how-to-prevent-dry-eyes-during-air-travel/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/how-to-prevent-dry-eyes-during-air-travel.html",
+      "bytes": 284408
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/does-chlorine-hurt-your-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/does-chlorine-hurt-your-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/does-chlorine-hurt-your-eyes.html",
+      "bytes": 285639
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/technology-in-the-classroom-and-the-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/technology-in-the-classroom-and-the-eyes.html",
+      "bytes": 286054
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/treating-vision-problems-lowers-risk-of-falling-in-seniors/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/treating-vision-problems-lowers-risk-of-falling-in-seniors/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/treating-vision-problems-lowers-risk-of-falling-in-seniors.html",
+      "bytes": 285439
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/the-great-glasses-play-day-2013.html",
+      "bytes": 286043
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/first-aid-for-eye-injuries/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/first-aid-for-eye-injuries.html",
+      "bytes": 286091
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/understanding-the-eye-chart.html",
+      "bytes": 285448
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/june-is-cataract-awareness-month/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/june-is-cataract-awareness-month.html",
+      "bytes": 285898
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/age-related-macular-degeneration-and-your-central-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/age-related-macular-degeneration-and-your-central-vision.html",
+      "bytes": 285809
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/pink-stinging-eyes-it-could-be-pink-eye/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/pink-stinging-eyes-it-could-be-pink-eye/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/pink-stinging-eyes-it-could-be-pink-eye.html",
+      "bytes": 285608
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/lens-options-for-eyeglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__eyeglass-basics__lens-options-for-eyeglasses.html",
+      "bytes": 287685
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/eyeglass-frames/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/eyeglass-basics/eyeglass-frames/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__eyeglass-basics__eyeglass-frames.html",
+      "bytes": 286131
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/designer-frames/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.ikiavisioncenter.com/eyeglasses-contacts/designer-frames/",
+          "status": 301,
+          "to": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/"
+        }
+      ],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/designer-frames/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__designer-frames.html",
+      "bytes": 344525
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses__nonprescription-sunglasses.html",
+      "bytes": 287060
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses__prescription-sunglasses.html",
+      "bytes": 286192
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses__sunglasses-for-kids.html",
+      "bytes": 286089
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses__prescription-sunglass-treatments.html",
+      "bytes": 284534
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__sunglasses__performance-and-sport-sunglasses.html",
+      "bytes": 285822
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__bifocal-lenses.html",
+      "bytes": 284714
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/high-index-and-aspheric-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__high-index-and-aspheric-lenses.html",
+      "bytes": 285095
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__polycarbonate-lenses.html",
+      "bytes": 284730
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__caring-for-lenses.html",
+      "bytes": 285702
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/eyeglass-frame-materials/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__eyeglass-frame-materials.html",
+      "bytes": 287280
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/frame-maintenance/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__prescription-eyeglasses__frame-maintenance.html",
+      "bytes": 286316
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/specialty-eyewear-overview/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear__specialty-eyewear-overview.html",
+      "bytes": 286549
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/safety-and-sports-glasses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear__safety-and-sports-glasses.html",
+      "bytes": 288026
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/scuba-masks-and-swim-goggles/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear__scuba-masks-and-swim-goggles.html",
+      "bytes": 286499
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/shooting-glasses-and-hunting-eyewear/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear__shooting-glasses-and-hunting-eyewear.html",
+      "bytes": 286986
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/specialty-eyewear/contacts-glasses-that-enhance-performance/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__specialty-eyewear__contacts-glasses-that-enhance-performance.html",
+      "bytes": 289527
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/uv-protection/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__lens-treatments__uv-protection.html",
+      "bytes": 285283
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/scratch-resistant/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__lens-treatments__scratch-resistant.html",
+      "bytes": 284657
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__lens-treatments__anti-reflective.html",
+      "bytes": 285550
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/are-transitions-right-for-you/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/are-transitions-right-for-you/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__transitions-lenses__are-transitions-right-for-you.html",
+      "bytes": 285815
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/original-transitions-lenses/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__transitions-lenses__original-transitions-lenses.html",
+      "bytes": 284361
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__transitions-lenses__transitions-xtractive.html",
+      "bytes": 284426
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eyeglasses-contacts__eyeglasses__transitions-lenses__transition-solfx-sunwear-products.html",
+      "bytes": 285036
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/",
+      "status": 200,
+      "chain": [
+        {
+          "from": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/",
+          "status": 301,
+          "to": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/"
+        }
+      ],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-diseases.html",
+      "bytes": 285066
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/glaucoma/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__glaucoma.html",
+      "bytes": 292019
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/amblyopia-lazy-eye/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__amblyopia-lazy-eye.html",
+      "bytes": 287450
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__astigmatism.html",
+      "bytes": 286046
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/blepharitis/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__blepharitis.html",
+      "bytes": 286203
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/cmv-retinitis/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__cmv-retinitis.html",
+      "bytes": 285774
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/corneal-transplant/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__corneal-transplant.html",
+      "bytes": 288828
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/dry-eye-syndrome/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__dry-eye-syndrome.html",
+      "bytes": 289225
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/eye-allergies/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__eye-allergies.html",
+      "bytes": 287200
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/eye-floaters-and-spots/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__eye-floaters-and-spots.html",
+      "bytes": 287193
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__farsighted-hyperopia.html",
+      "bytes": 285966
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/keratoconus/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__keratoconus.html",
+      "bytes": 287735
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/nearsighted-myopia/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__nearsighted-myopia.html",
+      "bytes": 286039
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ocular-hypertension/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__ocular-hypertension.html",
+      "bytes": 285680
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/photophobia/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__photophobia.html",
+      "bytes": 284466
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/pingueculae-pterygia/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__pingueculae-pterygia.html",
+      "bytes": 286818
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/pink-eye-conjunctivitis/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__pink-eye-conjunctivitis.html",
+      "bytes": 287553
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/presbyopia/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__presbyopia.html",
+      "bytes": 287252
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/ptosis/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__ptosis.html",
+      "bytes": 285646
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__retinal-detachment.html",
+      "bytes": 286184
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinitis-pigmentosa/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__retinitis-pigmentosa.html",
+      "bytes": 285977
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__styes.html",
+      "bytes": 285123
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/uveitis/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-conditions-info__uveitis.html",
+      "bytes": 285696
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/contact-lens-basics/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/contact-lens-basics/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__contact-lens-basics.html",
+      "bytes": 295333
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/glossary-of-eye-care-terms/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__glossary-of-eye-care-terms.html",
+      "bytes": 293747
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__healthy-sight.html",
+      "bytes": 286092
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/how-the-eye-works/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__how-the-eye-works.html",
+      "bytes": 292368
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/protecting-your-eyes/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__protecting-your-eyes.html",
+      "bytes": 289547
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-exams.html",
+      "bytes": 292729
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/computer-eyestrain/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__computer-eyestrain.html",
+      "bytes": 295517
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/childrens-vision/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__childrens-vision.html",
+      "bytes": 291209
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__vision-surgery.html",
+      "bytes": 292198
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-diseases/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__eye-diseases.html",
+      "bytes": 285066
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-40/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__vision-over-40.html",
+      "bytes": 290513
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+      "status": 200,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/eye-care-services__your-eye-health__vision-over-60.html",
+      "bytes": 284424
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/myopia-management-optometrist/is-your-child-a-candidate-for-myopia-management/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/myopia-management-optometrist/is-your-child-a-candidate-for-myopia-management/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/myopia-management-optometrist__is-your-child-a-candidate-for-myopia-management.html",
+      "bytes": 298969
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/myopia-management-optometrist/what-treatments-are-used-in-myopia-management/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/myopia-management-optometrist/what-treatments-are-used-in-myopia-management/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/myopia-management-optometrist__what-treatments-are-used-in-myopia-management.html",
+      "bytes": 298965
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/myopia-management-optometrist/myopia-management-quiz/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/myopia-management-optometrist/myopia-management-quiz/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/myopia-management-optometrist__myopia-management-quiz.html",
+      "bytes": 298919
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/cataracts/cataracts-video/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/cataracts/cataracts-video/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "file": "audit/raw/your-eye-health__eye-diseases__cataracts__cataracts-video.html",
+      "bytes": 300367
+    },
+    {
+      "url": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/cataracts/",
+      "status": 404,
+      "chain": [],
+      "finalUrl": "https://www.ikiavisioncenter.com/your-eye-health/eye-diseases/cataracts/",
+      "contentType": "text/html; charset=UTF-8",
+      "inSitemap": false,
+      "refused": false
+    }
+  ]
+}

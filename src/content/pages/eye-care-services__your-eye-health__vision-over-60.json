@@ -1,0 +1,140 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-over-60/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Vision Over 60",
+ "h1": "Vision Over 60",
+ "head": {
+  "title": "Vision Over 60",
+  "description": "Learn how our eyes change after 60 and be on alert for eye diseases or infections. Keep your eyes healthy even after 60.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Vision Over 60",
+   "og:description": "Learn how our eyes change after 60 and be on alert for eye diseases or infections. Keep your eyes healthy even after 60.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+   "twitter:card": "summary",
+   "twitter:title": "Vision Over 60",
+   "twitter:description": "Learn how our eyes change after 60 and be on alert for eye diseases or infections. Keep your eyes healthy even after 60.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-over-60/",
+    "name": "Vision Over 60",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Age & Your Vision - Changes & Solutions",
+           "href": "/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+           "summary": "Not surprisingly, our eyes decline with age, perhaps even with accelerating declination from age 60 onward.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Seven Tips For Optimal Vision",
+           "href": "/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+           "summary": "To protect your eyesight and stay eye-healthy as you age, follow these basic guides.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Suggestions For Age-Related Vision Loss",
+           "href": "/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/",
+           "summary": "Age-related vision loss can be addressed with practical solutions.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-over-60",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Over 60",
+   "path": "/eye-care-services/your-eye-health/vision-over-60/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/age-your-vision-changes-solutions/",
+   "title": "Age & Your Vision – Changes & Solutions"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/seven-tips-for-optimal-vision/",
+   "title": "Seven Tips For Optimal Vision"
+  },
+  {
+   "path": "/eye-care-services/your-eye-health/vision-over-60/suggestions-for-age-related-vision-loss/",
+   "title": "Suggestions For Age-Related Vision Loss"
+  }
+ ]
+}

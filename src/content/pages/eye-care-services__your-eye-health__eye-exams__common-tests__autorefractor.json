@@ -1,0 +1,121 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Autorefractor",
+ "h1": "Autorefractor",
+ "head": {
+  "title": "Autorefractor",
+  "description": "An autorefractor is one of the many tools used by an optometrist during a comprehensive eye exam. Read about what it does and how it works.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Autorefractor",
+   "og:description": "An autorefractor is one of the many tools used by an optometrist during a comprehensive eye exam. Read about what it does and how it works.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+   "twitter:card": "summary",
+   "twitter:title": "Autorefractor",
+   "twitter:description": "An autorefractor is one of the many tools used by an optometrist during a comprehensive eye exam. Read about what it does and how it works.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/",
+    "name": "Autorefractor",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>If you’ve discovered you might need vision correction during your eye examination, it’s vital to determine just how “much” your eyes need to be corrected with lenses or contact lenses. This is called measuring your “refraction.</p><p>Autorefractors automatically measure this value during an eye examination.</p><p>While seated with your chin in a stabilizing chinrest, you’ll be asked to focus on an image or point of light. The autorefractor automatically determines the correction needed to place your “focus point” on top of the retina, the light-sensitive area at the back of the eye responsible for correctly processing images.</p><p>The measurement taken by an autorefractor can be translated into a prescription for eyeglasses.</p><p>In eye exams for small children, or for people with special needs who may have trouble sitting calmly during an extended exam, or verbally describing their vision problems—autorefractors give highly accurate measurements used to determine vision correction needs, automatically.</p><h2>How do autorefractors work?</h2><p>Autorefractors only take a few moments to determine each measurement for each eye. What’s more, autorefractors are quite reliable and are sometimes used in conjunction with a machine called a phoroptor to manually switch lenses in front of your eyes to provide ideal vision correction.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-exams__common-tests__autorefractor",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Exams",
+   "path": "/eye-care-services/your-eye-health/eye-exams/"
+  },
+  {
+   "name": "Common Tests",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/"
+  },
+  {
+   "name": "Autorefractor",
+   "path": "/eye-care-services/your-eye-health/eye-exams/common-tests/autorefractor/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Bifocal Lenses",
+ "h1": "Bifocal Lenses",
+ "head": {
+  "title": "Bifocal Lenses",
+  "description": "Bifocals are lenses with two distinct viewing areas to help correct vision that fails at two or even three distances.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Bifocal Lenses",
+   "og:description": "Bifocals are lenses with two distinct viewing areas to help correct vision that fails at two or even three distances.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Bifocal Lenses",
+   "twitter:description": "Bifocals are lenses with two distinct viewing areas to help correct vision that fails at two or even three distances.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/",
+    "name": "Bifocal Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Sometimes our vision fails us at two or even three distinct distances, especially as we age. Bifocal lenses—lenses with two distinct viewing areas—have traditionally been a reliable solution to such a dilemma. (A lens with three distinct viewing areas is called a trifocal.)</p><p>By distinct, we mean there are noticeable lines separating the two different fields of vision within a bifocal lens surface. A slight adjustment to the angle of the head allows wearers to choose which lens area to look through based on the distance of the object they’re trying to see.</p><p>A farsighted person who also has trouble reading may be prescribed a pair of bifocal reading glasses, for example. The upper section of the lens would correct difficulties seeing objects at distance, and the lower section would assist in reading. (Bifocal glasses date back to the days of Benjamin Franklin!)</p><p>While wearers quickly adjust to the line separating the multiple vision fields, it is a noticeable distraction within the lens itself. This line can be eliminated using a newer lens technology called progressive lenses.</p><p>Progressive lenses incorporate two, three, or more fields of vision within a single lens without noticeable lens lines. Bifocal, trifocal and progressive lenses are all considered “multi-focal” lenses—lenses that provide correction to multiple vision problems.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today! </a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__prescription-eyeglasses__bifocal-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  },
+  {
+   "name": "Bifocal Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/bifocal-lenses/"
+  }
+ ],
+ "children": []
+}

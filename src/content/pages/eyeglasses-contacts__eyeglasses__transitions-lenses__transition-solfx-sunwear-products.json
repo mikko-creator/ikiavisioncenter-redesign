@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Transitions® SOLFX Sunwear Products",
+ "h1": "Transitions® SOLFX Sunwear Products",
+ "head": {
+  "title": "Transitions® SOLFX Sunwear Products",
+  "description": "Crafted with functionality in mind, Transitions® Lenses SOLFX lenses automatically adjust lens color and darkness in changing outdoor lighting conditions.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Transitions® SOLFX Sunwear Products",
+   "og:description": "Crafted with functionality in mind, Transitions® Lenses SOLFX lenses automatically adjust lens color and darkness in changing outdoor lighting conditions.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+   "twitter:card": "summary",
+   "twitter:title": "Transitions® SOLFX Sunwear Products",
+   "twitter:description": "Crafted with functionality in mind, Transitions® Lenses SOLFX lenses automatically adjust lens color and darkness in changing outdoor lighting conditions.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/",
+    "name": "Transitions&reg; SOLFX Sunwear Products",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/Transitions/transitions-ladyreading.jpg\" alt=\"Lady reading book\">Transitions® Lenses SOLFX sun lenses are high-performance sunwear specifically designed for outdoor use. Traditional sunwear remains the same level of darkness regardless of the level of sunlight. This is why in certain situations some sunglasses can seem too dark, while other situations the same pair may not seem dark enough.</p><p>Transitions® Lenses SOLFX sun lenses self-adjust, changing the level of darkness with the changing amount of sunlight so you can see better, look great and perform at your best.</p><ul><li>Sun lenses that adjust from dark to darker depending on the sun</li><li>Offers a variety of colors and tint ranges by outdoor need</li><li>Multiple unique product offerings designed for specific outdoor activities.</li><li>Blocks 100% of sun’s harmful UVA &amp; UVB rays.</li><li>Compatible with many frame brands and styles to create custom look</li><li>Available in prescription and non-prescription.</li></ul><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__transitions-lenses__transition-solfx-sunwear-products",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  },
+  {
+   "name": "Transitions® SOLFX Sunwear Products",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transition-solfx-sunwear-products/"
+  }
+ ],
+ "children": []
+}

@@ -1,0 +1,98 @@
+{
+ "path": "/eye-care-services/emergency-eye-care-services/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+ "kind": "page",
+ "section": "eye-care-services",
+ "title": "Emergency Eye Care Services",
+ "h1": "Emergency Eye Care Services",
+ "head": {
+  "title": "Emergency Eye Care Services",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Emergency Eye Care Services",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+   "twitter:card": "summary",
+   "twitter:title": "Emergency Eye Care Services",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-Emerg.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/emergency-eye-care-services/",
+    "name": "Emergency Eye Care Services",
+    "datePublished": "2017-07-18T18:21:58-04:00",
+    "dateModified": "2019-03-28T21:05:32-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2>Providing Emergency Eye Care Services in Houston</h2><p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/themes/bluesky/cutouts/caucasian-family-pyramid-300x278.png\" alt=\"caucasian family pyramid\">We offer emergency services that require immediate and urgent eye care. If your eye is injured, don’t try to judge the severity of it. Immediately seek the opinion of an eye doctor to lessen the risk of hurting your vision. We understand ocular emergencies can arise at any time.</p><p>Please call our Houston office at <strong>832-717-3937 </strong>for further instructions. Use your best judgment. If you feel your vision issue is urgent, do not delay treatment – visit your nearest emergency treatment center.</p><a href=\"tel:tokensname='phone'\">Call Us! 832-717-3937</a><p><strong>Eye Safety – Safety Eyewear – Eye Injury Prevention</strong></p><p>This short video stresses the importance of knowing the hazards at home and the workplace regarding your eyes. In this video, we review a few actual incidents where people lost part or all of their vision, along with one whose vision was saved by safety eyewear.</p><p><div data-video=\"https://www.youtube-nocookie.com/embed/pfAZwGZS-Hk?rel=0&amp;controls=0\" data-title=\"\"></div></p><p><strong>Symptoms that require emergency service include, but are not limited to:</strong></p><ul><li>Sudden loss of vision</li><li>Sudden double vision</li><li>Sudden red/painful eye</li><li>Pink Eye</li><li>New onset flashes and/or floaters</li><li>Foreign body in the eye (especially metal or chemicals)</li><li>New or worsening swelling or pain after <a href=\"/eye-care-services/lasik-refractive-surgery-co-management/\">eye surgery</a></li></ul><p>Things NOT to do while waiting for professional medical assistance:</p><ul><li>DO NOT press on an injured eye or allow the victim to rub the eye(s).</li><li>DO NOT attempt to remove a foreign body that is resting on the cornea (the clear surface of the eye through which we see) or that appears to be embedded in any part of the eye.</li><li>DO NOT use dry cotton (including cotton swabs) or sharp instruments (such as tweezers) on the eye.</li><li>DO NOT attempt to remove an embedded object.</li></ul><p><strong>DO call our office in Houston at 832-717-3937 for further instructions! We are here for you!</strong></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__emergency-eye-care-services",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Emergency Eye Care Services",
+   "path": "/eye-care-services/emergency-eye-care-services/"
+  }
+ ],
+ "children": []
+}

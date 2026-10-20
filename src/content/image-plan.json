@@ -1,0 +1,242 @@
+{
+  "note": "Icare Clinic (ikiavisioncenter.com) redesign pitch \"Iris Noir\": illustrative eye-care imagery ADDED by the redesign (fal flux-pro ultra stills, birefnet cut-outs, Higgsfield Kling image-to-video loops). Generated people are generic illustrative models only: never Dr. Ike Ikechi, staff, patients or the Houston office, never a real result of this practice. No text, no logos, no brand names. Real Icare Clinic photos and brand art are harvested separately into assets/source/ and assets/brand/. defaults.style is appended to every prompt by tools/fal-gen.mjs; the two CUT-* items are generated from tmp/img/plan-cutouts.json instead (same ids, files and prompts, a light-grey product style), because the dark tenebrist ground would defeat the matting. The two kind:video items are optional so that a bare fal-gen run never sends them to fal.",
+  "defaults": {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "input": {
+      "aspect_ratio": "4:3",
+      "output_format": "jpeg",
+      "num_images": 1,
+      "enable_safety_checker": true,
+      "safety_tolerance": "5"
+    },
+    "cutoutModel": "fal-ai/birefnet/v2",
+    "cutoutInput": {
+      "model": "Matting",
+      "operating_resolution": "2048x2048",
+      "output_format": "png"
+    },
+    "style": "tenebrist chiaroscuro editorial photograph in the spirit of Caravaggio, deep warm-black background, one strong warm burnt-orange amber key light raking in from the side, a subtle cool teal rim light on the shadow side, rich velvety shadows, high contrast yet clean, modern and premium, glass and lens reflections catching the light, full-frame camera, prime lens, ultra detailed, photographic, no text, no letters, no numbers, no logos, no watermark"
+  },
+  "images": [
+    {
+      "id": "G-HERO-HOME",
+      "role": "hero",
+      "file": "assets/generated/g-hero-home.jpg",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "A woman in dark acetate eyeglasses, lit by a warm amber light",
+      "usedFor": [
+        "home hero background (glass text panel on the dark left half)",
+        "Higgsfield source for V-HERO"
+      ],
+      "prompt": "Wide cinematic portrait composed with the woman on the right side of the frame and empty dark space on the left: a stylish adult woman in her thirties wearing modern dark acetate eyeglasses, three-quarter view, her face in the right third of the frame turned towards the left so she looks into the empty dark space, eyes sharp and in focus behind clear lenses, a calm confident smile, a warm golden amber key light coming from the left that bathes her cheek, nose and the glossy frame rims in warm orange-gold light with bright amber specular highlights on the lenses, only a thin cool teal rim light on the back of her hair at the right edge, the whole left half of the frame deep warm-black shadow with nothing in it, generic model; no text, no letters, no numbers, no logos, no watermark",
+      "rejectReason": "attempt 1 (archived in tmp/img/rejected/): her face sat in the left half (the mirror of the brief) and the key light on her face was teal, not amber"
+    },
+    {
+      "id": "G-EXAM",
+      "role": "section",
+      "file": "assets/generated/g-exam.jpg",
+      "alt": "A phoropter eye-exam instrument gleaming under a single spotlight",
+      "usedFor": [
+        "eye-care-services hero and menu card",
+        "eye exams"
+      ],
+      "prompt": "A phoropter refractor eye exam instrument with its round lens apertures and polished chrome and black housing, standing in a dark optometry exam room, lit by a single tight spotlight from the side so the polished metal gleams, shallow depth of field with the room dissolving into darkness, the dials smooth and completely unmarked with no scales and no engraving; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-OPTICAL",
+      "role": "section",
+      "file": "assets/generated/g-optical.jpg",
+      "alt": "Rows of designer eyeglass frames on lit glass shelves",
+      "usedFor": [
+        "eyeglasses-contacts and designer frames hero and menu card"
+      ],
+      "prompt": "A boutique eyewear display at night, rows of elegant designer eyeglass frames resting on floating glass shelves, each frame lit by its own small warm pin spotlight, glossy reflections on the glass shelves and lenses, the boutique around them dark and moody, plain unbranded frames with smooth temples; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-CONTACT",
+      "role": "section",
+      "file": "assets/generated/g-contact.jpg",
+      "alt": "A soft contact lens with a droplet, balanced on a fingertip",
+      "usedFor": [
+        "contact lenses hero and menu card"
+      ],
+      "prompt": "Macro photograph of a single thin soft contact lens, a delicate transparent dome with a fine edge, resting cup-side up on the tip of an index finger, a tiny droplet of saline glistening inside the lens, realistic natural human skin with fine fingerprint ridges softly out of focus, the clear lens catching curved amber and teal reflections, the background completely dark, crisp focus on the lens edge; no text, no letters, no numbers, no logos, no watermark",
+      "rejectReason": "attempt 1 (archived in tmp/img/rejected/): the fingertip had an unnatural reptile-scale skin texture and the lens read as a thick glass disc with no droplet"
+    },
+    {
+      "id": "G-KIDS",
+      "role": "section",
+      "file": "assets/generated/g-kids.jpg",
+      "alt": "A smiling child trying on colourful glasses in warm window light",
+      "usedFor": [
+        "eye exams / pediatric hero and menu card"
+      ],
+      "prompt": "A joyful seven-year-old child with a big natural smile trying on colourful kids' eyeglasses with bright playful frames, warm golden window light falling across the face in an otherwise dark room, a gentle teal glow on the shadow side, candid happy moment, generic child model; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-IRIS",
+      "role": "band",
+      "file": "assets/generated/g-iris.jpg",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "Extreme close-up of an eye with an amber-brown iris",
+      "usedFor": [
+        "blog post heroes",
+        "iris motif band"
+      ],
+      "prompt": "Extreme macro photograph of a single human eye with a rich amber-brown iris full of fine radial fibres and texture, a crisp ring-light reflection in the cornea, long natural lashes, the surrounding skin sinking into deep shadow, a faint teal reflection on the edge of the cornea, the eye centred in a wide frame; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-LIBRARY",
+      "role": "section",
+      "file": "assets/generated/g-library.jpg",
+      "alt": "Reading glasses resting on an open book under a desk lamp",
+      "usedFor": [
+        "your-eye-health library hero and menu card"
+      ],
+      "prompt": "An open hardcover book lying on a dark wooden desk with a pair of folded reading glasses resting on its pages, lit by a single warm brass desk lamp from the side in a dark study, the pages plain blank cream paper with no printing at all, seen at a low grazing angle and softly out of focus, the room dissolving into darkness; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-SENIOR",
+      "role": "section",
+      "file": "assets/generated/g-senior.jpg",
+      "alt": "A smiling older adult wearing reading glasses in window light",
+      "usedFor": [
+        "vision over 40 / over 60 hero and menu card"
+      ],
+      "prompt": "Portrait of a smiling older adult in their sixties with silver hair, wearing modern thin-rimmed reading glasses, warm natural window light sculpting one side of the face, the other side falling into soft shadow with a faint teal rim light, relaxed and content expression, generic model; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-SCREEN",
+      "role": "section",
+      "file": "assets/generated/g-screen.jpg",
+      "alt": "A young professional in clear computer glasses lit by a screen glow at night",
+      "usedFor": [
+        "computer eyestrain / blue light hero and menu card"
+      ],
+      "prompt": "A young professional working late at night, their face lit by the cool teal glow of a laptop screen that stays out of frame, wearing clear computer glasses with a soft reflection of the screen glow on the lenses, a warm amber desk lamp glowing behind them on the other side, focused calm expression, dark room, the screen itself not visible; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-SUN",
+      "role": "section",
+      "file": "assets/generated/g-sun.jpg",
+      "alt": "Amber-lens sunglasses on dark stone in a beam of sunlight",
+      "usedFor": [
+        "sunglasses hero and menu card"
+      ],
+      "prompt": "A pair of stylish round sunglasses with amber gradient lenses and thin polished gold wire temples, resting on a dark slate stone surface, a hard beam of sunlight slicing across them and casting a long sharp shadow, the lenses glowing amber where the light passes through, the rest of the frame dark, every part of the frame plain and unmarked with no brand name; no text, no letters, no numbers, no logos, no watermark",
+      "rejectReason": "attempt 1 (archived in tmp/img/rejected/): pseudo-text printed on the inside of the left temple"
+    },
+    {
+      "id": "G-CARE",
+      "role": "section",
+      "file": "assets/generated/g-care.jpg",
+      "alt": "Hands polishing an eyeglass lens with a microfibre cloth",
+      "usedFor": [
+        "lens care / frames hero and menu card"
+      ],
+      "prompt": "Close-up of two hands gently polishing the lens of a pair of eyeglasses with a soft grey microfibre cloth, under a single warm spotlight from the upper left, the lens glinting, natural relaxed fingers, the background dark; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-DROP",
+      "role": "section",
+      "file": "assets/generated/g-drop.jpg",
+      "alt": "A water droplet splashing on a curved glass lens",
+      "usedFor": [
+        "eye conditions / dry eye hero and menu card"
+      ],
+      "prompt": "High-speed macro photograph of a single water droplet landing on a curved polished glass lens surface, a frozen crown splash with tiny beads suspended in the air, amber light refracted through the droplet and a teal reflection along the glass curve, black background; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-LIGHT",
+      "role": "band",
+      "file": "assets/generated/g-light.jpg",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "",
+      "usedFor": [
+        "contact / forms / insurance / location heroes",
+        "Higgsfield source for V-LIGHT"
+      ],
+      "prompt": "Abstract photograph of warm amber and cool teal light caustics and soft round bokeh, ribbons of refracted light cast by unseen curved glass drifting across a mostly dark frame, dreamy and minimal, no objects, no people; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "G-TEAM-BG",
+      "role": "band",
+      "file": "assets/generated/g-team-bg.jpg",
+      "input": {
+        "aspect_ratio": "16:9"
+      },
+      "alt": "",
+      "usedFor": [
+        "doctors / staff / about backgrounds"
+      ],
+      "prompt": "Abstract background, a soft pool of warm amber spotlight on a dark textured plaster wall, the light falling off into deep warm black towards the edges, a soft teal glow along one edge, subtle plaster texture, empty wall, no people, no objects; no text, no letters, no numbers, no logos, no watermark"
+    },
+    {
+      "id": "CUT-FRAMES",
+      "role": "cutout",
+      "cutout": true,
+      "file": "assets/generated/cut-frames.png",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "front-plane protruding cut-out across section seams (home hero, eyeglasses sections)"
+      ],
+      "styleNote": "generated from tmp/img/plan-cutouts.json (light-grey product style, not defaults.style)",
+      "prompt": "Studio product photograph of one pair of modern black-and-tortoiseshell acetate eyeglasses, three-quarter view, centred with generous empty space around them, isolated on a plain light grey seamless background, soft even studio light, crisp clean edges, clear lenses with subtle reflections, plain smooth temples without any markings; no text, no letters, no numbers, no logos, no watermark",
+      "rejectReason": "attempt 2 (archived in tmp/img/rejected/): pseudo-text on the inside of both temples; attempt 1 (a clean front view, not the three-quarter view asked for) restored as the slot file"
+    },
+    {
+      "id": "CUT-SUNGLASSES",
+      "role": "cutout",
+      "cutout": true,
+      "file": "assets/generated/cut-sunglasses.png",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "front-plane protruding cut-out across section seams (sunglasses sections, home)"
+      ],
+      "styleNote": "generated from tmp/img/plan-cutouts.json (light-grey product style, not defaults.style)",
+      "prompt": "Studio product photograph of one pair of round metal-frame sunglasses with amber gradient lenses and thin polished gold wire temples, angled three-quarter view from the front left, centred with generous empty space around them, isolated on a plain light grey seamless background, soft even studio light, crisp clean edges, both lenses clear of any mark, every part of the frame plain and unmarked with no brand name; no text, no letters, no numbers, no logos, no watermark",
+      "rejectReason": "attempt 1: a pseudo-logo mark etched in the corner of the left lens; attempt 2: a gold emblem printed on the far temple, visible through the left lens (both archived in tmp/img/rejected/)"
+    },
+    {
+      "id": "V-HERO",
+      "kind": "video",
+      "optional": true,
+      "alt": "",
+      "usedFor": [
+        "home hero background loop (from G-HERO-HOME)"
+      ],
+      "video": {
+        "mp4": "assets/generated/video/v-hero.mp4",
+        "webm": "assets/generated/video/v-hero.webm",
+        "mp4Phone": "assets/generated/video/v-hero-phone.mp4",
+        "poster": "assets/generated/video/v-hero-poster.webp"
+      }
+    },
+    {
+      "id": "V-LIGHT",
+      "kind": "video",
+      "optional": true,
+      "alt": "",
+      "usedFor": [
+        "contact / forms / location band loop (from G-LIGHT)"
+      ],
+      "video": {
+        "mp4": "assets/generated/video/v-light.mp4",
+        "webm": "assets/generated/video/v-light.webm",
+        "poster": "assets/generated/video/v-light-poster.webp"
+      }
+    }
+  ]
+}

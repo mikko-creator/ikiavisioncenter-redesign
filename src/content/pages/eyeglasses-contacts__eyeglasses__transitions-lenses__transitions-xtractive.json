@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Transitions® Lenses XTRActive",
+ "h1": "Transitions® Lenses XTRActive",
+ "head": {
+  "title": "Transitions® Lenses XTRActive",
+  "description": "Slight indoor tint, darkest everyday Transitions® Lenses lens for those who spend most of the day outdoors.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Transitions® Lenses XTRActive",
+   "og:description": "Slight indoor tint, darkest everyday Transitions® Lenses lens for those who spend most of the day outdoors.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+   "twitter:card": "summary",
+   "twitter:title": "Transitions® Lenses XTRActive",
+   "twitter:description": "Slight indoor tint, darkest everyday Transitions® Lenses lens for those who spend most of the day outdoors.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/",
+    "name": "Transitions® Lenses XTRActive",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/product_images/Transitions/transitions-groupshot.jpg\" alt=\"Group of people in sunglasses\">If you spend more of your day outdoors than indoors or enjoy a lens with a slight tint indoors, then Transitions® Lenses XTRActive™ lenses may be right for you. Transitions® Lenses XTRActive lenses are the darkest everyday photochromic lens–even in warm weather—and have a moderate tint behind the windshield.</p><ul><li>Lenses change from light tint indoors to very dark outdoors</li><li>Designed for those who spend most of their day outdoors</li><li>The darkest everyday Transitions® Lenses available – even in warm weather</li><li>Moderate tint behind the windshield</li><li>Blocks 100% of the sun’s harmful UVA &amp; UVB rays</li><li>Available for most frames and with non-glare treatments.</li></ul><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__transitions-lenses__transitions-xtractive",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Transitions® Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/"
+  },
+  {
+   "name": "Transitions® Lenses XTRActive",
+   "path": "/eyeglasses-contacts/eyeglasses/transitions-lenses/transitions-xtractive/"
+  }
+ ],
+ "children": []
+}

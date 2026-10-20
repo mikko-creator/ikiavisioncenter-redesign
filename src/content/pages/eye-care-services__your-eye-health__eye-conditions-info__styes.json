@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Styes",
+ "h1": "Styes",
+ "head": {
+  "title": "Styes",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Styes",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+   "twitter:card": "summary",
+   "twitter:title": "Styes",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/styes/",
+    "name": "Styes",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>A stye (known by eye doctors as a hordeolum) is an infection of an oil gland which forms a pimple-like bump on the base of the eyelid or within the eyelid itself. Sytes can be uncomfortable, causing swelling, pain, redness, discomfort, and sometimes excessive tearing. If the stye is large and it distorts the front surface of the eyes, it can cause blurred vision.</p><h2>What causes a stye?</h2><p>The oil glands on the eyelid sometimes become blocked with dirt, dead skin, or a buildup of oil. When this occurs, bacteria can grow inside. Blockage is also commonly from eye cosmetics that block the orifices within the lid. This blockage causes the gland to become infected and inflamed, resulting in a stye. A stye can form on the inside or the outside of the eyelid and can cause swelling around the eye, sometimes affecting the entire eyelid.</p><h3>Treating a stye</h3><p>Styes are treated with antibiotics, often in moderate and severe cases with a prescription for oral antibiotics to reduce the bacteria responsible for the infection. Treatment for a stye is recommended otherwise there is a likelihood of recurrence. Applying a hot compress to the eye for 10-15 minutes a few times throughout the day will bring some relief and speed up the healing process.</p><p>Similar to a pimple, the stye will likely rupture, drain and heal on its own. Occasionally a stye, especially one on the inside of the eyelid will not resolve itself and may require the assistance of an eye doctor for additional treatment. In such a case the stye is surgically opened and drained to reduce the swelling and cosmetic issues associated with the style.</p><p>You should never pop a stye! This can cause the bacteria to spread and worsen the infection. The infection can then spread around the top and bottom eyelids and even reach the brain. If a stye is getting worse, painful, or irritated, contact your eye doctor for treatment.</p><p>In cases where styes occur frequently, your eye doctor may decide to prescribe topical antibiotic ointment or a cleansing regimen to prevent recurrence.</p><h3>Chalazia: Another type of bump on the eyelid</h3><p>Similar to a stye, a chalazion is a blocked oil gland on the eyelid that becomes enlarged. The main difference between a chalazion and stye is that the chalazion is usually non-infectious. A chalazion in most occasions is an old hordeolum that did not resolve. Treatment involves lid hygiene, warm compresses, and lid massage. In most cases, a chalazion requires surgical removal.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__styes",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Styes",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/styes/"
+  }
+ ],
+ "children": []
+}

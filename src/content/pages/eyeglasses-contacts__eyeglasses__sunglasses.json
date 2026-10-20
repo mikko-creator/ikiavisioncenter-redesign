@@ -1,0 +1,167 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/sunglasses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Sunglasses",
+ "h1": "Sunglasses",
+ "head": {
+  "title": "Sunglasses",
+  "description": "Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced vision, while helping you look great.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Sunglasses",
+   "og:description": "Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced vision, while helping you look great.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-designer.jpg",
+   "og:featured_image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-designer.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+   "twitter:card": "summary",
+   "twitter:title": "Sunglasses",
+   "twitter:description": "Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced vision, while helping you look great.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/01/Thumbnail-designer.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/sunglasses/",
+    "name": "Sunglasses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/images/new-default-images/Thumbnail-designer-300x200.jpg\" alt=\"Thumbnail designer\">Whether or not you require vision correction, sunglasses can add an element of comfort and enhanced performance to your activities, while helping you look great.</p><p><a href=\"/eyeglasses-contacts/designer-frames/\">Browse some of the designer eyewear brands we carry!</a></p>"
+        },
+        {
+         "t": "childpages",
+         "items": [
+          {
+           "title": "Nonprescription Sunglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+           "summary": "Think fashion and function when choosing the right shades for you.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Prescription Sunglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+           "summary": "Prescription sunglasses will allow you to enjoy (and see!) your time outdoors, hassle-free.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Sunglasses for Kids",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/",
+           "summary": "Because children spend so much time outdoors in direct sunlight, they need sun protection even more than adults.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Prescription Sunglass Treatments",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+           "summary": "Pamper your eyes while in the sun, driving or playing at the beach—all the while delivering the vision correction you need in a second pair of glasses.",
+           "image": null,
+           "imageAlt": ""
+          },
+          {
+           "title": "Performance and Sport Sunglasses",
+           "href": "/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+           "summary": "Activity-specific lenses can enhance whatever activities you enjoy.",
+           "image": null,
+           "imageAlt": ""
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__sunglasses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Sunglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/"
+  }
+ ],
+ "children": [
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/nonprescription-sunglasses/",
+   "title": "Nonprescription Sunglasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/performance-and-sport-sunglasses/",
+   "title": "Performance and Sport Sunglasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglass-treatments/",
+   "title": "Prescription Sunglass Treatments"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/prescription-sunglasses/",
+   "title": "Prescription Sunglasses"
+  },
+  {
+   "path": "/eyeglasses-contacts/eyeglasses/sunglasses/sunglasses-for-kids/",
+   "title": "Sunglasses for Kids"
+  }
+ ]
+}

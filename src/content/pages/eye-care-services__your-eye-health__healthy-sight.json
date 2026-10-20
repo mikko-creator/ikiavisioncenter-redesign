@@ -1,0 +1,105 @@
+{
+ "path": "/eye-care-services/your-eye-health/healthy-sight/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Healthy Sight",
+ "h1": "Healthy Sight",
+ "head": {
+  "title": "Healthy Sight",
+  "description": "What do you need to do for healthy eyes? Read some tips and information about healthy eye sight. From what you eat to lighting, keep your eyes healthy.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Healthy Sight",
+   "og:description": "What do you need to do for healthy eyes? Read some tips and information about healthy eye sight. From what you eat to lighting, keep your eyes healthy.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+   "twitter:card": "summary",
+   "twitter:title": "Healthy Sight",
+   "twitter:description": "What do you need to do for healthy eyes? Read some tips and information about healthy eye sight. From what you eat to lighting, keep your eyes healthy.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/healthy-sight/",
+    "name": "Healthy Sight",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>When we’re talking about healthy sight, we’re really talking about the immediate, short and long-term care and protection of your vision—the sense that provides you with a unique and personal view of the world. So much of what we learn, what we experience, and what we enjoy comes to us through our eyes.</p><p>Healthy Sight isn’t a slogan; it’s a way of life that enhances your everyday vision while preserving the well being of your eyes. It means getting regular checkups. <strong>Eye health</strong> means wearing the correct prescription if corrective lenses or contacts are needed. It means knowing how to protect your eyes from glare, from the sun’s harmful UV rays, from the hazards of extreme activities. Having <strong>healthy eyes</strong> understanding how lifestyle, diet and personal habits can affect the way you see—today and tomorrow.</p><p>Healthy sight means protecting your children’s vision as well.</p><h2>Healthy body. Healthy habits. Healthy eyes. Healthy sight.</h2><p>Your eyes are a part of your body. Some of the same healthy habits that protect your general health also promote <strong>healthy eyesight</strong>:</p><ul><li>Eating a balanced diet rich in fiber, fruits and vegetables</li><li>Drinking water to hydrate your body and your eyes</li><li>Not smoking, and avoiding long-term smoke exposure</li><li>Wearing ultraviolet (UV) protection</li><li>Considering appropriate vitamin supplements</li></ul><p>Antioxidants such as vitamins C and E and carotenoids such as Lutein and Zeaxanthin have shown some promise in research studies at reducing the risk and progression of cataracts and age-related macular degeneration (AMD).</p><h2>Additional Eye Health Reminders</h2><p>Research shows a surprising number of healthy sight habits go overlooked, like fully treating diagnosed eye problems with proper medication when prescribed. That means following the directions to the letter until the medicine is gone.</p><p>Also remember to share any current medication prescription information with your eye doctor, as there may be unwanted visual side effects when mixing eye medicine with other prescriptions.</p><p>You’d be surprised how many of us admit to working in low light or poor lighting situations—be sure to utilize proper, even lighting when reading or doing work that requires concentration. And adjust your computer screen lighting to fit your environment.</p><p>Both glare and UV radiation present particular visual hazards and dangers. Take the time to understand how to minimize both, with protective lenses or lens products that have glare reduction and 100% UV blockage built-in.</p><p>There’s more—much more—to consider if you truly wish to commit to healthy sight. Considerations you’ll find completely explained throughout the EyeGlass Guide.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__healthy-sight",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Healthy Sight",
+   "path": "/eye-care-services/your-eye-health/healthy-sight/"
+  }
+ ],
+ "children": []
+}

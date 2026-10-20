@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "LASIK – How to Measure Success or Applicability",
+ "h1": "LASIK – How to Measure Success or Applicability",
+ "head": {
+  "title": "LASIK – How to Measure Success or Applicability",
+  "description": "Basic questions you should ask yourself and your optometrist before having LASIK eye surgery. We can help guide you through surgery and post-op.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "LASIK – How to Measure Success or Applicability",
+   "og:description": "Basic questions you should ask yourself and your optometrist before having LASIK eye surgery. We can help guide you through surgery and post-op.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+   "twitter:card": "summary",
+   "twitter:title": "LASIK – How to Measure Success or Applicability",
+   "twitter:description": "Basic questions you should ask yourself and your optometrist before having LASIK eye surgery. We can help guide you through surgery and post-op.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/",
+    "name": "LASIK &#8211; How to Measure Success or Applicability",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Is laser eye surgery for everyone?</p><p><strong>Below are some guidelines to help you decide if LASIK is a good choice for you.</strong></p><ul><li>Vision stability: Young adults often experience annual changes in their prescription for eyeglasses or contact lenses. A 12-month period of maintaining the same prescription is highly recommended prior to LASIK. Otherwise there is a considerable risk of requiring repeated LASIK surgery in the future.</li></ul><ul><li>Healthy Eyes: Problems, diseases or conditions related to your eyes could cause increased risks to both the actual surgery and the healing process. If you have a condition that can be treated such as dry eyes, pink eye (conjunctivitis) or any eye injury speak to your doctor. It is probably best to wait until the condition is resolved to schedule your LASIK surgery. Conditions like cataracts, glaucoma, and other more serious conditions may disqualify you from LASIK altogether.</li></ul><ul><li>Age: 21 is the minimum age of consent for LASIK. Younger patients may be able to get special exemptions based on certain circumstances.</li></ul><ul><li>Vision prescription range: A very high degree of myopia may require removal of too much corneal tissue. This may exclude your candidacy for LASIK or make another refractive surgery a better option. For example, many surgeons conclude that a phakic IOL procedure provides better results and possesses less risk than LASIK for nearsighted prescriptions higher than -9.00 diopters.</li></ul><ul><li>Pregnancy: Normal hormonal changes of pregnancy may cause swelling of the cornea which can alter vision. Dry eye is also common during pregnancy. Additionally, medications (antibiotics or steroids) which are administered for LASIK could cause risk to the embryo or nursing infant. It is recommended to delay LASIK for several months after childbirth until the eyes stabilize and risks are reduced.</li></ul><ul><li>Systemic and autoimmune diseases such as rheumatoid arthritis, type 1 diabetes, HIV or AIDS may disqualify or delay candidacy for LASIK. If your body has trouble healing, your cornea may not heal properly after LASIK surgery. Opinions vary among professionals as far as which diseases automatically disqualify and which ones pose acceptable risks. Discuss this in depth with your doctor if applicable.</li></ul>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-surgery__lasik-criteria-for-success",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  },
+  {
+   "name": "LASIK – How to Measure Success or Applicability",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/lasik-criteria-for-success/"
+  }
+ ],
+ "children": []
+}

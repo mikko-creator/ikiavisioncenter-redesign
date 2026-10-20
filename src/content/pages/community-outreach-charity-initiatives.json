@@ -1,0 +1,89 @@
+{
+ "path": "/community-outreach-charity-initiatives/",
+ "url": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+ "kind": "page",
+ "section": "community-outreach-charity-initiatives",
+ "title": "Community Outreach & Charity Initiatives",
+ "h1": "Community Outreach & Charity Initiatives",
+ "head": {
+  "title": "Community Outreach & Charity Initiatives",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Community Outreach & Charity Initiatives",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+   "twitter:card": "summary",
+   "twitter:title": "Community Outreach & Charity Initiatives",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+    "url": "https://www.ikiavisioncenter.com/community-outreach-charity-initiatives/",
+    "name": "Community Outreach &#038; Charity Initiatives",
+    "datePublished": "2019-12-12T00:48:21-04:00",
+    "dateModified": "2019-12-12T00:52:12-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>At <strong>I-Kia Vision Center, </strong>we believe strongly in giving back to the community and caring for the eyes of all those in need. Outreach programs represent an opportunity to show the community the level of commitment our optometrists have to their community. The staff also plays an important role in community outreach. Our office participates in <strong>Medical Mission trips</strong> as well as other charitable services.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "community-outreach-charity-initiatives",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Community Outreach & Charity Initiatives",
+   "path": "/community-outreach-charity-initiatives/"
+  }
+ ],
+ "children": []
+}

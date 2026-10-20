@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Farsighted (Hyperopia)",
+ "h1": "Farsighted (Hyperopia)",
+ "head": {
+  "title": "Farsighted (Hyperopia)",
+  "description": "Farsightedness can be easily corrected by your optometrist. If you suffer from farsightedness make sure to have yearly eye exams. Read more details here.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Farsighted (Hyperopia)",
+   "og:description": "Farsightedness can be easily corrected by your optometrist. If you suffer from farsightedness make sure to have yearly eye exams. Read more details here.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+   "twitter:card": "summary",
+   "twitter:title": "Farsighted (Hyperopia)",
+   "twitter:description": "Farsightedness can be easily corrected by your optometrist. If you suffer from farsightedness make sure to have yearly eye exams. Read more details here.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/",
+    "name": "Farsighted (Hyperopia)",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Farsightedness or hyperopia is a refractive error in which distant objects are clear, while close objects appear blurry. A refractive error occurs when the eye is not able to refract (or bend) the light that comes in into a single point of focus, therefore not allowing images to be seen clearly. Nearsightedness, farsightedness and astigmatism are the most common types of refractive error.</p><p><strong>What Causes Hyperopia?</strong></p><p>Hyperopia is usually caused when the shape of the eye is shortened or the cornea (which is the clear front surface of the eye) is flatter than normal. This prevents light that enters the eye from focusing properly on the retina, and rather focuses behind it. This condition causes close objects to appear blurry, while typically objects at a distance remain clear.</p><p>Farsightedness, which is less common than nearsightedness, is often an inherited condition. It is common in children who experience some amount of hyperopia during development which they will eventually grow out of as the eye continues to grow and lengthen. Sometimes these children don’t even have symptoms as their eyes are able to accommodate to make up for the error.</p><p><strong>Symptoms of Hyperopia</strong></p><p>Symptoms of hyperopia vary. As mentioned, sometimes people with hyperopia don’t experience any symptoms while others will experience severe vision difficulties. In addition to blurred near vision, often squinting, eye strain and headaches will occur when focusing on near objects.</p><p><strong>Treatment for Farsightedness</strong></p><p>Farsightedness is easily treated with prescription eyeglasses or contact lenses. These lenses, will correct for the refractive error by changing the way the light bends upon entering the eyes. Refractive eye surgeries such as LASIK or PRK that reshape the cornea may also be options for vision correction. Treatment for farsightedness depends on a number of factors including your age, lifestyle, eye health and overall health.</p><p><strong>Farsightedness vs. Presbyopia</strong></p><p>Farsightedness is not the same as presbyopia, an age-related condition that also affects one’s ability to see near objects clearly. Presbyopia is caused when the natural lens of the eye begins to age and stiffens, causing difficulty focusing.</p><p>Farsightedness or hyperopia is a common refractive error that is easily treated. If you are experiencing difficulty seeing close objects it’s worth having an eye exam to determine the cause, ensure your eyes are healthy and to find a solution to improve your vision and quality of life.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__farsighted-hyperopia",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Farsighted (Hyperopia)",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/farsighted-hyperopia/"
+  }
+ ],
+ "children": []
+}

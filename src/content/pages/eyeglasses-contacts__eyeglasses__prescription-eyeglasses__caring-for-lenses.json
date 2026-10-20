@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Caring for Lenses",
+ "h1": "Caring for Lenses",
+ "head": {
+  "title": "Caring for Lenses",
+  "description": "These lens care and maintenance tips will go a long way toward maintaining your healthy sight.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Caring for Lenses",
+   "og:description": "These lens care and maintenance tips will go a long way toward maintaining your healthy sight.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Caring for Lenses",
+   "twitter:description": "These lens care and maintenance tips will go a long way toward maintaining your healthy sight.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/",
+    "name": "Caring for Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>When it comes to prescription lens care, there’s a simple rule that, if followed, will virtually guarantee years of optimum performance from your glasses: If they’re not on your face, then keep your eyeglasses in a case.</p><p>Trouble is, no one really follows that simple rule, all of the time. (You know who you are.) If you, like so many of us, don’t always use a solid case to store your prescription glasses, then the following lens care and maintenance tips will go a long way toward maintaining your healthy sight.</p><h2>Cleaning glasses and protecting your lenses</h2><p>Keep it clean. Keep it simple. To wash your prescription eyeglass lenses, eye care professionals suggest you gently rub your lenses clean with your fingers using warm, soapy water. Rinse them, and then pat them dry with a clean, soft cloth. Many optical suppliers sell ultra-fine, machine-washable microfiber lens cleaning cloths that trap dirt and dust. Try to avoid rubbing prescription lenses with rags, facial tissues or paper towels, as they could scratch your lenses. And definitely avoid using household cleaners, acetone or soaps with cream—as chemicals may damage your frames.</p><h2>A strong case for storage</h2><p>Storing your lenses in a sturdy protective case whenever you are not wearing them will go a long way towards preventing scratches on your lenses. Proper storage also helps to keep prescription eyeglass lenses clean while protecting your valuable frames. Never place prescription glasses in a purse, pocket or bag unprotected.</p><h2>Let them down gently</h2><p>Okay. You don’t always use the case. If setting your prescription lenses on a table or desk, it’s best to close your frames first before laying them down. Always set them frame-side down to avoid scratching the lenses. The floor is never a good place to leave your glasses. And when in the bathroom, remember: A sink or vanity top puts your lenses in an unfavorable position. Spatters, sprays and cosmetic products can quickly soil lenses. What’s more, anti-reflective (AR) treatments can be damaged by hairsprays or perfume.</p><p>Keep glasses on your nose, not on your head. Prescription eyeglass lenses are designed to rest on your nose in front of your eyes; not on the top of your head. Frames can become misaligned in this manner, making even the cleanest of lenses less than effective if not positioned properly in front of the eye.</p><p>Special thanks to the EyeGlass Guide, for informational material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today! </a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__prescription-eyeglasses__caring-for-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  },
+  {
+   "name": "Caring for Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/caring-for-lenses/"
+  }
+ ],
+ "children": []
+}

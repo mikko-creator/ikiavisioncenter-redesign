@@ -1,0 +1,93 @@
+{
+ "path": "/what-is-a-stye-anyway-2016/",
+ "url": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+ "kind": "post",
+ "section": "what-is-a-stye-anyway-2016",
+ "title": "What is a stye anyway?",
+ "h1": "What is a stye anyway?",
+ "head": {
+  "title": "What is a stye anyway?",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+  "robots": "noindex",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "What is a stye anyway?",
+   "og:description": "",
+   "og:type": "article",
+   "og:image": "/clipart/people/clipart-032.jpg",
+   "og:url": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+   "twitter:card": "summary",
+   "twitter:title": "What is a stye anyway?",
+   "twitter:description": "",
+   "twitter:image": "/clipart/people/clipart-032.jpg"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+    "url": "https://www.ikiavisioncenter.com/what-is-a-stye-anyway-2016/",
+    "name": "What is a stye anyway?",
+    "datePublished": "2016-04-26T04:00:00-04:00",
+    "dateModified": "2016-04-26T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/people/clipart-032.jpg\" alt=\"\"></p><p>A stye (known by eye doctors as a hordeolum) is an infection of an oil gland which forms a pimple-like bump on the base of the eyelid or within the eyelid itself. Styes can be uncomfortable, causing swelling, pain, redness, discomfort and sometimes excessive tearing or blurred vision if it is large enough to distort the front surface of the eyes.</p><h2>What causes a stye?</h2><p>The oil glands on the eyelid sometimes become blocked with dirt, dead skin or a buildup of oil and when this happens, bacteria can grow inside. Blockage is also commonly from eye cosmetics that block the orifices within the lid. This blockage causes the gland to become infected and inflamed, resulting in a stye. A stye can form on the inside or the outside of the eyelid and can cause swelling around the eye, sometimes affecting the entire eyelid.</p><h2>Treating a stye</h2><p>Styes are treated with antibiotics, often in severe cases with a prescription for oral antibiotics, to reduce the bacteria responsible for the infection. Treatment for a stye is recommended otherwise there is a likelihood of recurrence. Applying a hot compress to the eye for 10-15 minutes a few times throughout the day will bring some relief and speed up the healing process.</p><p>Similar to a pimple, the stye will likely rupture, drain and heal on its own. Occasionally a stye, especially one on the inside of the eye will not resolve itself and may require the assistance of an eye doctor for additional treatment. In such a case the stye is surgically opened and drained to reduce the swelling and cosmetic issues associated with the style.</p><p>You should never pop a stye! This can cause the bacteria to spread and worsen the infection. If a stye is getting worse, more painful or irritated, contact your eye doctor for treatment.</p><p>In cases where styes occur frequently, your eye doctor may decide to prescribe topical antibiotic ointment or a cleansing regimen to prevent recurrence.</p><h2>Chalazia: Another type of bump on the eyelid</h2><p>Similar to a stye, a chalazion is a blocked oil gland on the eyelid that becomes enlarged. The main difference between a chalazion and stye is that the chalazion is non-infectious. Treatment involves lid hygiene, warm compresses and lid massage. If it is persistent, then surgical removal (incision and curettage) would be performed.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Apr 26, 2016",
+ "key": "what-is-a-stye-anyway-2016",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What is a stye anyway?",
+   "path": "/what-is-a-stye-anyway-2016/"
+  }
+ ],
+ "children": []
+}

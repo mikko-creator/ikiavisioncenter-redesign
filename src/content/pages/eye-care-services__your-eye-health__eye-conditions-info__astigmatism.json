@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Astigmatism",
+ "h1": "Astigmatism",
+ "head": {
+  "title": "Astigmatism",
+  "description": "What are the signs of an Astigmatism? Can it be treated? Is it common? For answers click here and read about this eye condition.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Astigmatism",
+   "og:description": "What are the signs of an Astigmatism? Can it be treated? Is it common? For answers click here and read about this eye condition.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+   "twitter:card": "summary",
+   "twitter:title": "Astigmatism",
+   "twitter:description": "What are the signs of an Astigmatism? Can it be treated? Is it common? For answers click here and read about this eye condition.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/",
+    "name": "Astigmatism",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Many people have never heard of astigmatism, although it is an extremely common eye condition.</p><p>Astigmatism is one type of refractive error. Nearsightedness and farsightedness are other types of refractive error. Refractive errors are not eye diseases. Refractive error is a result of and imperfection of the size and shape of the eye, which results in blurry or double vision.</p><p>If left untreated, astigmatism may cause eyestrain, headaches, and blurry vision. If you have astigmatism you may not see objects in the distance or near without some form of distortion.</p><h2>Symptoms of Astigmatism</h2><p>Small amounts of astigmatism can go unnoticed, however, you may be suffering from eye fatigue, eyestrain, and headaches.</p><p>Astigmatism is a condition that usually can develops early in childhood. According to a study from The Ohio State University School of Optometry, 28% of school age children suffer from astigmatism. Parents should be aware that their children might not notice that their vision is blurry, not understanding that this is not normal. Nevertheless, astigmatism should be treated because vision problems can lead to learning problems and in extracurricular activities. Make sure to have your child’s eyes examined at an eye doctor’s office at least once a year.</p><h3>Causes of Astigmatism</h3><p>Astigmatism is generally caused by a cornea with an irregular shape. The cornea is the front, clear layer of the eye. With astigmatism, the cornea is not round and spherical and is instead irregular having two curves instead of one curve. Astigmatism in some cases could also be caused by the lens located inside the eye that is irregular in shape.</p><p>Eyes with astigmatism distort the light that comes into the eyes because the cornea is irregularly shaped. This causes the light rays entering the eye to create two images in the back of the eye (because of the two curves), instead of one image. This is what causes the distortion in sight.</p><h3>Treatments for Astigmatism</h3><p>For most people, their astigmatism is fully corrected using prescription glasses or contact lenses. If you select contact lenses to correct your vision, soft contact lenses are the most common option. If for whatever reason soft contact lenses are not an option, rigid gas permeable (RGP or GP) are also a great choice. Rigid gas permeable lenses usually give the clearest vision but the adaptation process will be significantly longer. Another option are hybrid contact lenses. These contacts have a center made from a rigid gas permeable (RGP) lens and an outer ring made of soft contact lens material. This type of lens provides both excellent clarity and comfort. LASIK could be another option to correct astigmatism. LASIK usually only corrects low levels of astigmatism and some patients with higher levels of astigmatism might not be candidates.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__astigmatism",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Astigmatism",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/astigmatism/"
+  }
+ ],
+ "children": []
+}

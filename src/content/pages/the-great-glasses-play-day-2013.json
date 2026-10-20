@@ -1,0 +1,93 @@
+{
+ "path": "/the-great-glasses-play-day-2013/",
+ "url": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+ "kind": "post",
+ "section": "the-great-glasses-play-day-2013",
+ "title": "The Great Glasses Play Day 2013 Celebrate Glasses & More!",
+ "h1": "The Great Glasses Play Day 2013",
+ "head": {
+  "title": "The Great Glasses Play Day 2013 Celebrate Glasses & More!",
+  "description": "This event was created for parents and children who wear glasses or have other vision challenges to celebrate the positive aspects of wearing glasses.",
+  "canonical": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "The Great Glasses Play Day 2013",
+   "og:description": "This event was created for parents and children who wear glasses or have other vision challenges to celebrate the positive aspects of wearing glasses.",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+   "twitter:card": "summary",
+   "twitter:title": "The Great Glasses Play Day 2013 Celebrate Glasses & More!",
+   "twitter:description": "This event was created for parents and children who wear glasses or have other vision challenges to celebrate the positive aspects of wearing glasses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+    "url": "https://www.ikiavisioncenter.com/the-great-glasses-play-day-2013/",
+    "name": "The Great Glasses Play Day 2013",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>The first weekend of August (August 3rd and 4th) has been marked as the 2nd annual Great Glasses Play Day. The event, which first launched in 2012 was created for parents, eye care professionals, educators and children who wear glasses or have other vision challenges to celebrate and create awareness about the positive aspects of children wearing glasses. The event also aims to bring to light the importance of early vision health. The day will include parent organized meet ups that will take place online, as well as at parks and other locations around the United States and internationally.</p><p>The Great Glasses Play Day is a day to let children who have glasses enjoy all the amazing things their glasses allow them to do. It was initially conceived when Peeps Eyewear founder, Kristin Ellsworth, teamed up with Great Glasses Play Day co-sponsor Ann Zawistoski, the creator of Little Four Eyes, an online support community for parents of young children who wear glasses. Both women were inspired to create an event to show how proud they were of their children who adjusted to life with <a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">glasses</a>.</p><p>The day also serves to celebrate the unique style of children with glasses and how advances in eyewear allow them to see more clearly. Additionally, it is an opportunity to raise awareness of children's vision challenges and highlight how vital it is to give your child an eye exam at an early age, as well as follow up treatment of any issue identified.</p><p>Here are a few ways you can celebrate Great Glasses Play Day:</p><ul><li>Spread the word about the event, particularly to anyone you know who has children with glasses</li><li>Wear your own glasses or pick up a fun non-prescription frame to show your support and encourage your child as to how fun wearing glasses can be.</li><li>Read your child a positive book about children who wear glasses or make glasses for their toys and dolls.</li><li>Discuss or participate in an activity that was difficult for the child before she began wearing glasses and how that is now improved due to enhanced, clear and comfortable vision and the ability to concentrate, such as puzzles, word games and baseball.</li><li>Throw a glasses party on the day or make a glasses party when your child starts wearing glasses.</li><li>If you have a child with a vision problem, this is your chance to reach out to other parents and tell your story. Explain how you had your child's eyes examined and how correcting your child's vision made a significant, positive change in his life. This is the best way to help other parents understand how vital it is to take visual health seriously and to follow up on any referrals or instincts that something isn't right.</li></ul><p>The Great Glasses Play day is supported by the American Optometric Association, the Children's Eye Foundation and Prevent Blindness Wisconsin. Take part and help spread the word about children's eye health.</p><p>Learn more about how you can participate by checking out the <a href=\"http://greatglassesplayday.com/\" target=\"_blank\" rel=\"noopener\">Great Glasses Playday website</a>.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jul 31, 2013",
+ "key": "the-great-glasses-play-day-2013",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "The Great Glasses Play Day 2013",
+   "path": "/the-great-glasses-play-day-2013/"
+  }
+ ],
+ "children": []
+}

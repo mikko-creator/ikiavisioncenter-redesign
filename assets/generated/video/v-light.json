@@ -1,0 +1,36 @@
+{
+  "tool": "tools/make-loop.mjs",
+  "input": "tmp/hf/v-light-pingpong.mp4",
+  "inputDuration": 10.041667,
+  "fps": 24,
+  "fade": 0.5,
+  "loopDuration": 9.542,
+  "outputs": {
+    "assets/generated/video/v-light.mp4": 1334452,
+    "assets/generated/video/v-light.webm": 686183,
+    "assets/generated/video/v-light-poster.webp": 43992
+  },
+  "calmness": {
+    "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+    "frames": 457,
+    "max": 1.81924,
+    "p95": 1.16089,
+    "mean": 1.073,
+    "framesOver20": 0,
+    "seamChange": 1.81924
+  },
+  "aiLabel": "AI-generated abstract light motion from an AI-generated still, played forward then reversed (Higgsfield kling-video/v3.0-turbo/image-to-video). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Icare Clinic (ikiavisioncenter.com), its store, staff, customers, products or brands.",
+  "generatedAt": "2026-10-20T03:02:36.813Z",
+  "slot": "V-LIGHT",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (Higgsfield Kling image-to-video from an AI-generated fal still). Illustrative only: never footage of Icare Clinic (ikiavisioncenter.com), its office, staff or patients.",
+  "source": {
+    "still": "assets/generated/g-light.jpg (G-LIGHT)",
+    "endpoint": "kling-video/v3.0-turbo/image-to-video",
+    "requestId": "17b706c1-499e-4cf6-9141-1de17fd3df13",
+    "clip": "tmp/hf/v-light.mp4",
+    "clipSha256": "904f402bd8b226c815eb1877be5a7240159393ccf7f0b4def3e9a553e1f5b738",
+    "loopInput": "tmp/hf/v-light-pingpong.mp4",
+    "loopMethod": "clip played forward then reversed (ffmpeg reverse + concat), then tools/make-loop.mjs --fade 0.5: a plain crossfade of a push-in clip ghosted two faces for 1.5 s"
+  }
+}

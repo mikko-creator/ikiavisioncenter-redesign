@@ -1,0 +1,93 @@
+{
+ "path": "/understanding-the-eye-chart/",
+ "url": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+ "kind": "post",
+ "section": "understanding-the-eye-chart",
+ "title": "Some Information To Help You In Understanding the Eye Chart",
+ "h1": "Understanding the Eye Chart",
+ "head": {
+  "title": "Some Information To Help You In Understanding the Eye Chart",
+  "description": "Although there are variations of the Snellen chart used today, a traditional Snellen chart has eleven lines of block letters. Click here to learn more!",
+  "canonical": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Understanding the Eye Chart",
+   "og:description": "Although there are variations of the Snellen chart used today, a traditional Snellen chart has eleven lines of block letters. Click here to learn more!",
+   "og:type": "article",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+   "twitter:card": "summary",
+   "twitter:title": "Some Information To Help You In Understanding the Eye Chart",
+   "twitter:description": "Although there are variations of the Snellen chart used today, a traditional Snellen chart has eleven lines of block letters. Click here to learn more!",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+    "url": "https://www.ikiavisioncenter.com/understanding-the-eye-chart/",
+    "name": "Understanding the Eye Chart",
+    "datePublished": "1970-01-01T00:00:00-04:00",
+    "dateModified": "1970-01-01T00:00:00-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "What's New",
+   "path": "/whats-new/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p><img data-ref=\"https://static.ecpbuilder.com/clipart/eyecharts/eyechart.JPG\" alt=\"eyechart\"></p><p>Eye charts of different variations have become a standard in vision screenings and eye exams. One of the most familiar charts associated with vision is the Snellen eye chart, designed by Dutch ophthalmologist Hermann Snellen in 1862 to measure visual acuity- how well you can see at various distances.</p><p>Although there are variations of the Snellen chart used today, a traditional Snellen chart has eleven lines of block letters. The first line has one very large letter, which is one of several letters, for example E, H, or N. The following rows have increasing numbers of letters that become smaller in size as you read from the top to the bottom of the chart. The letters used on the chart are C, D, E, F, L, N, O, P, T, and Z.</p><p>When taking a <a href=\"http://www.universityoptometry.com/\" target=\"_blank\" rel=\"noopener\">vision exam</a>, one eye is covered and you are asked to read the letters of each row aloud beginning at the top of the chart. The smallest row that you can read correctly indicates the visual acuity in the eye being tested.</p><p>The chart is positioned at a distance of 20 feet in the United States or 6 meters in the rest of the world. The term 20/20 vision is used to indicate the clarity and sharpness of your vision measured at a distance of 20 feet. If you have 20/20 vision, you can see clearly at 20 feet objects that can normally be seen at that distance. If you have 20/40 vision, it means that you need to be as close as 20 feet to see what a person with normal vision can see at 40 feet. The largest letter on an eye chart often represents an acuity of 20/200 which is associated with the term \"legally blind.\"</p><p>You will be asked to read the letters one eye at a time. Some people can see well at a distance, but are unable to bring nearer objects into focus, while others can see items that are close, but cannot see them far away. By having you read the chart, your eye doctor is able to ascertain whether you have difficulty with distance vision and can determine which corrective lenses can be used to improve it. Near vision problems or other vision and eye health issues may not be detected with the Snellen eye chart alone, so a comprehensive eye exam is always recommended.</p><p>The next time you hop into the chair at your optometrists' office, you'll be able to understand why you have to read the letters on the chart in front of you and what the results mean for your vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": "Jun 30, 2013",
+ "key": "understanding-the-eye-chart",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Understanding the Eye Chart",
+   "path": "/understanding-the-eye-chart/"
+  }
+ ],
+ "children": []
+}

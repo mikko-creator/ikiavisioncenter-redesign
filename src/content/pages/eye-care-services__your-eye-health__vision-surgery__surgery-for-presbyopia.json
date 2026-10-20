@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Surgery for Presbyopia",
+ "h1": "Surgery for Presbyopia",
+ "head": {
+  "title": "Surgery for Presbyopia",
+  "description": "Do you think you need reading glasses? Over 40 and already had corrective surgery? We may be able to help. Call our offices to discuss Presbyopia.",
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Surgery for Presbyopia",
+   "og:description": "Do you think you need reading glasses? Over 40 and already had corrective surgery? We may be able to help. Call our offices to discuss Presbyopia.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+   "twitter:card": "summary",
+   "twitter:title": "Surgery for Presbyopia",
+   "twitter:description": "Do you think you need reading glasses? Over 40 and already had corrective surgery? We may be able to help. Call our offices to discuss Presbyopia.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/",
+    "name": "Surgery for Presbyopia",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Presbyopia is a common age-related condition in which near vision worsens due to the hardening of the lens of our eye. It causes people to have difficulty reading and performing other tasks that require sharp and focused close vision.</p><p>Symptoms begin around the age of 40 when you begin to see people with untreated presbyopia holding books, magazines, newspapers, and menus at arm’s length in order to focus properly and avoid eye strain. Other symptoms include headaches or fatigue when trying to focus on something at close range.</p><h2>Causes of Presbyopia</h2><p>During our youth, the lens of our eye and the muscles that control it are flexible and soft, allowing us to focus on close objects and shift focus from close to distant objects without difficulty. As the eye ages however, both the lens and the muscle fibers begin to harden, making near vision a greater challenge.</p><h2>Surgical Treatment for Presbyopia</h2><p>The most common form of treatment for presbyopia is wearing reading glasses, bifocals or progressive lenses. Bifocal and multifocals are also available in contact lenses for those who prefer to be glasses-free. A third option, however, is a number of surgical procedures that allow you the freedom of correcting your near vision without the use of glasses or contact lenses.</p><h3>LASIK</h3><h4>Monovision LASIK</h4><p>Monovision is a technique that began with presbyopia-correcting contact lenses designed for individuals with presbyopia and nearsightedness or astigmatism. Each eye gets a different lens power – one lens is used in the dominant eye to correct for distance vision and the other for near vision. The eyes adapt to the two lens powers by learning to use the appropriate eye for the necessary distance power. Monovision LASIK surgery is based on the same principle of correcting each eye for a different refractive power and has shown just as high if not higher success rates than the contact lens technique. Usually, patients will try out monovision with contacts first to ensure that it works and that the eyes adapt properly.</p><h4>PresbyLASIK</h4><p>PresbyLASIK is a procedure that is currently available in Canada and Europe and undergoing clinical trials in the United States. As opposed to monovision LASIK, this procedure is a multifocal alternative in which different rings of refractive power are created on the cornea, similar to multifocal lenses. This provides vision correction at all distances simultaneously.</p><h3>Conductive Keratoplasty (CK)</h3><p>Conductive Keratoplasty uses radio waves via a hand-held instrument to mold the corneal surface to improve near vision. The procedure can be done on one eye using the monovision principle and is a good solution for those that do not need vision correction for nearsightedness or astigmatism. The effects of CK, however are not permanent and the improvement in near vision will diminish over time.</p><h3>Corneal Inlays or Onlays</h3><p>Corneal inlays and onlays involve surgically implanting a small lens into the eye to increase focus and near vision. The distinction between inlays and onlays is in where the lens is placed on the eye.</p><h3>Refractive Lens Exchange</h3><p>In refractive lens exchange the eye’s hardened lens is replaced with an artificial lens called an intraocular lens (IOL) to provide multifocal vision. This surgery is similar to and often done in conjunction with cataract surgery.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__vision-surgery__surgery-for-presbyopia",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Vision Surgery",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/"
+  },
+  {
+   "name": "Surgery for Presbyopia",
+   "path": "/eye-care-services/your-eye-health/vision-surgery/surgery-for-presbyopia/"
+  }
+ ],
+ "children": []
+}

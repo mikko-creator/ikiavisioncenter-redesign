@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Polycarbonate Lenses",
+ "h1": "Polycarbonate Lenses",
+ "head": {
+  "title": "Polycarbonate Lenses",
+  "description": "Polycarbonate lenses are up to 10 times more impact resistant than regular plastic lenses.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Polycarbonate Lenses",
+   "og:description": "Polycarbonate lenses are up to 10 times more impact resistant than regular plastic lenses.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+   "twitter:card": "summary",
+   "twitter:title": "Polycarbonate Lenses",
+   "twitter:description": "Polycarbonate lenses are up to 10 times more impact resistant than regular plastic lenses.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/",
+    "name": "Polycarbonate Lenses",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>Polycarbonate lenses are high index lenses that are known primarily for their exceptional impact resistance and anti-scratch coating. If you or your children are always bumping, scratching or dropping your eyeglasses, this is the material for you. Up to 10 times more impact resistant than standard plastic eyeglass lenses, polycarbonate is a first-rate option for people with an active lifestyle. Developed in the 1970s, polycarbonate has been protecting eyes for quite a while.</p><p>Superb Eye Safety</p><p>If you regularly engage in sports or physical activity, these tough, durable lenses provide an extra degree of safety for your eyes. In fact, most protective eye gear and sports goggles are made from polycarbonate lenses, even when no vision prescription is needed. In addition, polycarbonate boasts built-in protection from the sun’s UV rays, making this an ideal lens material for time spent outdoors.</p><p>Lightweight</p><p>The refractive index of polycarbonate lenses is 1.59, which results in a lens that’s 20% to 25% thinner than common plastic lenses. Weighing in at 30% lighter than regular lenses, polycarbonate takes a load off the bridge of your nose!</p><p>Trivex Lenses</p><p>Developed in 2001, Trivex lenses are constructed from a newer plastic that shares many properties with polycarbonate. While also thin, scratch-resistant, highly impact-resistant and lightweight, Trivex lenses may be slightly thicker than polycarbonate lenses. For some vision prescriptions, they may provide a better visual clarity and more scratch resistance than polycarbonate lenses.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__prescription-eyeglasses__polycarbonate-lenses",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Prescription Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/"
+  },
+  {
+   "name": "Polycarbonate Lenses",
+   "path": "/eyeglasses-contacts/eyeglasses/prescription-eyeglasses/polycarbonate-lenses/"
+  }
+ ],
+ "children": []
+}

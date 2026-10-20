@@ -1,0 +1,113 @@
+{
+ "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+ "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+ "kind": "article",
+ "section": "eye-care-services",
+ "title": "Retinal Detachment",
+ "h1": "Retinal Detachment",
+ "head": {
+  "title": "Retinal Detachment",
+  "description": null,
+  "canonical": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+  "robots": "noindex,nofollow",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Retinal Detachment",
+   "og:description": "",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+   "twitter:card": "summary",
+   "twitter:title": "Retinal Detachment",
+   "twitter:description": "",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+    "url": "https://www.ikiavisioncenter.com/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/",
+    "name": "Retinal Detachment",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eye Care Services",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<p>A retinal detachment is a serious eye emergency in which the retina (the lining of the back of the eye) becomes separated and pulls away from the surrounding tissue. When the retina is out of place, the eye cannot properly process incoming light and if not fixed quickly, permanent vision loss can result.</p><p>The retina contains the light sensitive cells of the eye that convert light into neural impulses that communicate with the optic nerve and the brain, enabling visual processing. When the retinal cells become detached from the supportive tissue they no longer get the nourishment and support they need to function and in a relatively short period of time can suffer permanent damage.</p><p><strong>Signs and Symptoms</strong></p><p>A retinal detachment doesn’t hurt and can happen very suddenly with little warning. Signs that you may be experiencing this condition include sudden onset of floaters, spots, or flashes of light in the visual field. These symptoms may be accompanied by blurred vision, reduced peripheral or side vision and the sensation that there is a curtain coming down over your visual field from the top or side.</p><p><strong>Causes and Risk Factors</strong></p><p>Retinal detachment can be caused by an injury to the eye or face, as a result of diabetic retinopathy or very high nearsightedness (in which the retina is thinner than in normal eyes). It can also result from changes in the vitreous of the eye due to aging, eye or other systemic diseases or following an eye surgery.</p><p>Factors that put you at risk increased include:</p><ul><li>Age- a retinal detachment is more common in adults 50 and over</li><li>Diabetes or Sickle Cell</li><li>Extreme nearsightedness</li><li>Eye surgery (such as cataract removal)</li><li>Eye or face injury</li><li>Family history</li><li>Eye disease or inflammation</li></ul><p><strong>Treatment for Retinal Detachment</strong></p><p>Retinal detachment can be treated by a number of surgical procedures, the type of surgery depending upon the type and severity of the detachment. These procedures include:</p><p>Pneumatic retinopexy: In this procedure the doctor injects gas or silicone oil into the eye to push the retina back into place. This is usually done when the detachment is just started and is very mild in nature. The surgeon may then need to use other procedures to secure the retina into place such as photocoagulation which is a laser procedure or cryopexy which uses a frozen probe to reattach the tissue. While the gas will absorb into the body, the oil needs to be removed following the procedure.</p><p>Scleral buckling: This procedure involves indenting the outer surface of the eye toward the retina by attaching a soft piece of silicone around the sclera or white part of the eye. If necessary, this allows the surgeon to drain the fluids that have accumulated between the retina and the supportive tissue and then the retina is reattached using laser photocoagulation or cryopexy.</p><p>Vitrectomy: In this procedure the doctor removes the vitreous fluid in your eye which is the gel-like substance that may be causing the retina to detach. The retina can then be flattened using air, gas or oil. This procedure is often combined with scleral buckling as mentioned above.</p><p>Successful treatment for retinal detachment depends on a lot of factors including the severity of the detachment, the location and how quickly it was diagnosed and treated. Sometimes full vision is not restored. If you have risk factors for retinal detachment you should make sure that you get frequent eye exams and see your eye doctor immediately if you experience any changes in your vision.</p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eye-care-services__your-eye-health__eye-conditions-info__retinal-detachment",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "EYE CARE SERVICES FOR YOU",
+   "path": "/eye-care-services/"
+  },
+  {
+   "name": "Your Eye Health",
+   "path": "/eye-care-services/your-eye-health/"
+  },
+  {
+   "name": "Eye Conditions",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/"
+  },
+  {
+   "name": "Retinal Detachment",
+   "path": "/eye-care-services/your-eye-health/eye-conditions-info/retinal-detachment/"
+  }
+ ],
+ "children": []
+}

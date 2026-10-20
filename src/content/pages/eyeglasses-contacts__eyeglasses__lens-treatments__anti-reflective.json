@@ -1,0 +1,113 @@
+{
+ "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+ "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+ "kind": "article",
+ "section": "eyeglasses-contacts",
+ "title": "Anti-Reflective",
+ "h1": "Anti-Reflective",
+ "head": {
+  "title": "Anti-Reflective",
+  "description": "For fashion, comfort and clarity: Anti-reflective treatments make the lens nearly invisible & cut glare from headlights, computer screens & harsh lighting.",
+  "canonical": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+  "robots": "max-image-preview:large",
+  "og": {
+   "og:site_name": "Ike Ikechi, OD",
+   "og:title": "Anti-Reflective",
+   "og:description": "For fashion, comfort and clarity: Anti-reflective treatments make the lens nearly invisible & cut glare from headlights, computer screens & harsh lighting.",
+   "og:type": "website",
+   "og:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png",
+   "og:url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+   "twitter:card": "summary",
+   "twitter:title": "Anti-Reflective",
+   "twitter:description": "For fashion, comfort and clarity: Anti-reflective treatments make the lens nearly invisible & cut glare from headlights, computer screens & harsh lighting.",
+   "twitter:image": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+    "url": "https://www.ikiavisioncenter.com/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/",
+    "name": "Anti-Reflective",
+    "datePublished": "2019-12-11T00:13:13-04:00",
+    "dateModified": "2019-12-11T00:13:13-04:00"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Ike Ikechi, OD",
+    "url": "https://www.ikiavisioncenter.com",
+    "logo": "https://da4e1j5r7gw87.cloudfront.net/wp-content/uploads/sites/3016/2019/12/icare_logotransparent.png"
+   }
+  ]
+ },
+ "liveCrumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Eyeglasses & Contacts",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "Eyeglasses",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  }
+ ],
+ "hero": null,
+ "rows": [
+  {
+   "id": "content",
+   "vis": "all",
+   "bg": {
+    "kind": "none"
+   },
+   "groups": [
+    {
+     "cols": [
+      {
+       "w": 100,
+       "small": false,
+       "blocks": [
+        {
+         "t": "rich",
+         "html": "<h2><img data-ref=\"https://d3dhq28juvmj53.cloudfront.net/clipart/illustrations_and_diagrams/antireflective-large.jpg\" alt=\"anti-reflective\"></h2><p>More comfort. Better vision. Reduced glare from oncoming headlights. Greater cosmetic appeal. It might be hard to believe, but anti-reflective lenses can provide all of these benefits—as an add-on for any number of lens products. The same technology used to provide anti-reflective benefits to precision lenses in microscopes and cameras, is now available to enhance your healthy sight.<a href=\"/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-glare/\"></a></p><p>An anti-reflective treatment applied on the front and the back of prescription lenses greatly reduces the light reflected by the lens surfaces. As a result, your eyes appear clearer behind the lenses, vision is more defined, and glare from reflected objects—especially headlights at night—is virtually eliminated. Plus, if you have a high-powered “strong” prescription, anti-reflective coating makes your eyes appear more natural.</p><h2>How anti-reflective lenses works</h2><p>Carefully calibrated layers of metal oxides are applied to the front and the back of the lenses. Each of these layers is designed to block reflected light. That includes glare, annoying reflections, and the hazy “halos” you often see around lights at night.</p><p>Take special care to use only the cleaning agents recommended by your eye care professional, as anti-reflective treatments are delicate by design. They work well for sunglasses too—but as a general rule should only be applied to the back side of the lens to eliminate glare reflected around the sides of the frame.</p><h2>Learn More</h2><ul><li><a href=\"/your-eye-health/protecting-your-eyes/protecting-your-eyes-from-glare/\">Watch a short video about Anti-Reflective lens treatments. </a></li><li><a href=\"/your-eye-health/protecting-your-eyes/\">Read more about protecting your eyes.</a></li></ul><p>Special thanks to the EyeGlass Guide, for information material that aided in the creation of this website. <a href=\"http://ecp.eyeglassguide.com/\" target=\"_blank\" rel=\"noopener\">Visit the EyeGlass Guide today!</a></p>"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "date": null,
+ "key": "eyeglasses-contacts__eyeglasses__lens-treatments__anti-reflective",
+ "crumbs": [
+  {
+   "name": "Home",
+   "path": "/"
+  },
+  {
+   "name": "Quality Eyewear in Houston",
+   "path": "/eyeglasses-contacts/"
+  },
+  {
+   "name": "PLENTY OF CHOICE—EYEGLASSES",
+   "path": "/eyeglasses-contacts/eyeglasses/"
+  },
+  {
+   "name": "Lens Treatments",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/"
+  },
+  {
+   "name": "Anti-Reflective",
+   "path": "/eyeglasses-contacts/eyeglasses/lens-treatments/anti-reflective/"
+  }
+ ],
+ "children": []
+}
